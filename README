@@ -1,0 +1,55 @@
+# Chinook DB ETL Project
+
+This project aims to extract, transform, and load (ETL) data from the Chinook database to create Power BI reports.
+
+## Project Overview
+
+The Chinook database is a sample database that contains information about a digital media store. This project will involve the following steps:
+
+1. **Extract**: Retrieve data from the Chinook database.
+2. **Transform**: Clean and transform the data to make it suitable for analysis.
+3. **Load**: Load the transformed data into a format that can be used by Power BI for reporting.
+
+## Steps
+
+### 1. Extract
+
+- Connect to the Chinook database.
+- Extract relevant tables and data.
+
+### 2. Transform
+
+- Clean the data (e.g., handle missing values, correct data types).
+- Transform the data to create meaningful metrics and dimensions.
+
+### 3. Load
+
+- Load the transformed data into a format compatible with Power BI (e.g., CSV, Excel, or a database).
+
+## Tools and Technologies
+
+- **Database**: Chinook Database
+- **ETL Tool**: Python (pandas, SQLAlchemy)
+- **Reporting Tool**: Power BI
+
+## Getting Started
+
+1. Clone the repository.
+2. Set up the Chinook database.
+3. Run the ETL scripts to extract, transform, and load the data.
+4. Open Power BI and connect to the transformed data.
+5. Create and publish reports.
+
+## Repository Structure
+
+- `src/`: Contains the ETL scripts.
+- `data/`: Contains the extracted and transformed data.
+- `reports/`: Contains Power BI report files.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or issues, please contact [Your Name] at [Your Email].
