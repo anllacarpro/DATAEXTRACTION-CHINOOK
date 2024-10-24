@@ -1,0 +1,2241 @@
+first_name,last_name,email,invoice_date,total,quantity,unit_price,track_name
+Leonie,Köhler,leonekohler@surfeu.de,2021-01-01,1.98,1,0.99,Balls to the Wall
+Leonie,Köhler,leonekohler@surfeu.de,2021-01-01,1.98,1,0.99,Restless and Wild
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-01-02,3.96,1,0.99,Put The Finger On You
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-01-02,3.96,1,0.99,Inject The Venom
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-01-02,3.96,1,0.99,Evil Walks
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-01-02,3.96,1,0.99,Breaking The Rules
+Daan,Peeters,daan_peeters@apple.be,2021-01-03,5.94,1,0.99,Dog Eat Dog
+Daan,Peeters,daan_peeters@apple.be,2021-01-03,5.94,1,0.99,Overdose
+Daan,Peeters,daan_peeters@apple.be,2021-01-03,5.94,1,0.99,Love In An Elevator
+Daan,Peeters,daan_peeters@apple.be,2021-01-03,5.94,1,0.99,Janie's Got A Gun
+Daan,Peeters,daan_peeters@apple.be,2021-01-03,5.94,1,0.99,Deuces Are Wild
+Daan,Peeters,daan_peeters@apple.be,2021-01-03,5.94,1,0.99,Angel
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Right Through You
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Not The Doctor
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Bleed The Freak
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Confusion
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Por Causa De Você
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Angela
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Master Of Puppets
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Welcome Home (Sanitarium)
+Mark,Philips,mphilips12@shaw.ca,2021-01-06,8.91,1,0.99,Set It Off
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Your Time Has Come
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Dandelion
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Rock 'N' Roll Music
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Moon germs
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Super Terrorizer
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Heart Of Gold
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Evil Woman
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Cornucopia
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Bowels Of The Devil
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Body Count Anthem
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Jerusalem
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,When My Left Eye Jumps
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Meditação
+John,Gordon,johngordon22@yahoo.com,2021-01-11,13.86,1,0.99,Esse Cara
+Fynn,Zimmermann,fzimmermann@yahoo.de,2021-01-19,0.99,1,0.99,"Bye, Bye Brasil"
+Niklas,Schröder,nschroder@surfeu.de,2021-02-01,1.98,1,0.99,Atras Da Porta
+Niklas,Schröder,nschroder@surfeu.de,2021-02-01,1.98,1,0.99,Tatuagem
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-02-01,1.98,1,0.99,Morena De Angola
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-02-01,1.98,1,0.99,A Banda
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-02-02,3.96,1,0.99,Com Açúcar E Com Afeto
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-02-02,3.96,1,0.99,Meu Caro Amigo
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-02-02,3.96,1,0.99,Trocando Em Miúdos
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-02-02,3.96,1,0.99,Gota D'água
+Hugh,O'Reilly,hughoreilly@apple.ie,2021-02-03,5.94,1,0.99,Etnia
+Hugh,O'Reilly,hughoreilly@apple.ie,2021-02-03,5.94,1,0.99,Samba Do Lado
+Hugh,O'Reilly,hughoreilly@apple.ie,2021-02-03,5.94,1,0.99,Sobremesa
+Hugh,O'Reilly,hughoreilly@apple.ie,2021-02-03,5.94,1,0.99,Sangue De Bairro
+Hugh,O'Reilly,hughoreilly@apple.ie,2021-02-03,5.94,1,0.99,Amor De Muito
+Hugh,O'Reilly,hughoreilly@apple.ie,2021-02-03,5.94,1,0.99,Maracatu Atômico [Trip Hop]
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Samba Makossa
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Lixo Do Mangue
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Firmamento
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Já Foi
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,A Cor Do Sol
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Firmamento
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Sábado A Noite
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Linha Do Equador
+Emma,Jones,emma_jones@hotmail.com,2021-02-06,8.91,1,0.99,Livre Pra Viver
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Lavadeira
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Dazed and Confused
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,You Shook Me(2)
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Man With The Woman Head
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Leandro De Itaquera 2001
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Vôo Sobre o Horizonte
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,All Star
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Tanto Tempo
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Bumbo Da Mangueira
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Die Die My Darling
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Radio GA GA
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,I'm Going Slightly Mad
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,Sure Know Something
+Leonie,Köhler,leonekohler@surfeu.de,2021-02-11,13.86,1,0.99,God Of Thunder
+Frank,Harris,fharris@google.com,2021-02-19,0.99,1,0.99,Valentino's
+Jack,Smith,jacksmith@microsoft.com,2021-03-04,1.98,1,0.99,Believe
+Jack,Smith,jacksmith@microsoft.com,2021-03-04,1.98,1,0.99,As We Sleep
+Tim,Goyer,tgoyer@apple.com,2021-03-04,1.98,1,0.99,J Squared
+Tim,Goyer,tgoyer@apple.com,2021-03-04,1.98,1,0.99,Maria
+Kathy,Chase,kachase@hotmail.com,2021-03-05,3.96,1,0.99,Longview
+Kathy,Chase,kachase@hotmail.com,2021-03-05,3.96,1,0.99,Basket Case
+Kathy,Chase,kachase@hotmail.com,2021-03-05,3.96,1,0.99,She
+Kathy,Chase,kachase@hotmail.com,2021-03-05,3.96,1,0.99,Geek Stink Breath
+Victor,Stevens,vstevens@yahoo.com,2021-03-06,5.94,1,0.99,Stuck With Me
+Victor,Stevens,vstevens@yahoo.com,2021-03-06,5.94,1,0.99,Nice Guys Finish Last
+Victor,Stevens,vstevens@yahoo.com,2021-03-06,5.94,1,0.99,Macy's Day Parade
+Victor,Stevens,vstevens@yahoo.com,2021-03-06,5.94,1,0.99,Don't You Cry
+Victor,Stevens,vstevens@yahoo.com,2021-03-06,5.94,1,0.99,Living On Love
+Victor,Stevens,vstevens@yahoo.com,2021-03-06,5.94,1,0.99,Wherever You May Go
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,"Diga Lá, Coração"
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Comportamento Geral
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Podres Poderes
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Queixa
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Ando Meio Desligado
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Vida De Cachorro
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Meu Refrigerador Não Funciona
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Smoke On The Water
+Martha,Silk,marthasilk@gmail.com,2021-03-09,8.91,1,0.99,Trampled Under Foot
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,União Da Ilha
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Put Your Lights On
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Primavera
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Seis Da Tarde
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Compulsion
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,The Pan Piper
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Jean Pierre (Live)
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Drum Boogie
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Lemon Drop
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Showcase
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Como É Duro Trabalhar
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Pela Luz dos Olhos Teus (Miúcha e Tom Jobim)
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,As Rosas Não Falam (Beth Carvalho)
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-03-14,13.86,1,0.99,Green River
+Steve,Murray,steve.murray@yahoo.uk,2021-03-22,0.99,1,0.99,Someday Never Comes
+Mark,Taylor,mark.taylor@yahoo.au,2021-04-04,1.98,1,0.99,Walking On The Water
+Mark,Taylor,mark.taylor@yahoo.au,2021-04-04,1.98,1,0.99,"Suzie-Q, Pt. 2"
+Luis,Rojas,luisrojas@yahoo.cl,2021-04-04,1.98,1,0.99,Good Golly Miss Molly
+Luis,Rojas,luisrojas@yahoo.cl,2021-04-04,1.98,1,0.99,Wrote A Song For Everyone
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-04-05,3.96,1,0.99,Cotton Fields
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-04-05,3.96,1,0.99,Don't Look Now
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-04-05,3.96,1,0.99,Before You Accuse Me
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-04-05,3.96,1,0.99,Pagan Baby
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-04-06,5.94,1,0.99,Born To Move
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-04-06,5.94,1,0.99,Brasil
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-04-06,5.94,1,0.99,Coroné Antonio Bento
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-04-06,5.94,1,0.99,Música Urbana 2
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-04-06,5.94,1,0.99,Woman Of The World (Ao Vivo)
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-04-06,5.94,1,0.99,Smells Like Teen Spirit (Ao Vivo)
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,Admirável Gado Novo
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,Mis Penas Lloraba Yo (Ao Vivo) Soy Gitano (Tangos)
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,Drifter
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,Child In Time
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,No No No
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,Knocking At Your Back Door
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,The Unwritten Law
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,Maybe I'm A Leo
+Eduardo,Martins,eduardo@woodstock.com.br,2021-04-09,8.91,1,0.99,Vavoom : Ted The Mechanic
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Hey Cisco
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Fortuneteller
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,High Ball Shooter
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,A Twist In The Tail
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Animal
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Hysteria
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,"Baltimore, DC"
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Esquinas
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Açai
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Um Amor Puro
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Fascinação
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Sunshine Of Your Love
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Lay Down Sally
+Tim,Goyer,tgoyer@apple.com,2021-04-14,13.86,1,0.99,Tears In Heaven
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2021-04-22,0.99,1,0.99,Naked In Front Of The Computer
+João,Fernandes,jfernandes@yahoo.pt,2021-05-05,1.98,1,0.99,Helpless
+João,Fernandes,jfernandes@yahoo.pt,2021-05-05,1.98,1,0.99,Mouth To Mouth
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-05-05,1.98,1,0.99,She Loves Me Not
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-05-05,1.98,1,0.99,Paths Of Glory
+Niklas,Schröder,nschroder@surfeu.de,2021-05-06,3.96,1,0.99,Pristina
+Niklas,Schröder,nschroder@surfeu.de,2021-05-06,3.96,1,0.99,Caffeine
+Niklas,Schröder,nschroder@surfeu.de,2021-05-06,3.96,1,0.99,RV
+Niklas,Schröder,nschroder@surfeu.de,2021-05-06,3.96,1,0.99,Everything's Ruined
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-05-07,5.94,1,0.99,A Small Victory
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-05-07,5.94,1,0.99,Easy
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-05-07,5.94,1,0.99,The Gentle Art Of Making Enemies
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-05-07,5.94,1,0.99,Ugly In The Morning
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-05-07,5.94,1,0.99,What A Day
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-05-07,5.94,1,0.99,From Out Of Nowhere
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,Underwater Love
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,Falamansa Song
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,Avisa
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,Desaforo
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,The Last Song
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,What If I Do?
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,Virginia Moon
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,Times Like These
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2021-05-10,8.91,1,0.99,Burn Away
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,See You
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,I Get A Kick Out Of You
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Fly Me To The Moon
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Mack The Knife
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Funk Hum
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Forty Days Instrumental
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Pau-De-Arara
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Stir It Up (Live)
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,A Novidade (Live)
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Realce
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Aquele Abraço
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Re-Align
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Holiday
+Luis,Rojas,luisrojas@yahoo.cl,2021-05-15,13.86,1,0.99,Homecoming / The Death Of St. Jimmy / East 12th St. / Nobody Likes You / Rock And Roll Girlfriend / We're Coming Home Again
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2021-05-23,0.99,1,0.99,Right Next Door to Hell
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-06-05,1.98,1,0.99,Dust N' Bones
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-06-05,1.98,1,0.99,Live and Let Die
+Jennifer,Peterson,jenniferp@rogers.ca,2021-06-05,1.98,1,0.99,Perfect Crime
+Jennifer,Peterson,jenniferp@rogers.ca,2021-06-05,1.98,1,0.99,Bad Obsession
+Jack,Smith,jacksmith@microsoft.com,2021-06-06,3.96,1,0.99,Double Talkin' Jive
+Jack,Smith,jacksmith@microsoft.com,2021-06-06,3.96,1,0.99,The Garden
+Jack,Smith,jacksmith@microsoft.com,2021-06-06,3.96,1,0.99,Don't Damn Me
+Jack,Smith,jacksmith@microsoft.com,2021-06-06,3.96,1,0.99,Dead Horse
+Kathy,Chase,kachase@hotmail.com,2021-06-07,5.94,1,0.99,Yesterdays
+Kathy,Chase,kachase@hotmail.com,2021-06-07,5.94,1,0.99,Breakdown
+Kathy,Chase,kachase@hotmail.com,2021-06-07,5.94,1,0.99,Estranged
+Kathy,Chase,kachase@hotmail.com,2021-06-07,5.94,1,0.99,Colibri
+Kathy,Chase,kachase@hotmail.com,2021-06-07,5.94,1,0.99,L'Arc En Ciel De Miles
+Kathy,Chase,kachase@hotmail.com,2021-06-07,5.94,1,0.99,Millenium
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,These Colours Don't Run
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,For the Greater Good of God
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,Prowler
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,Run To The Hilss
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,Can I Play With Madness
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,Heaven Can Wait
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,Blood Brothers
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,The Thin Line Between Love & Hate
+Patrick,Gray,patrick.gray@aol.com,2021-06-10,8.91,1,0.99,Gates Of Tomorrow
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Fear Is The Key
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,01 - Prowler
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,The Ides Of March
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Drifter
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,The Number Of The Beast
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Phantom Of The Opera
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Afraid To Shoot Strangers
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,The Trooper
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Run Silent Run Deep
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Still Life
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Back in the Village
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,Blood Brothers
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,The Number Of The Beast
+Hannah,Schneider,hannah.schneider@yahoo.de,2021-06-15,13.86,1,0.99,The Prophecy
+Enrique,Muñoz,enrique_munoz@yahoo.es,2021-06-23,0.99,1,0.99,Hallowed Be Thy Name
+Joakim,Johansson,joakim.johansson@yahoo.se,2021-07-06,1.98,1,0.99,Invaders
+Joakim,Johansson,joakim.johansson@yahoo.se,2021-07-06,1.98,1,0.99,Run to the Hills
+Phil,Hughes,phil.hughes@gmail.com,2021-07-06,1.98,1,0.99,The Prisoner
+Phil,Hughes,phil.hughes@gmail.com,2021-07-06,1.98,1,0.99,Lord Of The Flies
+Mark,Taylor,mark.taylor@yahoo.au,2021-07-07,3.96,1,0.99,Fortunes Of War
+Mark,Taylor,mark.taylor@yahoo.au,2021-07-07,3.96,1,0.99,The Aftermath
+Mark,Taylor,mark.taylor@yahoo.au,2021-07-07,3.96,1,0.99,Blood On The World's Hands
+Mark,Taylor,mark.taylor@yahoo.au,2021-07-07,3.96,1,0.99,2 A.M.
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-07-08,5.94,1,0.99,Lightning Strikes Twice
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-07-08,5.94,1,0.99,Don't Look To The Eyes Of A Stranger
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-07-08,5.94,1,0.99,Night Train
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-07-08,5.94,1,0.99,It's A Man's Man's Man's World
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-07-08,5.94,1,0.99,Hey America
+Puja,Srivastava,puja_srivastava@yahoo.in,2021-07-08,5.94,1,0.99,Get Up Offa That Thing
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,When You Gonna Learn (Digeridoo)
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,"Whatever It Is, I Just Can't Stop"
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,Black Capricorn Day
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,Were Do We Go From Here
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,Light Years
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,Morning Glory
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,Get What You Need
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,Take It Or Leave It
+Helena,Holý,hholy@gmail.com,2021-07-11,8.91,1,0.99,Can You See Me
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Stone Free
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Satch Boogie
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Salve Simpatia
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Filho Maravilha
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Dance Enquanto é Tempo
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Voce Inteira
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Enquanto O Dia Não Vem
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Turbo Lover
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Plaster Caster
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Every Time I Look At You
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Dazed And Confused
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Walter's Walk
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,Dancing Days
+Jennifer,Peterson,jenniferp@rogers.ca,2021-07-16,13.86,1,0.99,All My Love
+Robert,Brown,robbrown@shaw.ca,2021-07-24,0.99,1,0.99,Your Time Is Gonna Come
+Edward,Francis,edfrancis@yachoo.ca,2021-08-06,1.98,1,0.99,Black Mountain Side
+Edward,Francis,edfrancis@yachoo.ca,2021-08-06,1.98,1,0.99,Communication Breakdown
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-08-06,1.98,1,0.99,How Many More Times
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-08-06,1.98,1,0.99,What Is And What Should Never Be
+João,Fernandes,jfernandes@yahoo.pt,2021-08-07,3.96,1,0.99,Thank You
+João,Fernandes,jfernandes@yahoo.pt,2021-08-07,3.96,1,0.99,Living Loving Maid (She's Just A Woman)
+João,Fernandes,jfernandes@yahoo.pt,2021-08-07,3.96,1,0.99,Moby Dick
+João,Fernandes,jfernandes@yahoo.pt,2021-08-07,3.96,1,0.99,Immigrant Song
+Niklas,Schröder,nschroder@surfeu.de,2021-08-08,5.94,1,0.99,Out On The Tiles
+Niklas,Schröder,nschroder@surfeu.de,2021-08-08,5.94,1,0.99,Bron-Y-Aur Stomp
+Niklas,Schröder,nschroder@surfeu.de,2021-08-08,5.94,1,0.99,Down By The Seaside
+Niklas,Schröder,nschroder@surfeu.de,2021-08-08,5.94,1,0.99,Boogie With Stu
+Niklas,Schröder,nschroder@surfeu.de,2021-08-08,5.94,1,0.99,For Your Life
+Niklas,Schröder,nschroder@surfeu.de,2021-08-08,5.94,1,0.99,Hots On For Nowhere
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Dazed And Confused
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,L'Avventura
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Soul Parsifal
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Quando Você Voltar
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Tempo Perdido
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Meninos E Meninas
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Are You Gonna Go My Way
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Mr. Cab Driver
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2021-08-11,8.91,1,0.99,Believe
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Condição
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Aquilo
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Assaltaram A Gramática
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Waterhole (Expresso Bongo)
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Tempos Modernos
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Dança Da Solidão
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,When I Had Your Love
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Save The Children
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Down by the Sea
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,The Unforgiven
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Helpless
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Stone Cold Crazy
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,Motorbreath
+Phil,Hughes,phil.hughes@gmail.com,2021-08-16,13.86,1,0.99,2 X 4
+Daan,Peeters,daan_peeters@apple.be,2021-08-24,0.99,1,0.99,Master Of Puppets
+Kara,Nielsen,kara.nielsen@jubii.dk,2021-09-06,1.98,1,0.99,The Thing That Should Not Be
+Kara,Nielsen,kara.nielsen@jubii.dk,2021-09-06,1.98,1,0.99,Welcome Home (Sanitarium)
+Alexandre,Rocha,alero@uol.com.br,2021-09-06,1.98,1,0.99,Leper Messiah
+Alexandre,Rocha,alero@uol.com.br,2021-09-06,1.98,1,0.99,Damage Inc.
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-09-07,3.96,1,0.99,The Memory Remains
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-09-07,3.96,1,0.99,The Unforgiven II
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-09-07,3.96,1,0.99,Slither
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-09-07,3.96,1,0.99,Bad Seed
+Jack,Smith,jacksmith@microsoft.com,2021-09-08,5.94,1,0.99,Attitude
+Jack,Smith,jacksmith@microsoft.com,2021-09-08,5.94,1,0.99,For Whom The Bell Tolls
+Jack,Smith,jacksmith@microsoft.com,2021-09-08,5.94,1,0.99,Creeping Death
+Jack,Smith,jacksmith@microsoft.com,2021-09-08,5.94,1,0.99,Some Kind Of Monster
+Jack,Smith,jacksmith@microsoft.com,2021-09-08,5.94,1,0.99,Shoot Me Again
+Jack,Smith,jacksmith@microsoft.com,2021-09-08,5.94,1,0.99,All Within My Hands
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,Harvester Of Sorrow
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,The Duke
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,Lament
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,Coração De Estudante
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,Menestrel Das Alagoas
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,"Maria, Maria"
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,Ponta de Areia
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,Norwegian Wood
+John,Gordon,johngordon22@yahoo.com,2021-09-11,8.91,1,0.99,Fast And Loose
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Please Don't Touch
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Já Foi
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Wild Side
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Primal Scream
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Been A Son
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Breed
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Territorial Pissings
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Folhas Secas
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Menino De Rua
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Denúncia
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,O Trem Da Juventude
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Selvagem
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Nebulosa Do Amor
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2021-09-16,13.86,1,0.99,Luis Inacio (300 Picaretas)
+Hugh,O'Reilly,hughoreilly@apple.ie,2021-09-24,0.99,1,0.99,Perplexo
+Lucas,Mancini,lucas.mancini@yahoo.it,2021-10-07,1.98,1,0.99,Me Liga
+Lucas,Mancini,lucas.mancini@yahoo.it,2021-10-07,1.98,1,0.99,Quase Um Segundo
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-10-07,1.98,1,0.99,Romance Ideal
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-10-07,1.98,1,0.99,SKA
+Joakim,Johansson,joakim.johansson@yahoo.se,2021-10-08,3.96,1,0.99,I Don't Know
+Joakim,Johansson,joakim.johansson@yahoo.se,2021-10-08,3.96,1,0.99,Flying High Again
+Joakim,Johansson,joakim.johansson@yahoo.se,2021-10-08,3.96,1,0.99,No More Tears
+Joakim,Johansson,joakim.johansson@yahoo.se,2021-10-08,3.96,1,0.99,Crazy Train
+Mark,Taylor,mark.taylor@yahoo.au,2021-10-09,5.94,1,0.99,Relvelation (Mother Earth)
+Mark,Taylor,mark.taylor@yahoo.au,2021-10-09,5.94,1,0.99,Children Of The Grave
+Mark,Taylor,mark.taylor@yahoo.au,2021-10-09,5.94,1,0.99,Dee
+Mark,Taylor,mark.taylor@yahoo.au,2021-10-09,5.94,1,0.99,Blue Train
+Mark,Taylor,mark.taylor@yahoo.au,2021-10-09,5.94,1,0.99,Walking Into Clarksdale
+Mark,Taylor,mark.taylor@yahoo.au,2021-10-09,5.94,1,0.99,Sons Of Freedom
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Beach Sequence
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Plot 180
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Murders In The Rue Morgue
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Iron Maiden
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Untitled
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Nothingman
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,World Wide Suicide
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Big Wave
+Leonie,Köhler,leonekohler@surfeu.de,2021-10-12,8.91,1,0.99,Can't Keep
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Green Disease
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Why Go
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Animal
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Leash
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Wanted Dread And Alive
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,The Great Gig In The Sky
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Bossa
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Nega Do Cabelo Duro
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,You're My Best Friend
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Seven Seas Of Rhye
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,"Get Down, Make Love"
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Get Up
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Untitled
+Alexandre,Rocha,alero@uol.com.br,2021-10-17,13.86,1,0.99,Be Mine
+Victor,Stevens,vstevens@yahoo.com,2021-10-25,0.99,1,0.99,Carnival Of Sorts
+Richard,Cunningham,ricunningham@hotmail.com,2021-11-07,1.98,1,0.99,Radio Free Aurope
+Richard,Cunningham,ricunningham@hotmail.com,2021-11-07,1.98,1,0.99,Perfect Circle
+Julia,Barnett,jubarnett@gmail.com,2021-11-07,1.98,1,0.99,So Central Rain
+Julia,Barnett,jubarnett@gmail.com,2021-11-07,1.98,1,0.99,Pretty Persuasion
+Edward,Francis,edfrancis@yachoo.ca,2021-11-08,3.96,1,0.99,Can't Get There From Here
+Edward,Francis,edfrancis@yachoo.ca,2021-11-08,3.96,1,0.99,Fall On Me
+Edward,Francis,edfrancis@yachoo.ca,2021-11-08,3.96,1,0.99,Cuyahoga
+Edward,Francis,edfrancis@yachoo.ca,2021-11-08,3.96,1,0.99,The Finest Worksong
+João,Fernandes,jfernandes@yahoo.pt,2021-11-09,5.94,1,0.99,Papeau Nuky Doe
+João,Fernandes,jfernandes@yahoo.pt,2021-11-09,5.94,1,0.99,Esporrei Na Manivela
+João,Fernandes,jfernandes@yahoo.pt,2021-11-09,5.94,1,0.99,Maluco Beleza
+João,Fernandes,jfernandes@yahoo.pt,2021-11-09,5.94,1,0.99,As Profecias
+João,Fernandes,jfernandes@yahoo.pt,2021-11-09,5.94,1,0.99,Que Luz É Essa
+João,Fernandes,jfernandes@yahoo.pt,2021-11-09,5.94,1,0.99,Século XXI
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,Suck My Kiss
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,Under The Bridge
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,They're Red Hot
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,The Zephyr Song
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,Tear
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,Parallel Universe
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,Porcelain
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,Right On Time
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2021-11-12,8.91,1,0.99,Xanadu
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Finding My Way
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Evil Ways
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,It's Only Love
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,So Beautiful
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Maquinarama
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Garota Nacional
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Aeroplane Flies High
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Saturnine
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Cherub Rock
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Ava Adore
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Hands All Over
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Pretty Noose
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Starburst
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2021-11-17,13.86,1,0.99,Leave My Girl Alone
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2021-11-25,0.99,1,0.99,Plush
+František,Wichterlová,frantisekw@jetbrains.com,2021-12-08,1.98,1,0.99,Wet My Bed
+František,Wichterlová,frantisekw@jetbrains.com,2021-12-08,1.98,1,0.99,Crackerman
+Astrid,Gruber,astrid.gruber@apple.at,2021-12-08,1.98,1,0.99,Soldier Side - Intro
+Astrid,Gruber,astrid.gruber@apple.at,2021-12-08,1.98,1,0.99,Revenga
+Kara,Nielsen,kara.nielsen@jubii.dk,2021-12-09,3.96,1,0.99,Radio/Video
+Kara,Nielsen,kara.nielsen@jubii.dk,2021-12-09,3.96,1,0.99,Violent Pornography
+Kara,Nielsen,kara.nielsen@jubii.dk,2021-12-09,3.96,1,0.99,Sad Statue
+Kara,Nielsen,kara.nielsen@jubii.dk,2021-12-09,3.96,1,0.99,Lost in Hollywood
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-12-10,5.94,1,0.99,Black Light Syndrome
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-12-10,5.94,1,0.99,Midnight From The Inside Out
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-12-10,5.94,1,0.99,Sometimes Salvation
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-12-10,5.94,1,0.99,Girl From A Pawnshop
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-12-10,5.94,1,0.99,Title Song
+Fernanda,Ramos,fernadaramos4@uol.com.br,2021-12-10,5.94,1,0.99,Soul Singing
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Clash City Rockers
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Train In Vain
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Know Your Rights
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Take The Power
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Speed Of Light
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Spirit Walker
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Edie (Ciao Baby)
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Sun King
+Tim,Goyer,tgoyer@apple.com,2021-12-13,8.91,1,0.99,Twentienth Century Fox
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Can't Stand Losing You
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,King Of Pain
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Get Off Of My Cloud
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Gimmie Shelters
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Thief In The Night
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Out Of Tears
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Walking Wounded
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Heaven Coming Down
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Gyroscope
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,"Anyway, Anyhow, Anywhere"
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Pinball Wizard
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,You Better You Bet
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Música No Ar
+Julia,Barnett,jubarnett@gmail.com,2021-12-18,13.86,1,0.99,Você
+Wyatt,Girard,wyatt.girard@yahoo.fr,2021-12-26,0.99,1,0.99,Go Back
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-01-08,1.98,1,0.99,Prá Dizer Adeus
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-01-08,1.98,1,0.99,Família
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-01-08,1.98,1,0.99,O Pulso
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-01-08,1.98,1,0.99,Nem 5 Minutos Guardados
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-01-09,3.96,1,0.99,Palavras
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-01-09,3.96,1,0.99,A Melhor Forma
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-01-09,3.96,1,0.99,32 Dentes
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-01-09,3.96,1,0.99,Não Vou Lutar
+Joakim,Johansson,joakim.johansson@yahoo.se,2022-01-10,6.94,1,0.99,Querem Meu Sangue
+Joakim,Johansson,joakim.johansson@yahoo.se,2022-01-10,6.94,1,0.99,Lugar Nenhum
+Joakim,Johansson,joakim.johansson@yahoo.se,2022-01-10,6.94,1,0.99,Domingo
+Joakim,Johansson,joakim.johansson@yahoo.se,2022-01-10,6.94,1,0.99,Era Uma Vez
+Joakim,Johansson,joakim.johansson@yahoo.se,2022-01-10,6.94,1,0.99,Toda Cor
+Joakim,Johansson,joakim.johansson@yahoo.se,2022-01-10,6.94,1,1.99,Occupation / Precipice
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,Hero
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,The Woman King
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,"Crossroads, Pt. 2"
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,Better Halves
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,The Fix
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,Parasite
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,The Glass Ballerina
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,Walkabout
+Luis,Rojas,luisrojas@yahoo.cl,2022-01-13,17.91,1,1.99,I Do
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,1.99,Solitary
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,1.99,Fire + Water
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,1.99,Homecoming
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,1.99,Dave
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,1.99,Born to Run
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,One
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,Love Is Blindness
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,When I Look At The World
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,Everlasting Love
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,Vertigo
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,Original Of The Species
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,Miami
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,All Along The Watchtower
+Astrid,Gruber,astrid.gruber@apple.at,2022-01-18,18.86,1,0.99,God Part II
+Kathy,Chase,kachase@hotmail.com,2022-01-26,0.99,1,0.99,Desire
+Heather,Leacock,hleacock@gmail.com,2022-02-08,1.98,1,0.99,When Love Comes To Town
+Heather,Leacock,hleacock@gmail.com,2022-02-08,1.98,1,0.99,Angel Of Harlem
+Frank,Ralston,fralston@gmail.com,2022-02-08,1.98,1,0.99,Sunday Bloody Sunday
+Frank,Ralston,fralston@gmail.com,2022-02-08,1.98,1,0.99,New Year's Day
+Richard,Cunningham,ricunningham@hotmail.com,2022-02-09,3.96,1,0.99,Drowning Man
+Richard,Cunningham,ricunningham@hotmail.com,2022-02-09,3.96,1,0.99,Two Hearts Beat As One
+Richard,Cunningham,ricunningham@hotmail.com,2022-02-09,3.96,1,0.99,Surrender
+Richard,Cunningham,ricunningham@hotmail.com,2022-02-09,3.96,1,0.99,Zooropa
+Edward,Francis,edfrancis@yachoo.ca,2022-02-10,5.94,1,0.99,"Stay (Faraway, So Close!)"
+Edward,Francis,edfrancis@yachoo.ca,2022-02-10,5.94,1,0.99,Dirty Day
+Edward,Francis,edfrancis@yachoo.ca,2022-02-10,5.94,1,0.99,I Would Do For You
+Edward,Francis,edfrancis@yachoo.ca,2022-02-10,5.94,1,0.99,Wear You To The Ball
+Edward,Francis,edfrancis@yachoo.ca,2022-02-10,5.94,1,0.99,C'est La Vie
+Edward,Francis,edfrancis@yachoo.ca,2022-02-10,5.94,1,0.99,Where Have All The Good Times Gone?
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Dancing In The Street
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Eruption
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Jump
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Right Now
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Eruption
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Feel Your Love Tonight
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,One I Want
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Year to the Day
+Hannah,Schneider,hannah.schneider@yahoo.de,2022-02-13,8.91,1,0.99,Big Machine
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,0.99,Dirty Little Thing
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,0.99,So Por Amor
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,0.99,Here I Go Again
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,0.99,The Deeper The Love
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,0.99,Seu Balancê
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,0.99,Sapopemba e Maxambomba
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,The Man Behind the Curtain
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,The Dundies
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,Christmas Party
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,Michael's Birthday
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,Diwali
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,Phyllis's Wedding
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,How to Stop an Exploding Man
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-02-18,21.86,1,1.99,The Long Patrol
+Puja,Srivastava,puja_srivastava@yahoo.in,2022-02-26,1.99,1,1.99,Baltar's Escape
+Luís,Gonçalves,luisg@embraer.com.br,2022-03-11,3.98,1,1.99,Experiment In Terra
+Luís,Gonçalves,luisg@embraer.com.br,2022-03-11,3.98,1,1.99,Take the Celestra
+François,Tremblay,ftremblay@gmail.com,2022-03-11,3.98,1,1.99,Pilot
+François,Tremblay,ftremblay@gmail.com,2022-03-11,3.98,1,1.99,"Through the Looking Glass, Pt. 1"
+František,Wichterlová,frantisekw@jetbrains.com,2022-03-12,3.96,1,0.99,#9 Dream
+František,Wichterlová,frantisekw@jetbrains.com,2022-03-12,3.96,1,0.99,Give Peace a Chance
+František,Wichterlová,frantisekw@jetbrains.com,2022-03-12,3.96,1,0.99,Whatever Gets You Thru the Night
+František,Wichterlová,frantisekw@jetbrains.com,2022-03-12,3.96,1,0.99,Gimme Some Truth
+Kara,Nielsen,kara.nielsen@jubii.dk,2022-03-13,5.94,1,0.99,Jealous Guy
+Kara,Nielsen,kara.nielsen@jubii.dk,2022-03-13,5.94,1,0.99,Beautiful Boy
+Kara,Nielsen,kara.nielsen@jubii.dk,2022-03-13,5.94,1,0.99,Gimme Some Truth
+Kara,Nielsen,kara.nielsen@jubii.dk,2022-03-13,5.94,1,0.99,Sympton of the Universe
+Kara,Nielsen,kara.nielsen@jubii.dk,2022-03-13,5.94,1,0.99,War Pigs
+Kara,Nielsen,kara.nielsen@jubii.dk,2022-03-13,5.94,1,0.99,Never Say Die
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,The Zoo
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,I Can't Explain
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,Put Your Head Out
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,"Danny Boy, Danny Boy"
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,One For The Road
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,Chapa o Coco
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,Todo o Carnaval tem seu Fim
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,0.99,Funk de Bamba
+Jennifer,Peterson,jenniferp@rogers.ca,2022-03-16,9.91,1,1.99,The Beginning of the End
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,1.99,Meet Kevin Johnson
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,Muita Bobeira
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,Say Hello 2 Heaven
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,All Night Thing
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,Scar On the Sky
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,Until We Fall
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,Show Me How to Live (Live at the Quart Festival)
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,"The Messiah: Behold, I Tell You a Mystery... The Trumpet Shall Sound"
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,"Requiem, Op.48: 4. Pie Jesu"
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,1.99,Branch Closing
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,"Piano Sonata No. 14 in C Sharp Minor, Op. 27, No. 2, ""Moonlight"": I. Adagio sostenuto"
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,"Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat"
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,Rehab
+Frank,Ralston,fralston@gmail.com,2022-03-21,15.86,1,0.99,He Can Only Hold Her
+Niklas,Schröder,nschroder@surfeu.de,2022-03-29,0.99,1,0.99,Slowness
+Camille,Bernard,camille.bernard@yahoo.fr,2022-04-11,1.98,1,0.99,"Prometheus Overture, Op. 43"
+Camille,Bernard,camille.bernard@yahoo.fr,2022-04-11,1.98,1,0.99,Sonata for Solo Violin: IV: Presto
+Marc,Dubois,marc.dubois@hotmail.com,2022-04-11,1.98,1,0.99,"Suite No. 3 in D, BWV 1068: III. Gavotte I & II"
+Marc,Dubois,marc.dubois@hotmail.com,2022-04-11,1.98,1,0.99,Adios nonino
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-04-12,3.96,1,0.99,"Act IV, Symphony"
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-04-12,3.96,1,0.99,"Music for the Funeral of Queen Mary: VI. ""Thou Knowest, Lord, the Secrets of Our Hearts"""
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-04-12,3.96,1,0.99,"Partita in E Major, BWV 1006A: I. Prelude"
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-04-12,3.96,1,0.99,Sing Joyfully
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-04-13,5.94,1,0.99,"Étude 1, In C Major - Preludio (Presto) - Liszt"
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-04-13,5.94,1,0.99,"String Quartet No. 12 in C Minor, D. 703 ""Quartettsatz"": II. Andante - Allegro assai"
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-04-13,5.94,1,0.99,For Those About To Rock (We Salute You)
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-04-13,5.94,1,0.99,Princess of the Dawn
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-04-13,5.94,1,0.99,Snowballed
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-04-13,5.94,1,0.99,Night Of The Long Knives
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,Problem Child
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,Rag Doll
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,Blind Man
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,Livin' On The Edge
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,Forgiven
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,Wake Up
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,I Can't Remember
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,I Know Somethin (Bout You)
+Phil,Hughes,phil.hughes@gmail.com,2022-04-16,8.91,1,0.99,Ligia
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,"Canta, Canta Mais"
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Cochise
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Hypnotize
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Drown Me Slowly
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Long Tall Sally
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Good Golly Miss Molly
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Do what cha wanna
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,A.N.D.R.O.T.A.Z.
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,The Beginning...At Last
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Tomorrow's Dream
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Smoked Pork
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Voodoo
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Chemical Wedding
+François,Tremblay,ftremblay@gmail.com,2022-04-21,13.86,1,0.99,Realword
+Jack,Smith,jacksmith@microsoft.com,2022-04-29,0.99,1,0.99,Meditação
+Michelle,Brooks,michelleb@aol.com,2022-05-12,1.98,1,0.99,Terra
+Michelle,Brooks,michelleb@aol.com,2022-05-12,1.98,1,0.99,Eclipse Oculto
+Dan,Miller,dmiller@comcast.com,2022-05-12,1.98,1,0.99,Bem Devagar
+Dan,Miller,dmiller@comcast.com,2022-05-12,1.98,1,0.99,Saudosismo
+Heather,Leacock,hleacock@gmail.com,2022-05-13,3.96,1,0.99,Sozinho
+Heather,Leacock,hleacock@gmail.com,2022-05-13,3.96,1,0.99,Mel
+Heather,Leacock,hleacock@gmail.com,2022-05-13,3.96,1,0.99,Odara
+Heather,Leacock,hleacock@gmail.com,2022-05-13,3.96,1,0.99,Atrás Da Verd-E-Rosa Só Não Vai Quem Já Morreu
+Richard,Cunningham,ricunningham@hotmail.com,2022-05-14,5.94,1,0.99,Sozinho (Caêdrum 'n' Bass)
+Richard,Cunningham,ricunningham@hotmail.com,2022-05-14,5.94,1,0.99,Samba De Orly
+Richard,Cunningham,ricunningham@hotmail.com,2022-05-14,5.94,1,0.99,O Que Será (À Flor Da Terra)
+Richard,Cunningham,ricunningham@hotmail.com,2022-05-14,5.94,1,0.99,Minha Historia
+Richard,Cunningham,ricunningham@hotmail.com,2022-05-14,5.94,1,0.99,Geni E O Zepelim
+Richard,Cunningham,ricunningham@hotmail.com,2022-05-14,5.94,1,0.99,Construção / Deus Lhe Pague
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Um Passeio No Mundo Livre
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Manguetown
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Criança De Domingo
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Banditismo Por Uma Questa
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Da Lama Ao Caos
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Computadores Fazem Arte
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Extra
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Onde Você Mora?
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2022-05-17,8.91,1,0.99,Onde Você Mora?
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Na Frente Da TV
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Amor Demais
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,"Tapa Aqui, Descobre Ali"
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,My Love
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Travelling Riverside Blues
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Sam With The Showing Scalp Flat Top
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Gavioes 2001
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Morro Da Casa Verde 2001
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Samba da Bençaco
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Maria Fumaça
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Only A Dream In Rio
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Só Tinha De Ser Com Você
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,Whiskey In The Jar
+Marc,Dubois,marc.dubois@hotmail.com,2022-05-22,13.86,1,0.99,It's A Hard Life
+Mark,Taylor,mark.taylor@yahoo.au,2022-05-30,0.99,1,0.99,Sure Know Something
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-06-12,1.98,1,0.99,Love Gun
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-06-12,1.98,1,0.99,Deuce
+Manoj,Pareek,manoj.pareek@rediff.com,2022-06-12,1.98,1,0.99,Shock Me
+Manoj,Pareek,manoj.pareek@rediff.com,2022-06-12,1.98,1,0.99,She
+Luís,Gonçalves,luisg@embraer.com.br,2022-06-13,3.96,1,0.99,Shout It Out Loud
+Luís,Gonçalves,luisg@embraer.com.br,2022-06-13,3.96,1,0.99,Calling Dr. Love
+Luís,Gonçalves,luisg@embraer.com.br,2022-06-13,3.96,1,0.99,Strutter
+Luís,Gonçalves,luisg@embraer.com.br,2022-06-13,3.96,1,0.99,Cold Gin
+František,Wichterlová,frantisekw@jetbrains.com,2022-06-14,5.94,1,0.99,De La Luz
+František,Wichterlová,frantisekw@jetbrains.com,2022-06-14,5.94,1,0.99,Surrender
+František,Wichterlová,frantisekw@jetbrains.com,2022-06-14,5.94,1,0.99,When Evening Falls
+František,Wichterlová,frantisekw@jetbrains.com,2022-06-14,5.94,1,0.99,Poprocks And Coke
+František,Wichterlová,frantisekw@jetbrains.com,2022-06-14,5.94,1,0.99,When I Come Around
+František,Wichterlová,frantisekw@jetbrains.com,2022-06-14,5.94,1,0.99,Brain Stew
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Redundant
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Into The Light
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Cry For Love
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Grito De Alerta
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Lindo Lago Do Amor
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Ponto De Interrogação
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Voce Nao Entende Nada - Cotidiano
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,O Leaozinho
+Alexandre,Rocha,alero@uol.com.br,2022-06-17,8.91,1,0.99,Top Top
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,"Posso Perder Minha Mulher, Minha Mãe, Desde Que Eu Tenha O Rock And Roll"
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,You Fool No One
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Viradouro
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Tradição
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Maria Maria
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Entre E Ouça
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Agora Que O Dia Acordou
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Bye Bye Blackbird
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Nefertiti
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Going Down / Highway Star
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Boogie Blues
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Don't Take Your Love From Me
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Onde Anda Você
+Dan,Miller,dmiller@comcast.com,2022-06-22,13.86,1,0.99,Deixa
+João,Fernandes,jfernandes@yahoo.pt,2022-06-30,0.99,1,0.99,As Rosas Não Falam (Beth Carvalho)
+Madalena,Sampaio,masampaio@sapo.pt,2022-07-13,1.98,1,0.99,Wave (Os Cariocas)
+Madalena,Sampaio,masampaio@sapo.pt,2022-07-13,1.98,1,0.99,Garota de Ipanema (Dick Farney)
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-07-13,1.98,1,0.99,Susie Q
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-07-13,1.98,1,0.99,Proud Mary
+Camille,Bernard,camille.bernard@yahoo.fr,2022-07-14,3.96,1,0.99,Lodi
+Camille,Bernard,camille.bernard@yahoo.fr,2022-07-14,3.96,1,0.99,Commotion
+Camille,Bernard,camille.bernard@yahoo.fr,2022-07-14,3.96,1,0.99,Fortunate Son
+Camille,Bernard,camille.bernard@yahoo.fr,2022-07-14,3.96,1,0.99,Who'll Stop The Rain
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-07-15,5.94,1,0.99,Long As I Can See The Light
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-07-15,5.94,1,0.99,Sweet Hitch-Hiker
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-07-15,5.94,1,0.99,Born On The Bayou
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-07-15,5.94,1,0.99,Night Time Is The Right Time
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-07-15,5.94,1,0.99,The Midnight Special
+Isabelle,Mercier,isabelle_mercier@apple.fr,2022-07-15,5.94,1,0.99,(Wish I Could) Hideaway
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,Gatas Extraordinárias
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,"Você Passa, Eu Acho Graça (Ao Vivo)"
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,Não Sei O Que Eu Quero Da Vida
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,E.C.T.
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,Eleanor Rigby
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,Comin' Home
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,Love Child
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,Flight Of The Rat
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2022-07-18,8.91,1,0.99,Strange Kind Of Woman
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Black Night
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Pictures Of Home
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Cascades : I'm Not Your Lover
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,The Cut Runs Deep
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Love Don't Mean a Thing
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Lick It Up
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Pour Some Sugar On Me
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Action
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Groovus Interruptus
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Cigano
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Acelerou
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Azul
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,"Dois Pra Lá, Dois Pra Cá"
+Manoj,Pareek,manoj.pareek@rediff.com,2022-07-23,13.86,1,0.99,Maria Rosa
+Fernanda,Ramos,fernadaramos4@uol.com.br,2022-07-31,0.99,1,0.99,Lay Down Sally
+Mark,Philips,mphilips12@shaw.ca,2022-08-13,1.98,1,0.99,Knockin On Heavens Door
+Mark,Philips,mphilips12@shaw.ca,2022-08-13,1.98,1,0.99,Wonderful Tonight
+Frank,Harris,fharris@google.com,2022-08-13,1.98,1,0.99,Promises
+Frank,Harris,fharris@google.com,2022-08-13,1.98,1,0.99,Signe
+Michelle,Brooks,michelleb@aol.com,2022-08-14,3.96,1,0.99,Hey Hey
+Michelle,Brooks,michelleb@aol.com,2022-08-14,3.96,1,0.99,Lonely Stranger
+Michelle,Brooks,michelleb@aol.com,2022-08-14,3.96,1,0.99,Layla
+Michelle,Brooks,michelleb@aol.com,2022-08-14,3.96,1,0.99,Walkin' Blues
+Heather,Leacock,hleacock@gmail.com,2022-08-15,5.94,1,0.99,Old Love
+Heather,Leacock,hleacock@gmail.com,2022-08-15,5.94,1,0.99,Last Cup Of Sorrow
+Heather,Leacock,hleacock@gmail.com,2022-08-15,5.94,1,0.99,Ashes To Ashes
+Heather,Leacock,hleacock@gmail.com,2022-08-15,5.94,1,0.99,Home Sick Home
+Heather,Leacock,hleacock@gmail.com,2022-08-15,5.94,1,0.99,Midlife Crisis
+Heather,Leacock,hleacock@gmail.com,2022-08-15,5.94,1,0.99,Malpractice
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,Midnight Cowboy
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,Star A.D.
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,King For A Day
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,Epic
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,The Morning After
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,Xote Dos Milagres
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,Principiando/Decolagem
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,In Your Honor
+Julia,Barnett,jubarnett@gmail.com,2022-08-18,8.91,1,0.99,Free Me
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Over And Out
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Disenchanted Lullaby
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,"Hey, Johnny Park!"
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Walking After You
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Summer Love
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Come Fly With Me
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Nervosa
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Meu Guarda-Chuva
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Juazeiro
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Lamento Sertanejo
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Estrela (Live)
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Lamento De Carnaval
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Beira Mar
+Fynn,Zimmermann,fzimmermann@yahoo.de,2022-08-23,13.86,1,0.99,Straight Out Of Line
+Joakim,Johansson,joakim.johansson@yahoo.se,2022-08-31,0.99,1,0.99,Holiday
+Emma,Jones,emma_jones@hotmail.com,2022-09-13,1.98,1,0.99,Boulevard Of Broken Dreams
+Emma,Jones,emma_jones@hotmail.com,2022-09-13,1.98,1,0.99,Are We The Waiting
+Steve,Murray,steve.murray@yahoo.uk,2022-09-13,1.98,1,0.99,Give Me Novacaine
+Steve,Murray,steve.murray@yahoo.uk,2022-09-13,1.98,1,0.99,Extraordinary Girl
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-09-14,3.96,1,0.99,Wake Me Up When September Ends
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-09-14,3.96,1,0.99,Whatsername
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-09-14,3.96,1,0.99,It's So Easy
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-09-14,3.96,1,0.99,Out Ta Get Me
+Luís,Gonçalves,luisg@embraer.com.br,2022-09-15,5.94,1,0.99,Think About You
+Luís,Gonçalves,luisg@embraer.com.br,2022-09-15,5.94,1,0.99,Rocket Queen
+Luís,Gonçalves,luisg@embraer.com.br,2022-09-15,5.94,1,0.99,Don't Cry (Original)
+Luís,Gonçalves,luisg@embraer.com.br,2022-09-15,5.94,1,0.99,Back off Bitch
+Luís,Gonçalves,luisg@embraer.com.br,2022-09-15,5.94,1,0.99,Garden of Eden
+Luís,Gonçalves,luisg@embraer.com.br,2022-09-15,5.94,1,0.99,Coma
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,Shotgun Blues
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,You Could Be Mine
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,Deep Waters
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,Thinking 'Bout Tomorrow
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,Brighter Than a Thousand Suns
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,Lord of Light
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,Transylvania
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,2 Minutes To Midnight
+Astrid,Gruber,astrid.gruber@apple.at,2022-09-18,8.91,1,0.99,Wasting Love
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Ghost Of The Navigator
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Wildest Dreams
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Age Of Innocence
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Chains Of Misery
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,05 - Phantom of the Opera
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Genghis Khan
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,The Trooper
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Running Free
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,From Here To Eternity
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Heaven Can Wait
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Holy Smoke
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Where Eagles Dare
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,Aces High
+Frank,Harris,fharris@google.com,2022-09-23,13.86,1,0.99,The Wicker Man
+Edward,Francis,edfrancis@yachoo.ca,2022-10-01,0.99,1,0.99,The Number Of The Beast
+Martha,Silk,marthasilk@gmail.com,2022-10-14,1.98,1,0.99,Hallowed Be Thy Name
+Martha,Silk,marthasilk@gmail.com,2022-10-14,1.98,1,0.99,Sanctuary
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-10-14,1.98,1,0.99,Moonchild
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-10-14,1.98,1,0.99,Can I Play With Madness
+Madalena,Sampaio,masampaio@sapo.pt,2022-10-15,3.96,1,0.99,Seventh Son of a Seventh Son
+Madalena,Sampaio,masampaio@sapo.pt,2022-10-15,3.96,1,0.99,The Clairvoyant
+Madalena,Sampaio,masampaio@sapo.pt,2022-10-15,3.96,1,0.99,Caught Somewhere in Time
+Madalena,Sampaio,masampaio@sapo.pt,2022-10-15,3.96,1,0.99,Sea of Madness
+Camille,Bernard,camille.bernard@yahoo.fr,2022-10-16,5.94,1,0.99,De Ja Vu
+Camille,Bernard,camille.bernard@yahoo.fr,2022-10-16,5.94,1,0.99,Gangland
+Camille,Bernard,camille.bernard@yahoo.fr,2022-10-16,5.94,1,0.99,The Number Of The Beast
+Camille,Bernard,camille.bernard@yahoo.fr,2022-10-16,5.94,1,0.99,Man On The Edge
+Camille,Bernard,camille.bernard@yahoo.fr,2022-10-16,5.94,1,0.99,Judgement Of Heaven
+Camille,Bernard,camille.bernard@yahoo.fr,2022-10-16,5.94,1,0.99,The Unbeliever
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,The Educated Fool
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,Out Of Sight
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,Get Up (I Feel Like Being A) Sex Machine
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,It's Too Funky In Here
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,Too Young To Die
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,Blow Your Mind
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,Soul Education
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,King For A Day
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2022-10-19,8.91,1,0.99,Manifest Destiny
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Rollover D.J.
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Lazy Gun
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Fire
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Highway Chile
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Midnight
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Charles Anjo 45
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Vou Pra Ai
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Onibusfobia
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Papelão
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Hot Rockin'
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Ram It Down
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Sure Know Something
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Rock And Roll All Nite
+Steve,Murray,steve.murray@yahoo.uk,2022-10-24,13.86,1,0.99,Whole Lotta Love (Medley)
+Kara,Nielsen,kara.nielsen@jubii.dk,2022-11-01,0.99,1,0.99,Dancing Days
+Eduardo,Martins,eduardo@woodstock.com.br,2022-11-14,1.98,1,0.99,D'Yer Mak'er
+Eduardo,Martins,eduardo@woodstock.com.br,2022-11-14,1.98,1,0.99,No Quarter
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-11-14,1.98,1,0.99,In The Evening
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-11-14,1.98,1,0.99,Fool In The Rain
+Mark,Philips,mphilips12@shaw.ca,2022-11-15,3.96,1,0.99,Carouselambra
+Mark,Philips,mphilips12@shaw.ca,2022-11-15,3.96,1,0.99,I'm Gonna Crawl
+Mark,Philips,mphilips12@shaw.ca,2022-11-15,3.96,1,0.99,Rock & Roll
+Mark,Philips,mphilips12@shaw.ca,2022-11-15,3.96,1,0.99,Stairway To Heaven
+Michelle,Brooks,michelleb@aol.com,2022-11-16,5.94,1,0.99,When The Levee Breaks
+Michelle,Brooks,michelleb@aol.com,2022-11-16,5.94,1,0.99,Dazed and Confused
+Michelle,Brooks,michelleb@aol.com,2022-11-16,5.94,1,0.99,I Can't Quit You Baby
+Michelle,Brooks,michelleb@aol.com,2022-11-16,5.94,1,0.99,The Lemon Song
+Michelle,Brooks,michelleb@aol.com,2022-11-16,5.94,1,0.99,Ramble On
+Michelle,Brooks,michelleb@aol.com,2022-11-16,5.94,1,0.99,Friends
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,That's The Way
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,Ten Years Gone
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,Achilles Last Stand
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,Tea For One
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,No Quarter
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,Música De Trabalho
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,Dezesseis
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,O Livro Dos Dias
+Frank,Ralston,fralston@gmail.com,2022-11-19,8.91,1,0.99,Indios
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Dezesseis
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,American Woman
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Honolulu
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Brumário
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Tudo Bem
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Pseudo Silk Kimono
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,White Feather
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,De Noite Na Cama
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,O Xote Das Meninas
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Seek And You Shall Find
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Heavy Love Affair
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Shakes and Ladders
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Nothing Else Matters
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2022-11-24,13.86,1,0.99,Last Caress/Green Hell
+Lucas,Mancini,lucas.mancini@yahoo.it,2022-12-02,0.99,1,0.99,Motorbreath
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2022-12-15,1.98,1,0.99,Jump In The Fire
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2022-12-15,1.98,1,0.99,(Anesthesia) Pulling Teeth
+Enrique,Muñoz,enrique_munoz@yahoo.es,2022-12-15,1.98,1,0.99,Phantom Lord
+Enrique,Muñoz,enrique_munoz@yahoo.es,2022-12-15,1.98,1,0.99,Seek & Destroy
+Emma,Jones,emma_jones@hotmail.com,2022-12-16,3.96,1,0.99,Ain't My Bitch
+Emma,Jones,emma_jones@hotmail.com,2022-12-16,3.96,1,0.99,The House Jack Built
+Emma,Jones,emma_jones@hotmail.com,2022-12-16,3.96,1,0.99,King Nothing
+Emma,Jones,emma_jones@hotmail.com,2022-12-16,3.96,1,0.99,Bleeding Me
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-12-17,5.94,1,0.99,Mama Said
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-12-17,5.94,1,0.99,Battery
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-12-17,5.94,1,0.99,Disposable Heroes
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-12-17,5.94,1,0.99,Fuel
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-12-17,5.94,1,0.99,Better Than You
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2022-12-17,5.94,1,0.99,Where The Wild Things Are
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,Ride The Lightning
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,The Call Of Ktulu
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,My World
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,Blackened
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,The Frayed Ends Of Sanity
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,My Ship
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,I Don't Wanna Be Kissed (By Anyone But You)
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,A Noite Do Meu Bem
+François,Tremblay,ftremblay@gmail.com,2022-12-20,8.91,1,0.99,Brasil
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Saudade Dos Aviões Da Panair (Conversando No Bar)
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Caso Você Queira Saber
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Dance
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Aos Leões
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Demorou!
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Home Sweet Home
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Intro
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Scentless Apprentice
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,In Bloom
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,On A Plain
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Mundaréu
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Nossa Gente (Avisa Là)
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Revolta Olodum
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2022-12-25,13.86,1,0.99,Vai Valer
+Richard,Cunningham,ricunningham@hotmail.com,2023-01-02,0.99,1,0.99,Nebulosa Do Amor
+Patrick,Gray,patrick.gray@aol.com,2023-01-15,1.98,1,0.99,Caleidoscópio
+Patrick,Gray,patrick.gray@aol.com,2023-01-15,1.98,1,0.99,Trac Trac
+Robert,Brown,robbrown@shaw.ca,2023-01-15,1.98,1,0.99,Mensagen De Amor (2000)
+Robert,Brown,robbrown@shaw.ca,2023-01-15,1.98,1,0.99,La Bella Luna
+Martha,Silk,marthasilk@gmail.com,2023-01-16,3.96,1,0.99,Uma Brasileira
+Martha,Silk,marthasilk@gmail.com,2023-01-16,3.96,1,0.99,Saber Amar
+Martha,Silk,marthasilk@gmail.com,2023-01-16,3.96,1,0.99,O Amor Nao Sabe Esperar
+Martha,Silk,marthasilk@gmail.com,2023-01-16,3.96,1,0.99,Caleidoscópio
+Madalena,Sampaio,masampaio@sapo.pt,2023-01-17,5.94,1,0.99,Lanterna Dos Afogados
+Madalena,Sampaio,masampaio@sapo.pt,2023-01-17,5.94,1,0.99,Meu Erro
+Madalena,Sampaio,masampaio@sapo.pt,2023-01-17,5.94,1,0.99,Selvagem
+Madalena,Sampaio,masampaio@sapo.pt,2023-01-17,5.94,1,0.99,Bark at the Moon
+Madalena,Sampaio,masampaio@sapo.pt,2023-01-17,5.94,1,0.99,"Mama, I'm Coming Home"
+Madalena,Sampaio,masampaio@sapo.pt,2023-01-17,5.94,1,0.99,Believer
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,Iron Man
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,Shining In The Light
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,Heart In Your Hand
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,United Colours
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,Miss Sarajevo
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,Theme From The Swan
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,Women In Uniform
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,Corduroy
+Marc,Dubois,marc.dubois@hotmail.com,2023-01-20,8.91,1,0.99,MFC
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,F*Ckin' Up
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Gone
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Ghost
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Arc
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Porch
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,W.M.A.
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Jah Seh No
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Crystal Ball
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Brain Damage
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,O Bicho Tá Pregando
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Bohemian Rhapsody
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,Somebody To Love
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,We Are The Champions
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-01-25,13.86,1,0.99,My Melancholy Blues
+František,Wichterlová,frantisekw@jetbrains.com,2023-02-02,0.99,1,0.99,Untitled
+Helena,Holý,hholy@gmail.com,2023-02-15,1.98,1,0.99,How The West Was Won And Where It Got Us
+Helena,Holý,hholy@gmail.com,2023-02-15,1.98,1,0.99,The Wake-Up Bomb
+Daan,Peeters,daan_peeters@apple.be,2023-02-15,1.98,1,0.99,Undertow
+Daan,Peeters,daan_peeters@apple.be,2023-02-15,1.98,1,0.99,Leave
+Eduardo,Martins,eduardo@woodstock.com.br,2023-02-16,3.96,1,0.99,Bittersweet Me
+Eduardo,Martins,eduardo@woodstock.com.br,2023-02-16,3.96,1,0.99,Binky The Doormat
+Eduardo,Martins,eduardo@woodstock.com.br,2023-02-16,3.96,1,0.99,"So Fast, So Numb"
+Eduardo,Martins,eduardo@woodstock.com.br,2023-02-16,3.96,1,0.99,Electrolite
+Mark,Philips,mphilips12@shaw.ca,2023-02-17,5.94,1,0.99,Endgame
+Mark,Philips,mphilips12@shaw.ca,2023-02-17,5.94,1,0.99,Country Feedback
+Mark,Philips,mphilips12@shaw.ca,2023-02-17,5.94,1,0.99,Talk About The Passion
+Mark,Philips,mphilips12@shaw.ca,2023-02-17,5.94,1,0.99,Green Grow The Rushes
+Mark,Philips,mphilips12@shaw.ca,2023-02-17,5.94,1,0.99,I Believe
+Mark,Philips,mphilips12@shaw.ca,2023-02-17,5.94,1,0.99,It's The End Of The World As We Know It (And I Feel Fine)
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,Puteiro Em João Pessoa
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,O Dia Em Que A Terra Parou
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,Todo Mundo Explica
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,Rock Das Aranhas (Ao Vivo) (Live)
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,I Could Have Lied
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,Naked In The Rain
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,By The Way
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,Can't Stop
+Dan,Miller,dmiller@comcast.com,2023-02-20,8.91,1,0.99,On Mercury
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Californication
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Road Trippin'
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Closer To The Heart
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Persuasion
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Funky Piano
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Stars
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Três Lados
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Ali
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Um Dia Qualquer
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,My Mistake
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Soot & Stars
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Bullet With Butterfly Wings
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Real Love
+Robert,Brown,robbrown@shaw.ca,2023-02-25,13.86,1,0.99,Rusty Cage
+Isabelle,Mercier,isabelle_mercier@apple.fr,2023-03-05,0.99,1,0.99,Starburst
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-03-18,1.98,1,0.99,Heliopolis
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-03-18,1.98,1,0.99,It Doesn't Matter
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-03-18,1.98,1,0.99,End Of Romanticism
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-03-18,1.98,1,0.99,Crossfire
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-03-19,3.96,1,0.99,Let Me Love You Baby
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-03-19,3.96,1,0.99,Travis Walk
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-03-19,3.96,1,0.99,Scratch-N-Sniff
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-03-19,3.96,1,0.99,Riviera Paradise
+Emma,Jones,emma_jones@hotmail.com,2023-03-20,5.94,1,0.99,No Memory
+Emma,Jones,emma_jones@hotmail.com,2023-03-20,5.94,1,0.99,Piece Of Pie
+Emma,Jones,emma_jones@hotmail.com,2023-03-20,5.94,1,0.99,Where The River Goes
+Emma,Jones,emma_jones@hotmail.com,2023-03-20,5.94,1,0.99,Cigaro
+Emma,Jones,emma_jones@hotmail.com,2023-03-20,5.94,1,0.99,Question!
+Emma,Jones,emma_jones@hotmail.com,2023-03-20,5.94,1,0.99,The Sun Road
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,Chaos-Control
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,Cursed Diamonds
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,High Head Blues
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,Hard To Handle
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,(White Man) In Hammersmith Palais
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,Bankrobber
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,Rock The Casbah
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,Breathe
+Manoj,Pareek,manoj.pareek@rediff.com,2023-03-23,8.91,1,0.99,True Believers
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Love Removal Machine
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Sweet Soul Sister
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,I Looked At You
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,"De Do Do Do, De Da Da Da"
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Time Is On My Side
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Under My Thumb
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Saint Of Me
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,You Got Me Rocking
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Suck On The Jugular
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Sister Awake
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Life Line
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Babylon
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Boris The Spider
+Daan,Peeters,daan_peeters@apple.be,2023-03-28,13.86,1,0.99,Let's See Action
+Heather,Leacock,hleacock@gmail.com,2023-04-05,0.99,1,0.99,Música No Ar
+John,Gordon,johngordon22@yahoo.com,2023-04-18,1.98,1,0.99,Salve Nossa Senhora
+John,Gordon,johngordon22@yahoo.com,2023-04-18,1.98,1,0.99,Você Fugiu
+Victor,Stevens,vstevens@yahoo.com,2023-04-18,1.98,1,0.99,Compadre
+Victor,Stevens,vstevens@yahoo.com,2023-04-18,1.98,1,0.99,Réu Confesso
+Patrick,Gray,patrick.gray@aol.com,2023-04-19,3.96,1,0.99,Gostava Tanto De Você
+Patrick,Gray,patrick.gray@aol.com,2023-04-19,3.96,1,0.99,Não Quero Dinheiro
+Patrick,Gray,patrick.gray@aol.com,2023-04-19,3.96,1,0.99,A Festa Do Santo Reis
+Patrick,Gray,patrick.gray@aol.com,2023-04-19,3.96,1,0.99,Padre Cícero
+Martha,Silk,marthasilk@gmail.com,2023-04-20,5.94,1,0.99,Balanço
+Martha,Silk,marthasilk@gmail.com,2023-04-20,5.94,1,0.99,Comida
+Martha,Silk,marthasilk@gmail.com,2023-04-20,5.94,1,0.99,Os Cegos Do Castelo
+Martha,Silk,marthasilk@gmail.com,2023-04-20,5.94,1,0.99,Flores
+Martha,Silk,marthasilk@gmail.com,2023-04-20,5.94,1,0.99,Cabeça Dinossauro
+Martha,Silk,marthasilk@gmail.com,2023-04-20,5.94,1,0.99,Homem Primata (Vinheta)
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,0.99,Sonifera Ilha
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,0.99,Amanhã Não Se Sabe
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,0.99,Eu E Ela
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,1.99,"Exodus, Pt. 1"
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,1.99,Unfinished Business
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,1.99,A Day In the Life
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,1.99,Genesis
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,1.99,Nothing to Hide
+Fynn,Zimmermann,fzimmermann@yahoo.de,2023-04-23,14.91,1,1.99,Distractions
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,Adrift
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,...And Found
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,The Other 48 Days
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,The 23rd Psalm
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,The Long Con
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,The Whole Truth
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,S.O.S.
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,1.99,Exodus (Part 2) [Season Finale]
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,0.99,The Fly
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,0.99,Walk On
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,0.99,Spanish Eyes
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,0.99,Hallelujah Here She Comes
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,0.99,City Of Blinding Lights
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-04-28,21.86,1,0.99,Mofo
+Luís,Gonçalves,luisg@embraer.com.br,2023-05-06,0.99,1,0.99,All Along The Watchtower
+Leonie,Köhler,leonekohler@surfeu.de,2023-05-19,1.98,1,0.99,I Still Haven't Found What I'm Looking for
+Leonie,Köhler,leonekohler@surfeu.de,2023-05-19,1.98,1,0.99,Freedom For My People
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-05-19,1.98,1,0.99,Pride (In The Name Of Love)
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-05-19,1.98,1,0.99,Love Rescue Me
+Helena,Holý,hholy@gmail.com,2023-05-20,3.96,1,0.99,Heartland
+Helena,Holý,hholy@gmail.com,2023-05-20,3.96,1,0.99,The Star Spangled Banner
+Helena,Holý,hholy@gmail.com,2023-05-20,3.96,1,0.99,All I Want Is You
+Helena,Holý,hholy@gmail.com,2023-05-20,3.96,1,0.99,New Year's Day
+Eduardo,Martins,eduardo@woodstock.com.br,2023-05-21,5.94,1,0.99,Bad
+Eduardo,Martins,eduardo@woodstock.com.br,2023-05-21,5.94,1,0.99,Sweetest Thing
+Eduardo,Martins,eduardo@woodstock.com.br,2023-05-21,5.94,1,0.99,All I Want Is You
+Eduardo,Martins,eduardo@woodstock.com.br,2023-05-21,5.94,1,0.99,Like A Song...
+Eduardo,Martins,eduardo@woodstock.com.br,2023-05-21,5.94,1,0.99,Red Light
+Eduardo,Martins,eduardo@woodstock.com.br,2023-05-21,5.94,1,0.99,Babyface
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,The First Time
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,Homely Girl
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,Bring Me Your Cup
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,Hang 'Em High
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,Little Guitars (Intro)
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,Ain't Talkin' 'bout Love
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,Panama
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,Can't Stop Loving You
+Frank,Harris,fharris@google.com,2023-05-24,8.91,1,0.99,You Really Got Me
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Neworld
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Primary
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Headspace
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Tudo Na Mais Santa Paz
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Samba Do Jato
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Now You're Gone
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Faixa Amarela
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Sem Essa de Malandro Agulha
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,0.99,Verdade
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,1.99,Diversity Day
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,1.99,Halloween
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,1.99,The Carpet
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,1.99,Gay Witch Hunt
+Victor,Stevens,vstevens@yahoo.com,2023-05-29,18.86,1,1.99,"A Benihana Christmas, Pts. 1 & 2"
+Camille,Bernard,camille.bernard@yahoo.fr,2023-06-06,1.99,1,1.99,How to Stop an Exploding Man
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-06-19,2.98,1,1.99,Through a Looking Glass
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-06-19,2.98,1,0.99,Your Time Is Gonna Come
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-06-19,3.98,1,1.99,"Battlestar Galactica, Pt. 2"
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-06-19,3.98,1,1.99,"Lost Planet of the Gods, Pt. 1"
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-06-20,7.96,1,1.99,The Lost Warrior
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-06-20,7.96,1,1.99,"The Gun On Ice Planet Zero, Pt. 1"
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-06-20,7.96,1,1.99,The Magnificent Warriors
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-06-20,7.96,1,1.99,"The Living Legend, Pt. 1"
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-06-21,8.94,1,1.99,"War of the Gods, Pt. 2"
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-06-21,8.94,1,1.99,"Greetings from Earth, Pt. 2"
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-06-21,8.94,1,1.99,The Hand of God
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-06-21,8.94,1,0.99,Instant Karma
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-06-21,8.94,1,0.99,Cold Turkey
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2023-06-21,8.94,1,0.99,"Oh, My Love"
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,Imagine
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,[Just Like] Starting Over
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,Fairies Wear Boots
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,"Sabbath, Bloody Sabbath"
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,Loving You Sunday Morning
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,Tease Me Please Me
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,Top O' The Morning To Ya
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,Guess Who's Back
+Steve,Murray,steve.murray@yahoo.uk,2023-06-24,8.91,1,0.99,Feel It
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Um Lugar ao Sol
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Chega no Suingue
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,1.99,The Economist
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Din Din Wo (Little Child)
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,1.99,Something Nice Back Home
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Call Me a Dog
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Safe and Sound
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Disappearing Act
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Shape of Things to Come
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Canon and Gigue in D Major: I. Canon
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,"Symphony No. 104 in D Major ""London"": IV. Finale: Spiritoso"
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,"Jupiter, the Bringer of Jollity"
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,"Scheherazade, Op. 35: I. The Sea and Sindbad's Ship"
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2023-06-29,15.86,1,0.99,Two Fanfares for Orchestra: II. Short Ride in a Fast Machine
+Michelle,Brooks,michelleb@aol.com,2023-07-07,0.99,1,0.99,Rehab
+Tim,Goyer,tgoyer@apple.com,2023-07-20,1.98,1,0.99,You Know I'm No Good
+Tim,Goyer,tgoyer@apple.com,2023-07-20,1.98,1,0.99,Me & Mr. Jones
+Kathy,Chase,kachase@hotmail.com,2023-07-20,1.98,1,0.99,Back to Black
+Kathy,Chase,kachase@hotmail.com,2023-07-20,1.98,1,0.99,Tears Dry On Their Own
+John,Gordon,johngordon22@yahoo.com,2023-07-21,3.96,1,0.99,Some Unholy War
+John,Gordon,johngordon22@yahoo.com,2023-07-21,3.96,1,0.99,You Know I'm No Good (feat. Ghostface Killah)
+John,Gordon,johngordon22@yahoo.com,2023-07-21,3.96,1,0.99,Intro / Stronger Than Me
+John,Gordon,johngordon22@yahoo.com,2023-07-21,3.96,1,0.99,F**k Me Pumps
+Patrick,Gray,patrick.gray@aol.com,2023-07-22,5.94,1,0.99,Take the Box
+Patrick,Gray,patrick.gray@aol.com,2023-07-22,5.94,1,0.99,Amy Amy Amy (Outro)
+Patrick,Gray,patrick.gray@aol.com,2023-07-22,5.94,1,0.99,"A Midsummer Night's Dream, Op.61 Incidental Music: No.7 Notturno"
+Patrick,Gray,patrick.gray@aol.com,2023-07-22,5.94,1,0.99,"Symphony No. 3 Op. 36 for Orchestra and Soprano ""Symfonia Piesni Zalosnych"" \ Lento E Largo - Tranquillissimo"
+Patrick,Gray,patrick.gray@aol.com,2023-07-22,5.94,1,0.99,Symphony No. 2: III. Allegro vivace
+Patrick,Gray,patrick.gray@aol.com,2023-07-22,5.94,1,0.99,"Metopes, Op. 29: Calypso"
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,Pini Di Roma (Pinien Von Rom) \ I Pini Della Via Appia
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,Balls to the Wall
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,Inject The Venom
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,Spellbound
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,Overdose
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,What It Takes
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,Deuces Are Wild
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,All I Really Want
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2023-07-25,8.91,1,0.99,You Learn
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,Sea Of Sorrow
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,Real Thing
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,Falando De Amor
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,The Unforgiven
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,Like a Stone
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,The Last Remaining Light
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,Yesterday To Tomorrow
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,C'Mon Everybody
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,"Spanish moss-""A sound portrait""-Spanish moss"
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,All For You
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,The Begining... At Last
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,N.I.B.
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,Snowblind
+Wyatt,Girard,wyatt.girard@yahoo.fr,2023-07-30,13.86,1,0.99,A Statistic
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2023-08-07,0.99,1,0.99,Chemical Wedding
+Luis,Rojas,luisrojas@yahoo.cl,2023-08-20,1.98,1,0.99,The Tower
+Luis,Rojas,luisrojas@yahoo.cl,2023-08-20,1.98,1,0.99,Killing Floor
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-08-20,1.98,1,0.99,Gates Of Urizen
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-08-20,1.98,1,0.99,Trupets Of Jericho
+Leonie,Köhler,leonekohler@surfeu.de,2023-08-21,3.96,1,0.99,The Alchemist
+Leonie,Köhler,leonekohler@surfeu.de,2023-08-21,3.96,1,0.99,First Time I Met The Blues
+Leonie,Köhler,leonekohler@surfeu.de,2023-08-21,3.96,1,0.99,Stone Crazy
+Leonie,Köhler,leonekohler@surfeu.de,2023-08-21,3.96,1,0.99,When My Left Eye Jumps
+Helena,Holý,hholy@gmail.com,2023-08-22,5.94,1,0.99,My Time After Awhile
+Helena,Holý,hholy@gmail.com,2023-08-22,5.94,1,0.99,Prenda Minha
+Helena,Holý,hholy@gmail.com,2023-08-22,5.94,1,0.99,"Texto ""Verdade Tropical"""
+Helena,Holý,hholy@gmail.com,2023-08-22,5.94,1,0.99,Carolina
+Helena,Holý,hholy@gmail.com,2023-08-22,5.94,1,0.99,Linha Do Equador
+Helena,Holý,hholy@gmail.com,2023-08-22,5.94,1,0.99,Vida Boa
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Vai Passar
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Morena De Angola
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Meu Caro Amigo
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Mateus Enter
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Samba Do Lado
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Um Satélite Na Cabeça
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Amor De Muito
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Banditismo Por Uma Questa
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2023-08-25,8.91,1,0.99,Maracatu De Tiro Certeiro
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Soldado Da Paz
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Pensamento
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Falar A Verdade
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Eu Também Quero Beijar
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Felicidade Urgente
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Levada do Amor (Ailoviu)
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Communication Breakdown
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,I Can't Quit You Baby(2)
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Advance Romance
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Camisa Verde 2001
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Mas Que Nada
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Mistério da Raça
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Tarde Em Itapoã
+Kathy,Chase,kachase@hotmail.com,2023-08-30,13.86,1,0.99,Um Jantar Pra Dois
+Madalena,Sampaio,masampaio@sapo.pt,2023-09-07,0.99,1,0.99,Whiskey In The Jar
+Hannah,Schneider,hannah.schneider@yahoo.de,2023-09-20,1.98,1,0.99,Tuesday's Gone
+Hannah,Schneider,hannah.schneider@yahoo.de,2023-09-20,1.98,1,0.99,The More I See
+Niklas,Schröder,nschroder@surfeu.de,2023-09-20,1.98,1,0.99,Under Pressure
+Niklas,Schröder,nschroder@surfeu.de,2023-09-20,1.98,1,0.99,I Want It All
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-09-21,3.96,1,0.99,Innuendo
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-09-21,3.96,1,0.99,Breakthru
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-09-21,3.96,1,0.99,Headlong
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-09-21,3.96,1,0.99,I'm Going Slightly Mad
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-09-22,5.94,1,0.99,The Show Must Go On
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-09-22,5.94,1,0.99,Hard Luck Woman
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-09-22,5.94,1,0.99,Goin' Blind
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-09-22,5.94,1,0.99,I Was Made For Loving You
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-09-22,5.94,1,0.99,Beth
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2023-09-22,5.94,1,0.99,Plaster Caster
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,Playtime
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,J Squared
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,Basket Case
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,Jaded
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,Nice Guys Finish Last
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,River Song
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,Living On Love
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,Não Dá Mais Pra Segurar (Explode Coração)
+Enrique,Muñoz,enrique_munoz@yahoo.es,2023-09-25,8.91,1,0.99,Eu Apenas Queria Que Voçê Soubesse
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Um Indio
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Fora Da Ordem
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Chão De Estrelas
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Stormbringer
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Houses Of The Holy
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Mangueira
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Love Of My Life
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,El Farol
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Um Love
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Jeru
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,So What
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Black Satin
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Blue Rythm Fantasy
+Puja,Srivastava,puja_srivastava@yahoo.in,2023-09-30,13.86,1,0.99,Bop Boogie
+Mark,Philips,mphilips12@shaw.ca,2023-10-08,0.99,1,0.99,Onde Anda Você
+Jennifer,Peterson,jenniferp@rogers.ca,2023-10-21,1.98,1,0.99,Samba Da Volta
+Jennifer,Peterson,jenniferp@rogers.ca,2023-10-21,1.98,1,0.99,Canto De Ossanha
+Jack,Smith,jacksmith@microsoft.com,2023-10-21,1.98,1,0.99,Formosa
+Jack,Smith,jacksmith@microsoft.com,2023-10-21,1.98,1,0.99,Minha Namorada
+Tim,Goyer,tgoyer@apple.com,2023-10-22,3.96,1,0.99,Berimbau
+Tim,Goyer,tgoyer@apple.com,2023-10-22,3.96,1,0.99,Pot-Pourri N.º 2
+Tim,Goyer,tgoyer@apple.com,2023-10-22,3.96,1,0.99,Carta Ao Tom 74
+Tim,Goyer,tgoyer@apple.com,2023-10-22,3.96,1,0.99,Pela Luz dos Olhos Teus (Miúcha e Tom Jobim)
+John,Gordon,johngordon22@yahoo.com,2023-10-23,5.94,1,0.99,Coração do Agreste (Fafá de Belém)
+John,Gordon,johngordon22@yahoo.com,2023-10-23,5.94,1,0.99,Romaria (Renato Teixeira)
+John,Gordon,johngordon22@yahoo.com,2023-10-23,5.94,1,0.99,Preciso Apender a Viver Só (Maysa)
+John,Gordon,johngordon22@yahoo.com,2023-10-23,5.94,1,0.99,Bad Moon Rising
+John,Gordon,johngordon22@yahoo.com,2023-10-23,5.94,1,0.99,Down On The Corner
+John,Gordon,johngordon22@yahoo.com,2023-10-23,5.94,1,0.99,Up Around The Bend
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Hey Tonight
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Good Golly Miss Molly
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Don't Look Now
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,It's Just A Thought
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Brasil
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Meu Mundo Fica Completo (Com Você)
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Woman Of The World (Ao Vivo)
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Todo Amor Que Houver Nesta Vida
+Robert,Brown,robbrown@shaw.ca,2023-10-26,8.91,1,0.99,Socorro
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,I Need Love
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Into The Fire
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,No One Came
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Hush
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Space Truckin'
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,A Touch Away
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Love Conquers All
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,You Can't Do it Right (With the One You Love)
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Ramshackle Man
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Two Steps Behind [Acoustic Version]
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Rock Of Ages
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Outbreak
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Álibi
+Niklas,Schröder,nschroder@surfeu.de,2023-10-31,13.86,1,0.99,Oceano
+Emma,Jones,emma_jones@hotmail.com,2023-11-08,0.99,1,0.99,"Dois Pra Lá, Dois Pra Cá"
+Phil,Hughes,phil.hughes@gmail.com,2023-11-21,1.98,1,0.99,Casa no Campo
+Phil,Hughes,phil.hughes@gmail.com,2023-11-21,1.98,1,0.99,Romaria
+Mark,Taylor,mark.taylor@yahoo.au,2023-11-21,1.98,1,0.99,Me Deixas Louca
+Mark,Taylor,mark.taylor@yahoo.au,2023-11-21,1.98,1,0.99,Saudosa Maloca
+Luis,Rojas,luisrojas@yahoo.cl,2023-11-22,3.96,1,0.99,Madalena
+Luis,Rojas,luisrojas@yahoo.cl,2023-11-22,3.96,1,0.99,Aprendendo A Jogar
+Luis,Rojas,luisrojas@yahoo.cl,2023-11-22,3.96,1,0.99,Badge
+Luis,Rojas,luisrojas@yahoo.cl,2023-11-22,3.96,1,0.99,Sunshine Of Your Love
+Leonie,Köhler,leonekohler@surfeu.de,2023-11-23,5.94,1,0.99,Bell Bottom Blues
+Leonie,Köhler,leonekohler@surfeu.de,2023-11-23,5.94,1,0.99,Swing Low Sweet Chariot
+Leonie,Köhler,leonekohler@surfeu.de,2023-11-23,5.94,1,0.99,Let It Grow
+Leonie,Köhler,leonekohler@surfeu.de,2023-11-23,5.94,1,0.99,Before You Accuse Me
+Leonie,Köhler,leonekohler@surfeu.de,2023-11-23,5.94,1,0.99,Nobody Knows You When You're Down & Out
+Leonie,Köhler,leonekohler@surfeu.de,2023-11-23,5.94,1,0.99,Alberta
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,Stripsearch
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,She Loves Me Not
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,Caffeine
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,Kindergarten
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,Easy
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,Cuckoo For Caca
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,What A Day
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,Falling To Pieces
+Daan,Peeters,daan_peeters@apple.be,2023-11-26,8.91,1,0.99,Woodpecker From Mars
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Zeca Violeiro
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,No Way Back
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Still
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Razor
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Overdrive
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,My Hero
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,"New York, New York"
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,My Kind Of Town
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,"Bad, Bad Leroy Brown"
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Zambação
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Divirta-Se (Saindo Da Sua)
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Assum Preto
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Is This Love (Live)
+Jack,Smith,jacksmith@microsoft.com,2023-12-01,13.86,1,0.99,Copacabana (Live)
+Martha,Silk,marthasilk@gmail.com,2023-12-09,0.99,1,0.99,Beira Mar
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2023-12-22,1.98,1,0.99,Sampa
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2023-12-22,1.98,1,0.99,Parabolicamará
+João,Fernandes,jfernandes@yahoo.pt,2023-12-22,1.98,1,0.99,Expresso 2222
+João,Fernandes,jfernandes@yahoo.pt,2023-12-22,1.98,1,0.99,Palco
+Hannah,Schneider,hannah.schneider@yahoo.de,2023-12-23,3.96,1,0.99,Sítio Do Pica-Pau Amarelo
+Hannah,Schneider,hannah.schneider@yahoo.de,2023-12-23,3.96,1,0.99,Faceless
+Hannah,Schneider,hannah.schneider@yahoo.de,2023-12-23,3.96,1,0.99,Make Me Believe
+Hannah,Schneider,hannah.schneider@yahoo.de,2023-12-23,3.96,1,0.99,Re-Align
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-12-24,5.94,1,0.99,I Am
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-12-24,5.94,1,0.99,Jesus Of Suburbia / City Of The Damned / I Don't Care / Dearly Beloved / Tales Of Another Broken Home
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-12-24,5.94,1,0.99,St. Jimmy
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-12-24,5.94,1,0.99,Letterbomb
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-12-24,5.94,1,0.99,Welcome to the Jungle
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2023-12-24,5.94,1,0.99,Mr. Brownstone
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,Anything Goes
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,Perfect Crime
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,The Garden
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,Civil War
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,Breakdown
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,Don't Cry
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,L'Arc En Ciel De Miles
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,Jacob's Ladder
+Hugh,O'Reilly,hughoreilly@apple.ie,2023-12-27,8.91,1,0.99,The Pilgrim
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,The Trooper
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Iron Maiden
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Bring Your Daughter... To The Slaughter
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Dream Of Mirrors
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Dance Of Death
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Afraid To Shoot Strangers
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Fear Of The Dark
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,09 - Iron Maiden
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Purgatory
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Powerslave
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Die With Your Boots On
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,The Evil That Men Do
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,Hallowed Be Thy Name
+Mark,Taylor,mark.taylor@yahoo.au,2024-01-01,13.86,1,0.99,The Assassin
+Eduardo,Martins,eduardo@woodstock.com.br,2024-01-09,0.99,1,0.99,Aces High
+Alexandre,Rocha,alero@uol.com.br,2024-01-22,1.98,1,0.99,2 Minutes To Midnight
+Alexandre,Rocha,alero@uol.com.br,2024-01-22,1.98,1,0.99,Losfer Words
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-01-22,1.98,1,0.99,Duelists
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-01-22,1.98,1,0.99,Powerslave
+Jennifer,Peterson,jenniferp@rogers.ca,2024-01-23,3.96,1,0.99,Intro
+Jennifer,Peterson,jenniferp@rogers.ca,2024-01-23,3.96,1,0.99,Ghost Of The Navigator
+Jennifer,Peterson,jenniferp@rogers.ca,2024-01-23,3.96,1,0.99,Wrathchild
+Jennifer,Peterson,jenniferp@rogers.ca,2024-01-23,3.96,1,0.99,Blood Brothers
+Tim,Goyer,tgoyer@apple.com,2024-01-24,5.94,1,0.99,Dream Of Mirrors
+Tim,Goyer,tgoyer@apple.com,2024-01-24,5.94,1,0.99,Iron Maiden
+Tim,Goyer,tgoyer@apple.com,2024-01-24,5.94,1,0.99,Run To The Hills
+Tim,Goyer,tgoyer@apple.com,2024-01-24,5.94,1,0.99,The Evil That Men Do
+Tim,Goyer,tgoyer@apple.com,2024-01-24,5.94,1,0.99,Only the Good Die Young
+Tim,Goyer,tgoyer@apple.com,2024-01-24,5.94,1,0.99,Heaven Can Wait
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,Children of the Damned
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,The Prisoner
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,The Aftermath
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,Futureal
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,Don't Look To The Eyes Of A Stranger
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,Papa's Got A Brand New Bag Pt.1
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,Hey America
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,Living In America
+Victor,Stevens,vstevens@yahoo.com,2024-01-27,8.91,1,0.99,Hooked Up
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Planet Home
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Deeper Underground
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Journey To Arnhemland
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Radio Song
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Red House
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Hey Joe
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,"Always With Me, Always With You"
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Mama Africa
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Santa Clara Clareou
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Encontrar Alguém
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,No Futuro
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Cafezinho
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,You've Got Another Thing Comin'
+João,Fernandes,jfernandes@yahoo.pt,2024-02-01,13.86,1,0.99,Comin' Home
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2024-02-09,0.99,1,0.99,Rock And Roll All Nite
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-02-22,1.98,1,0.99,Immigrant Song
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-02-22,1.98,1,0.99,Heartbreaker
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-02-22,1.98,1,0.99,Black Dog
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-02-22,1.98,1,0.99,Stairway To Heaven
+Phil,Hughes,phil.hughes@gmail.com,2024-02-23,3.96,1,0.99,That's The Way
+Phil,Hughes,phil.hughes@gmail.com,2024-02-23,3.96,1,0.99,Thank You
+Phil,Hughes,phil.hughes@gmail.com,2024-02-23,3.96,1,0.99,Poor Tom
+Phil,Hughes,phil.hughes@gmail.com,2024-02-23,3.96,1,0.99,Walter's Walk
+Luis,Rojas,luisrojas@yahoo.cl,2024-02-24,5.94,1,0.99,Wearing And Tearing
+Luis,Rojas,luisrojas@yahoo.cl,2024-02-24,5.94,1,0.99,The Crunge
+Luis,Rojas,luisrojas@yahoo.cl,2024-02-24,5.94,1,0.99,The Ocean
+Luis,Rojas,luisrojas@yahoo.cl,2024-02-24,5.94,1,0.99,Hot Dog
+Luis,Rojas,luisrojas@yahoo.cl,2024-02-24,5.94,1,0.99,Black Dog
+Luis,Rojas,luisrojas@yahoo.cl,2024-02-24,5.94,1,0.99,Misty Mountain Hop
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,You Shook Me
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,How Many More Times
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,Living Loving Maid (She's Just A Woman)
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,Celebration Day
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,Bron-Y-Aur Stomp
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,Night Flight
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,For Your Life
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,Rock & Roll
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2024-02-27,8.91,1,0.99,Stairway To Heaven
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Aloha
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Será
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Pais E Filhos
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Rock And Roll Is Dead
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,I Belong To You
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Casa
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,A Cura
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Sereia
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Heart Of Lothian: Wide Boy / Curtain Call
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Cérebro Eletrônico
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,A Menina Dança
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,You've Been A Long Time Coming
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,"Abraham, Martin And John"
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-03-03,13.86,1,0.99,Everything I Need
+Patrick,Gray,patrick.gray@aol.com,2024-03-11,0.99,1,0.99,Nothing Else Matters
+Julia,Barnett,jubarnett@gmail.com,2024-03-24,1.98,1,0.99,Of Wolf And Man
+Julia,Barnett,jubarnett@gmail.com,2024-03-24,1.98,1,0.99,The God That Failed
+Edward,Francis,edfrancis@yachoo.ca,2024-03-24,1.98,1,0.99,The Struggle Within
+Edward,Francis,edfrancis@yachoo.ca,2024-03-24,1.98,1,0.99,The Small Hours
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-03-25,3.96,1,0.99,Crash Course In Brain Surgery
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-03-25,3.96,1,0.99,Am I Evil?
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-03-25,3.96,1,0.99,Breadfan
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-03-25,3.96,1,0.99,Stone Cold Crazy
+Hannah,Schneider,hannah.schneider@yahoo.de,2024-03-26,5.94,1,0.99,Damage Case
+Hannah,Schneider,hannah.schneider@yahoo.de,2024-03-26,5.94,1,0.99,The Four Horsemen
+Hannah,Schneider,hannah.schneider@yahoo.de,2024-03-26,5.94,1,0.99,Whiplash
+Hannah,Schneider,hannah.schneider@yahoo.de,2024-03-26,5.94,1,0.99,Metal Militia
+Hannah,Schneider,hannah.schneider@yahoo.de,2024-03-26,5.94,1,0.99,Until It Sleeps
+Hannah,Schneider,hannah.schneider@yahoo.de,2024-03-26,5.94,1,0.99,Cure
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,The Outlaw Torn
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,Leper Messiah
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,The Unforgiven II
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,Prince Charming
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,For Whom The Bell Tolls
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,Frantic
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,Shoot Me Again
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,...And Justice For All
+Wyatt,Girard,wyatt.girard@yahoo.fr,2024-03-29,8.91,1,0.99,To Live Is To Die
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,The Meaning Of The Blues
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Paisagem Na Janela
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Para Lennon E McCartney
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Idolatrada
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Live To Win
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Dirty Love
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,É Fogo
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Kickstart My Heart
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Smokin' in The Boys Room
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Smells Like Teen Spirit
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Polly
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Polly
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Sangue Latino
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-04-03,13.86,1,0.99,Às Vezes
+Helena,Holý,hholy@gmail.com,2024-04-11,0.99,1,0.99,Revolta Olodum
+Astrid,Gruber,astrid.gruber@apple.at,2024-04-24,1.98,1,0.99,Reggae Odoyá
+Astrid,Gruber,astrid.gruber@apple.at,2024-04-24,1.98,1,0.99,Protesto Do Olodum (Ao Vivo)
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-04-24,1.98,1,0.99,Vulcão Dub - Fui Eu
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-04-24,1.98,1,0.99,Manguetown
+Alexandre,Rocha,alero@uol.com.br,2024-04-25,3.96,1,0.99,Bora-Bora
+Alexandre,Rocha,alero@uol.com.br,2024-04-25,3.96,1,0.99,I Feel Good (I Got You) - Sossego
+Alexandre,Rocha,alero@uol.com.br,2024-04-25,3.96,1,0.99,Sincero Breu
+Alexandre,Rocha,alero@uol.com.br,2024-04-25,3.96,1,0.99,Selvagem
+Jennifer,Peterson,jenniferp@rogers.ca,2024-04-26,5.94,1,0.99,Navegar Impreciso
+Jennifer,Peterson,jenniferp@rogers.ca,2024-04-26,5.94,1,0.99,Life During Wartime
+Jennifer,Peterson,jenniferp@rogers.ca,2024-04-26,5.94,1,0.99,Tendo A Lua
+Jennifer,Peterson,jenniferp@rogers.ca,2024-04-26,5.94,1,0.99,Busca Vida
+Jennifer,Peterson,jenniferp@rogers.ca,2024-04-26,5.94,1,0.99,Ela Disse Adeus
+Jennifer,Peterson,jenniferp@rogers.ca,2024-04-26,5.94,1,0.99,Óculos
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,O Beco
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,Romance Ideal
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,Flying High Again
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,Mr. Crowley
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,Children Of The Grave
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,When The World Was Young
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,Walking Into Clarksdale
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,Slug
+Kathy,Chase,kachase@hotmail.com,2024-04-29,8.91,1,0.99,Ito Okashi
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Prowler
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Given To Fly
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Off He Goes
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Severed Hand
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Inside Job
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Get Right
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Alive
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Go
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Elderly Woman Behind The Counter In A Small Town
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Bush Doctor
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Time
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Hip Hop Rio
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Rappers Reais
+Edward,Francis,edfrancis@yachoo.ca,2024-05-04,13.86,1,0.99,Bicycle Race
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2024-05-12,0.99,1,0.99,We Are The Champions
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-05-25,1.98,1,0.99,Sheer Heart Attack
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-05-25,1.98,1,0.99,"All Dead, All Dead"
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-05-25,1.98,1,0.99,Fight From The Inside
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-05-25,1.98,1,0.99,Sleep On The Sidewalk
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-05-26,3.96,1,0.99,It's Late
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-05-26,3.96,1,0.99,Shiny Happy People
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-05-26,3.96,1,0.99,Radio Song
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-05-26,3.96,1,0.99,Get Up
+Phil,Hughes,phil.hughes@gmail.com,2024-05-27,5.94,1,0.99,The Wrong Child
+Phil,Hughes,phil.hughes@gmail.com,2024-05-27,5.94,1,0.99,I Remember California
+Phil,Hughes,phil.hughes@gmail.com,2024-05-27,5.94,1,0.99,New Test Leper
+Phil,Hughes,phil.hughes@gmail.com,2024-05-27,5.94,1,0.99,Departure
+Phil,Hughes,phil.hughes@gmail.com,2024-05-27,5.94,1,0.99,Zither
+Phil,Hughes,phil.hughes@gmail.com,2024-05-27,5.94,1,0.99,Losing My Religion
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,Texarkana
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,So Central Rain
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,Fall On Me
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,Infeliz Natal
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,Esporrei Na Manivela
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,No Fundo Do Quintal Da Escola
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,Que Luz É Essa
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,The Power Of Equality
+Puja,Srivastava,puja_srivastava@yahoo.in,2024-05-30,8.91,1,0.99,Mellowship Slinky In B Major
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Sir Psycho Sexy
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,I Could Die For You
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Around The World
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,I Like Dirt
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Freewill
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Fly By Night
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Santana Jam
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,The Right Thing
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,For Your Babies
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Muçulmano
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Zé Trindade
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Lucky 13
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Waiting
+Kara,Nielsen,kara.nielsen@jubii.dk,2024-06-04,13.86,1,0.99,Drown
+John,Gordon,johngordon22@yahoo.com,2024-06-12,0.99,1,0.99,Real Love
+Frank,Ralston,fralston@gmail.com,2024-06-25,1.98,1,0.99,[Untitled]
+Frank,Ralston,fralston@gmail.com,2024-06-25,1.98,1,0.99,Nothing To Say
+Richard,Cunningham,ricunningham@hotmail.com,2024-06-25,1.98,1,0.99,Loud Love
+Richard,Cunningham,ricunningham@hotmail.com,2024-06-25,1.98,1,0.99,Get On The Snake
+Julia,Barnett,jubarnett@gmail.com,2024-06-26,3.96,1,0.99,Outshined
+Julia,Barnett,jubarnett@gmail.com,2024-06-26,3.96,1,0.99,Spoonman
+Julia,Barnett,jubarnett@gmail.com,2024-06-26,3.96,1,0.99,Black Hole Sun
+Julia,Barnett,jubarnett@gmail.com,2024-06-26,3.96,1,0.99,Pretty Noose
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-06-27,5.94,1,0.99,Bleed Together
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-06-27,5.94,1,0.99,Song For Lorraine
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-06-27,5.94,1,0.99,Little Linda
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-06-27,5.94,1,0.99,Tightrope
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-06-27,5.94,1,0.99,Wall Of Denial
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2024-06-27,5.94,1,0.99,Dead And Bloated
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Creep
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Soldier Side - Intro
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Violent Pornography
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Dark Corners
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Midnight From The Inside Out
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Miracle To Me
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Title Song
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Remedy
+Niklas,Schröder,nschroder@surfeu.de,2024-06-30,8.91,1,0.99,Tommy Gun
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,This Is Radio Clash
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Nico
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Lil' Evil
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Love
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,The Crystal Ship
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Roxanne
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Every Breath You Take
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,As Tears Go By
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,You Got Me Rocking
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Respectable
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Moon Is Up
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Mean Disposition
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Release
+Lucas,Mancini,lucas.mancini@yahoo.it,2024-07-05,13.86,1,0.99,Psychopomp
+Leonie,Köhler,leonekohler@surfeu.de,2024-07-13,0.99,1,0.99,Boris The Spider
+François,Tremblay,ftremblay@gmail.com,2024-07-26,1.98,1,0.99,Happy Jack
+François,Tremblay,ftremblay@gmail.com,2024-07-26,1.98,1,0.99,Pictures Of Lily
+František,Wichterlová,frantisekw@jetbrains.com,2024-07-26,1.98,1,0.99,Magic Bus
+František,Wichterlová,frantisekw@jetbrains.com,2024-07-26,1.98,1,0.99,The Seeker
+Astrid,Gruber,astrid.gruber@apple.at,2024-07-27,3.96,1,0.99,Won't Get Fooled Again (Full Length Version)
+Astrid,Gruber,astrid.gruber@apple.at,2024-07-27,3.96,1,0.99,5.15
+Astrid,Gruber,astrid.gruber@apple.at,2024-07-27,3.96,1,0.99,Squeeze Box
+Astrid,Gruber,astrid.gruber@apple.at,2024-07-27,3.96,1,0.99,You Better You Bet
+Alexandre,Rocha,alero@uol.com.br,2024-07-28,5.94,1,0.99,O Descobridor Dos Sete Mares
+Alexandre,Rocha,alero@uol.com.br,2024-07-28,5.94,1,0.99,Não Vou Ficar
+Alexandre,Rocha,alero@uol.com.br,2024-07-28,5.94,1,0.99,Cristina Nº 2
+Alexandre,Rocha,alero@uol.com.br,2024-07-28,5.94,1,0.99,O Que Me Importa
+Alexandre,Rocha,alero@uol.com.br,2024-07-28,5.94,1,0.99,Eu Amo Você
+Alexandre,Rocha,alero@uol.com.br,2024-07-28,5.94,1,0.99,Nosso Adeus
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,0.99,Formigueiro
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,0.99,O Pulso
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,0.99,A Melhor Forma
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,0.99,Homem Primata
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,0.99,Lugar Nenhum
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,0.99,Caras Como Eu
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,0.99,Toda Cor
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,1.99,"Exodus, Pt. 2"
+Jack,Smith,jacksmith@microsoft.com,2024-07-31,10.91,1,1.99,The Passage
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,"Crossroads, Pt. 1"
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,Seven Minutes to Midnight
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,Company Man
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,Orientation
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,House of the Rising Sun
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,Lost Survival Guide
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,Enter 77
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,Exposé
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,Catch-22
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,1.99,"""?"""
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,0.99,Even Better Than The Real Thing
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,0.99,Acrobat
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,0.99,Peace On Earth
+Richard,Cunningham,ricunningham@hotmail.com,2024-08-05,23.86,1,0.99,Dancing Barefoot
+Dominique,Lefebvre,dominiquelefebvre@gmail.com,2024-08-13,0.99,1,0.99,City Of Blinding Lights
+Marc,Dubois,marc.dubois@hotmail.com,2024-08-26,1.98,1,0.99,All Because Of You
+Marc,Dubois,marc.dubois@hotmail.com,2024-08-26,1.98,1,0.99,A Man And A Woman
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-08-26,1.98,1,0.99,One Step Closer
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-08-26,1.98,1,0.99,Yahweh
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-08-27,3.96,1,0.99,Do You Feel Loved
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-08-27,3.96,1,0.99,If God Will Send His Angels
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-08-27,3.96,1,0.99,Last Night On Earth
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-08-27,3.96,1,0.99,Miami
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-08-28,5.94,1,0.99,Wake Up Dead Man
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-08-28,5.94,1,0.99,Hawkmoon 269
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-08-28,5.94,1,0.99,Silver And Gold
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-08-28,5.94,1,0.99,When Love Comes To Town
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-08-28,5.94,1,0.99,Bullet The Blue Sky
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2024-08-28,5.94,1,0.99,With Or Without You
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,The Unforgettable Fire
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,Sunday Bloody Sunday
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,Two Hearts Beat As One
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,Numb
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,Dirty Day
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,Here I Am (Come And Take Me)
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,C'est La Vie
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,Cathedral
+Mark,Taylor,mark.taylor@yahoo.au,2024-08-31,8.91,1,0.99,Little Guitars
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Unchained
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Humans Being
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Atomic Punk
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Dirty Water Dog
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Do It For The Kids
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Slither
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Samba Pra Endrigo
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Still Of The Night
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,You're Gonna Break My Hart Again
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Coração Em Desalinho
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,0.99,Camarão que Dorme e Onda Leva
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,1.99,The Hard Part
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,1.99,Hot Girl
+František,Wichterlová,frantisekw@jetbrains.com,2024-09-05,16.86,1,1.99,Email Surveillance
+Tim,Goyer,tgoyer@apple.com,2024-09-13,1.99,1,1.99,Gay Witch Hunt
+Dan,Miller,dmiller@comcast.com,2024-09-26,3.98,1,1.99,The Convention
+Dan,Miller,dmiller@comcast.com,2024-09-26,3.98,1,1.99,The Coup
+Heather,Leacock,hleacock@gmail.com,2024-09-26,3.98,1,1.99,The Initiation
+Heather,Leacock,hleacock@gmail.com,2024-09-26,3.98,1,1.99,Branch Closing
+Frank,Ralston,fralston@gmail.com,2024-09-27,7.96,1,1.99,The Convict
+Frank,Ralston,fralston@gmail.com,2024-09-27,7.96,1,1.99,Back from Vacation
+Frank,Ralston,fralston@gmail.com,2024-09-27,7.96,1,1.99,Producer's Cut: The Return
+Frank,Ralston,fralston@gmail.com,2024-09-27,7.96,1,1.99,Phyllis's Wedding
+Julia,Barnett,jubarnett@gmail.com,2024-09-28,11.94,1,1.99,Safety Training
+Julia,Barnett,jubarnett@gmail.com,2024-09-28,11.94,1,1.99,The Job
+Julia,Barnett,jubarnett@gmail.com,2024-09-28,11.94,1,1.99,"Battlestar Galactica, Pt. 1"
+Julia,Barnett,jubarnett@gmail.com,2024-09-28,11.94,1,1.99,"Lost Planet of the Gods, Pt. 2"
+Julia,Barnett,jubarnett@gmail.com,2024-09-28,11.94,1,1.99,"The Gun On Ice Planet Zero, Pt. 2"
+Julia,Barnett,jubarnett@gmail.com,2024-09-28,11.94,1,1.99,"The Living Legend, Pt. 2"
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,1.99,"Greetings from Earth, Pt. 1"
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,1.99,Pilot
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,0.99,Give Peace a Chance
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,0.99,Imagine
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,0.99,Beautiful Boy
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,0.99,God
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,0.99,War Pigs
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,0.99,Iron Man/Children of the Grave
+João,Fernandes,jfernandes@yahoo.pt,2024-10-01,10.91,1,0.99,Still Loving You
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Salutations
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Commercial 2
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Instinto Colectivo
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Armadura
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,1.99,"Past, Present, and Future"
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,1.99,Ji Yeon
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Love Comes
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,1.99,"There's No Place Like Home, Pt. 3"
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Four Walled World
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Billie Jean
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Sound of a Gun
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Moth
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,"Suite for Solo Cello No. 1 in G Major, BWV 1007: I. Prélude"
+Isabelle,Mercier,isabelle_mercier@apple.fr,2024-10-06,16.86,1,0.99,Die Walküre: The Ride of the Valkyries
+Luis,Rojas,luisrojas@yahoo.cl,2024-10-14,0.99,1,0.99,"Scheherazade, Op. 35: I. The Sea and Sindbad's Ship"
+Manoj,Pareek,manoj.pareek@rediff.com,2024-10-27,1.98,1,0.99,"Concerto No.2 in F Major, BWV1047, I. Allegro"
+Manoj,Pareek,manoj.pareek@rediff.com,2024-10-27,1.98,1,0.99,"Concerto for Piano No. 2 in F Minor, Op. 21: II. Larghetto"
+Luís,Gonçalves,luisg@embraer.com.br,2024-10-27,1.98,1,0.99,"Karelia Suite, Op.11: 2. Ballade (Tempo Di Menuetto)"
+Luís,Gonçalves,luisg@embraer.com.br,2024-10-27,1.98,1,0.99,Fantasia On Greensleeves
+François,Tremblay,ftremblay@gmail.com,2024-10-28,3.96,1,0.99,"Concerto for Cello and Orchestra in E minor, Op. 85: I. Adagio - Moderato"
+François,Tremblay,ftremblay@gmail.com,2024-10-28,3.96,1,0.99,"Wellington's Victory or the Battle Symphony, Op.91: 2. Symphony of Triumph"
+François,Tremblay,ftremblay@gmail.com,2024-10-28,3.96,1,0.99,Romeo et Juliette: No. 11 - Danse des Chevaliers
+François,Tremblay,ftremblay@gmail.com,2024-10-28,3.96,1,0.99,"Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat"
+Astrid,Gruber,astrid.gruber@apple.at,2024-10-29,5.94,1,0.99,"Peer Gynt Suite No.1, Op.46: 1. Morning Mood"
+Astrid,Gruber,astrid.gruber@apple.at,2024-10-29,5.94,1,0.99,"Symphony No. 41 in C Major, K. 551, ""Jupiter"": IV. Molto allegro"
+Astrid,Gruber,astrid.gruber@apple.at,2024-10-29,5.94,1,0.99,Just Friends
+Astrid,Gruber,astrid.gruber@apple.at,2024-10-29,5.94,1,0.99,Wake Up Alone
+Astrid,Gruber,astrid.gruber@apple.at,2024-10-29,5.94,1,0.99,Rehab (Hot Chip Remix)
+Astrid,Gruber,astrid.gruber@apple.at,2024-10-29,5.94,1,0.99,I Heard Love Is Blind
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,Help Yourself
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,"Suite No. 3 in D, BWV 1068: III. Gavotte I & II"
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,"Music for the Funeral of Queen Mary: VI. ""Thou Knowest, Lord, the Secrets of Our Hearts"""
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,"Symphony No. 2, Op. 16 -  ""The Four Temperaments"": II. Allegro Comodo e Flemmatico"
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,"String Quartet No. 12 in C Minor, D. 703 ""Quartettsatz"": II. Andante - Allegro assai"
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,Fast As a Shark
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,Snowballed
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,Go Down
+Fernanda,Ramos,fernadaramos4@uol.com.br,2024-11-01,8.91,1,0.99,Hell Ain't A Bad Place To Be
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Amazing
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,You Oughta Know
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Not The Doctor
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,It Ain't Like That
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Por Causa De Você
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,O Boto (Bôto)
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Welcome Home (Sanitarium)
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Exploder
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Doesn't Remind Me
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Money
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Carol
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Solo-Panhandler
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Bored To Tears
+Heather,Leacock,hleacock@gmail.com,2024-11-06,13.86,1,0.99,Blood In The Wall
+Hannah,Schneider,hannah.schneider@yahoo.de,2024-11-14,0.99,1,0.99,Snowblind
+Fynn,Zimmermann,fzimmermann@yahoo.de,2024-11-27,1.98,1,0.99,Cornucopia
+Fynn,Zimmermann,fzimmermann@yahoo.de,2024-11-27,1.98,1,0.99,Laguna Sunrise
+Camille,Bernard,camille.bernard@yahoo.fr,2024-11-27,1.98,1,0.99,Under The Sun/Every Day Comes and Goes
+Camille,Bernard,camille.bernard@yahoo.fr,2024-11-27,1.98,1,0.99,Body Count's In The House
+Marc,Dubois,marc.dubois@hotmail.com,2024-11-28,3.96,1,0.99,Body Count
+Marc,Dubois,marc.dubois@hotmail.com,2024-11-28,3.96,1,0.99,Bowels Of The Devil
+Marc,Dubois,marc.dubois@hotmail.com,2024-11-28,3.96,1,0.99,KKK Bitch
+Marc,Dubois,marc.dubois@hotmail.com,2024-11-28,3.96,1,0.99,Voodoo
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-11-29,5.94,1,0.99,Evil Dick
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-11-29,5.94,1,0.99,King In Crimson
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-11-29,5.94,1,0.99,Book Of Thel
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-11-29,5.94,1,0.99,Machine Men
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-11-29,5.94,1,0.99,Let Me Love You Baby
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2024-11-29,5.94,1,0.99,Leave My Girl Alone
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Jorge Da Capadócia
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Bem Devagar
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Mel
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Sozinho (Hitmakers Classic Mix)
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Samba De Orly
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Apesar De Você
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Geni E O Zepelim
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,O Cidadão Do Mundo
+Joakim,Johansson,joakim.johansson@yahoo.se,2024-12-02,8.91,1,0.99,Maracatu Atômico
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Interlude Zumbi
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Rios Pontes & Overdrives
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Lixo Do Mangue
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Podes Crer
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,A Cor Do Sol
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Doutor
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Linha Do Equador
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,TriboTchan
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Reggae Tchan
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Communication Breakdown(2)
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Carolina Hard-Core Ecstasy
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,X-9 2001
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Ipiranga 2001
+Luís,Gonçalves,luisg@embraer.com.br,2024-12-07,13.86,1,0.99,Água de Beber
+Jennifer,Peterson,jenniferp@rogers.ca,2024-12-15,0.99,1,0.99,Tarde Em Itapoã
+Frank,Harris,fharris@google.com,2024-12-28,1.98,1,0.99,Tanto Tempo
+Frank,Harris,fharris@google.com,2024-12-28,1.98,1,0.99,Eu Vim Da Bahia - Live
+Michelle,Brooks,michelleb@aol.com,2024-12-28,1.98,1,0.99,Linha Do Horizonte
+Michelle,Brooks,michelleb@aol.com,2024-12-28,1.98,1,0.99,Abrir A Porta
+Dan,Miller,dmiller@comcast.com,2024-12-29,3.96,1,0.99,Momentos Que Marcam
+Dan,Miller,dmiller@comcast.com,2024-12-29,3.96,1,0.99,Bumbo Da Mangueira
+Dan,Miller,dmiller@comcast.com,2024-12-29,3.96,1,0.99,Santo Antonio
+Dan,Miller,dmiller@comcast.com,2024-12-29,3.96,1,0.99,Só Tinha De Ser Com Você
+Frank,Ralston,fralston@gmail.com,2024-12-30,5.94,1,0.99,Turn The Page
+Frank,Ralston,fralston@gmail.com,2024-12-30,5.94,1,0.99,Astronomy
+Frank,Ralston,fralston@gmail.com,2024-12-30,5.94,1,0.99,A Kind Of Magic
+Frank,Ralston,fralston@gmail.com,2024-12-30,5.94,1,0.99,I Want To Break Free
+Frank,Ralston,fralston@gmail.com,2024-12-30,5.94,1,0.99,Who Wants To Live Forever
+Frank,Ralston,fralston@gmail.com,2024-12-30,5.94,1,0.99,The Invisible Man
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,Black Diamond
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,Shock Me
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,Calling Dr. Love
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,God Gave Rock 'n' Roll To You
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,Surrender
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,Best Thing
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,When I Come Around
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,Walking Contradiction
+Edward,Francis,edfrancis@yachoo.ca,2025-01-02,8.91,1,0.99,Minority
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Slave
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Começaria Tudo Outra Vez
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Comportamento Geral
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Menino Do Rio
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Ando Meio Desligado
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Rita Lee
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Smoke On The Water
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Beija-Flor
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Caprichosos
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Do You Like The Way
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Manuel
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,Do You Have Other Loves?
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,'Round Midnight
+Camille,Bernard,camille.bernard@yahoo.fr,2025-01-07,13.86,1,0.99,E.S.P.
+Phil,Hughes,phil.hughes@gmail.com,2025-01-15,0.99,1,0.99,Blue Rythm Fantasy
+Steve,Murray,steve.murray@yahoo.uk,2025-01-28,1.98,1,0.99,Drum Boogie
+Steve,Murray,steve.murray@yahoo.uk,2025-01-28,1.98,1,0.99,Let Me Off Uptown
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-01-28,1.98,1,0.99,Opus No.1
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-01-28,1.98,1,0.99,How High The Moon
+Manoj,Pareek,manoj.pareek@rediff.com,2025-01-29,3.96,1,0.99,Up An' Atom
+Manoj,Pareek,manoj.pareek@rediff.com,2025-01-29,3.96,1,0.99,Lemon Drop
+Manoj,Pareek,manoj.pareek@rediff.com,2025-01-29,3.96,1,0.99,Overtime
+Manoj,Pareek,manoj.pareek@rediff.com,2025-01-29,3.96,1,0.99,Don't Take Your Love From Me
+François,Tremblay,ftremblay@gmail.com,2025-01-30,5.94,1,0.99,Jungle Drums
+François,Tremblay,ftremblay@gmail.com,2025-01-30,5.94,1,0.99,Pot-Pourri N.º 4
+François,Tremblay,ftremblay@gmail.com,2025-01-30,5.94,1,0.99,Pot-Pourri N.º 5
+François,Tremblay,ftremblay@gmail.com,2025-01-30,5.94,1,0.99,Por Que Será
+François,Tremblay,ftremblay@gmail.com,2025-01-30,5.94,1,0.99,Samba Em Prelúdio
+François,Tremblay,ftremblay@gmail.com,2025-01-30,5.94,1,0.99,Chão de Giz (Elba Ramalho)
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Caçador de Mim (Sá & Guarabyra)
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Susie Q
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Commotion
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Run Through The Jungle
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Sweet Hitch-Hiker
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Tombstone Shadow
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,The Midnight Special
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Molina
+Kara,Nielsen,kara.nielsen@jubii.dk,2025-02-02,8.91,1,0.99,Eu Sou Neguinha (Ao Vivo)
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Palavras Ao Vento
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Metrô. Linha 743
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Mis Penas Lloraba Yo (Ao Vivo) Soy Gitano (Tangos)
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,You Keep On Moving
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,No No No
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Nobody's Home
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Maybe I'm A Leo
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Sometimes I Feel Like Screaming
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,King Of Dreams
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Stormbringer
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,The Battle Rages On
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,One Man's Meat
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,When Love & Hate Collide
+Michelle,Brooks,michelleb@aol.com,2025-02-07,13.86,1,0.99,Otay
+Aaron,Mitchell,aaronmitchell@yahoo.ca,2025-02-15,0.99,1,0.99,Álibi
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-02-28,1.98,1,0.99,Esquinas
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-02-28,1.98,1,0.99,Se...
+Madalena,Sampaio,masampaio@sapo.pt,2025-02-28,1.98,1,0.99,Lilás
+Madalena,Sampaio,masampaio@sapo.pt,2025-02-28,1.98,1,0.99,Um Amor Puro
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-03-01,3.96,1,0.99,Nem Um Dia
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-03-01,3.96,1,0.99,Açai
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-03-01,3.96,1,0.99,Flor De Lis
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-03-01,3.96,1,0.99,Azul
+Marc,Dubois,marc.dubois@hotmail.com,2025-03-02,5.94,1,0.99,Acelerou
+Marc,Dubois,marc.dubois@hotmail.com,2025-03-02,5.94,1,0.99,Atrás da Porta
+Marc,Dubois,marc.dubois@hotmail.com,2025-03-02,5.94,1,0.99,"Alô, Alô, Marciano"
+Marc,Dubois,marc.dubois@hotmail.com,2025-03-02,5.94,1,0.99,As Aparências Enganam
+Marc,Dubois,marc.dubois@hotmail.com,2025-03-02,5.94,1,0.99,Layla
+Marc,Dubois,marc.dubois@hotmail.com,2025-03-02,5.94,1,0.99,Crossroads
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,After Midnight
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,Promises
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,Lonely Stranger
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,San Francisco Bay Blues
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,Last Cup Of Sorrow
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,Got That Feeling
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,Midlife Crisis
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,Be Aggressive
+Lucas,Mancini,lucas.mancini@yahoo.it,2025-03-05,8.91,1,0.99,Get Out
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Take This Bottle
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Surprise! You're Dead!
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Falamansa Song
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Medo De Escuro
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,The Last Song
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Friend Of A Friend
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Times Like These
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Monkey Wrench
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Everlong
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,What Now My Love
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,It Was A Very Good Year
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Entrando Na Sua (Intro)
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Dujji
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-03-10,13.86,1,0.99,Esperando Na Janela
+Alexandre,Rocha,alero@uol.com.br,2025-03-18,0.99,1,0.99,Is This Love (Live)
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-03-31,1.98,1,0.99,Stir It Up (Live)
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-03-31,1.98,1,0.99,Refavela (Live)
+Mark,Philips,mphilips12@shaw.ca,2025-03-31,1.98,1,0.99,Quanta (Live)
+Mark,Philips,mphilips12@shaw.ca,2025-03-31,1.98,1,0.99,Pela Internet (Live)
+Frank,Harris,fharris@google.com,2025-04-01,3.96,1,0.99,Opachorô (Live)
+Frank,Harris,fharris@google.com,2025-04-01,3.96,1,0.99,A Novidade (Live)
+Frank,Harris,fharris@google.com,2025-04-01,3.96,1,0.99,De Ouro E Marfim (Live)
+Frank,Harris,fharris@google.com,2025-04-01,3.96,1,0.99,Lamento De Carnaval
+Dan,Miller,dmiller@comcast.com,2025-04-02,5.94,1,0.99,Refazenda
+Dan,Miller,dmiller@comcast.com,2025-04-02,5.94,1,0.99,A Paz
+Dan,Miller,dmiller@comcast.com,2025-04-02,5.94,1,0.99,Tempo Rei
+Dan,Miller,dmiller@comcast.com,2025-04-02,5.94,1,0.99,Toda Menina Baiana
+Dan,Miller,dmiller@comcast.com,2025-04-02,5.94,1,0.99,Changes
+Dan,Miller,dmiller@comcast.com,2025-04-02,5.94,1,0.99,I Fucking Hate You
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,American Idiot
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,Give Me Novacaine
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,Whatsername
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,Paradise City
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,Rocket Queen
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,You Ain't the First
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,Garden of Eden
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,14 Years
+Richard,Cunningham,ricunningham@hotmail.com,2025-04-05,8.91,1,0.99,Pretty Tied Up
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,Magnetic Ocean
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,She Wears Black
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,For the Greater Good of God
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,Where Eagles Dare
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,Can I Play With Madness
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,The Wicker Man
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,The Thin Line Between Love & Hate
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,Face In The Sand
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,The Fugitive
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,04 - Running Free
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,Another Life
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,2 Minutes To Midnight
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,Run To The Hills
+Madalena,Sampaio,masampaio@sapo.pt,2025-04-10,13.86,1,0.99,Wrathchild
+Stanisław,Wójcik,stanisław.wójcik@wp.pl,2025-04-18,0.99,1,0.99,Hallowed Be Thy Name
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-05-01,1.98,1,0.99,The Trooper
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-05-01,1.98,1,0.99,Sanctuary
+Emma,Jones,emma_jones@hotmail.com,2025-05-01,1.98,1,0.99,Tailgunner
+Emma,Jones,emma_jones@hotmail.com,2025-05-01,1.98,1,0.99,No Prayer For The Dying
+Steve,Murray,steve.murray@yahoo.uk,2025-05-02,3.96,1,0.99,Fates Warning
+Steve,Murray,steve.murray@yahoo.uk,2025-05-02,3.96,1,0.99,Run Silent Run Deep
+Steve,Murray,steve.murray@yahoo.uk,2025-05-02,3.96,1,0.99,Bring Your Daughter... ...To The Slaughter
+Steve,Murray,steve.murray@yahoo.uk,2025-05-02,3.96,1,0.99,Where Eagles Dare
+Manoj,Pareek,manoj.pareek@rediff.com,2025-05-03,5.94,1,0.99,The Trooper
+Manoj,Pareek,manoj.pareek@rediff.com,2025-05-03,5.94,1,0.99,To Tame A Land
+Manoj,Pareek,manoj.pareek@rediff.com,2025-05-03,5.94,1,0.99,Flash of The Blade
+Manoj,Pareek,manoj.pareek@rediff.com,2025-05-03,5.94,1,0.99,Rime of the Ancient Mariner
+Manoj,Pareek,manoj.pareek@rediff.com,2025-05-03,5.94,1,0.99,Brave New World
+Manoj,Pareek,manoj.pareek@rediff.com,2025-05-03,5.94,1,0.99,Sign Of The Cross
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,Fear Of The Dark
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,Moonchild
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,The Clairvoyant
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,Stranger in a Strange Land
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,Gangland
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,Sign Of The Cross
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,Judgement Of Heaven
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,The Angel And The Gambler
+František,Wichterlová,frantisekw@jetbrains.com,2025-05-06,8.91,1,0.99,Como Estais Amigos
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,"Say It Loud, I'm Black And I'm Proud Pt.1"
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,I'm Real
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,"Whatever It Is, I Just Can't Stop"
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Destitute Illusions
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Light Years
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Are You Gonna Be My Girl
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Take It Or Leave It
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,May This Be Love
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,The Wind Cries Mary
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Lords of Karma
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Os Alquimistas Estão Chegando
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,As Dores do Mundo
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Sem Sentido
+Mark,Philips,mphilips12@shaw.ca,2025-05-11,13.86,1,0.99,Equinocio
+Julia,Barnett,jubarnett@gmail.com,2025-05-19,0.99,1,0.99,You've Got Another Thing Comin'
+Robert,Brown,robbrown@shaw.ca,2025-06-01,1.98,1,0.99,Turbo Lover
+Robert,Brown,robbrown@shaw.ca,2025-06-01,1.98,1,0.99,Freewheel Burning
+Martha,Silk,marthasilk@gmail.com,2025-06-01,1.98,1,0.99,Metal Meltdown
+Martha,Silk,marthasilk@gmail.com,2025-06-01,1.98,1,0.99,Diamonds And Rust (Live)
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-06-02,3.96,1,0.99,Tyrant (Live)
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-06-02,3.96,1,0.99,Plaster Caster
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-06-02,3.96,1,0.99,Do You Love Me
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-06-02,3.96,1,0.99,Sure Know Something
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-06-03,5.94,1,0.99,I Still Love You
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-06-03,5.94,1,0.99,Nothin' To Lose
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-06-03,5.94,1,0.99,Since I've Been Loving You
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-06-03,5.94,1,0.99,Going To California
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-06-03,5.94,1,0.99,We're Gonna Groove
+Fynn,Zimmermann,fzimmermann@yahoo.de,2025-06-03,5.94,1,0.99,Ozone Baby
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,Over The Hills And Far Away
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,In The Evening
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,I'm Gonna Crawl
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,Four Sticks
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,Dazed and Confused
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,Whole Lotta Love
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,Ramble On
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,Since I've Been Loving You
+Isabelle,Mercier,isabelle_mercier@apple.fr,2025-06-06,8.91,1,0.99,Hats Off To (Roy) Harper
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Sick Again
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Celebration Day
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,L'Avventura
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Leila
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Tempo Perdido
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Giz
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Mr. Cab Driver
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Assim Caminha A Humanidade
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Satisfação
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Ro-Que-Se-Da-Ne
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,O Último Romântico (Ao Vivo)
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Childhoods End?
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Panis Et Circenses
+Emma,Jones,emma_jones@hotmail.com,2025-06-11,13.86,1,0.99,Segue O Seco
+Astrid,Gruber,astrid.gruber@apple.at,2025-06-19,0.99,1,0.99,"Abraham, Martin And John"
+Daan,Peeters,daan_peeters@apple.be,2025-07-02,1.98,1,0.99,Save The Children
+Daan,Peeters,daan_peeters@apple.be,2025-07-02,1.98,1,0.99,You Sure Love To Ball
+Eduardo,Martins,eduardo@woodstock.com.br,2025-07-02,1.98,1,0.99,Praise
+Eduardo,Martins,eduardo@woodstock.com.br,2025-07-02,1.98,1,0.99,Down Under
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-07-03,3.96,1,0.99,Be Good Johnny
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-07-03,3.96,1,0.99,Down by the Sea
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-07-03,3.96,1,0.99,It's a Mistake
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-07-03,3.96,1,0.99,Shakes and Ladders
+Frank,Harris,fharris@google.com,2025-07-04,5.94,1,0.99,Holier Than Thou
+Frank,Harris,fharris@google.com,2025-07-04,5.94,1,0.99,Through The Never
+Frank,Harris,fharris@google.com,2025-07-04,5.94,1,0.99,My Friend Of Misery
+Frank,Harris,fharris@google.com,2025-07-04,5.94,1,0.99,The Wait
+Frank,Harris,fharris@google.com,2025-07-04,5.94,1,0.99,Blitzkrieg
+Frank,Harris,fharris@google.com,2025-07-04,5.94,1,0.99,So What
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Hit The Lights
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Phantom Lord
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,The House Jack Built
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Poor Twisted Me
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Battery
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Orion
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Better Than You
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Low Man's Lyric
+Heather,Leacock,hleacock@gmail.com,2025-07-07,8.91,1,0.99,Fade To Black
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Invisible Kid
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Eye Of The Beholder
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,The Duke
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Blues For Pablo (Alternate Take)
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Menestrel Das Alagoas
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Beijo Partido
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Norwegian Wood
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Jailbait
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,O Que Vai Em Meu Coração
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,A Moça e a Chuva
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Same Ol' Situation
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Shout At The Devil
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Spank Thru
+Martha,Silk,marthasilk@gmail.com,2025-07-12,13.86,1,0.99,Smells Like Teen Spirit
+Ladislav,Kovács,ladislav_kovacs@apple.hu,2025-07-20,0.99,1,0.99,Sangue Latino
+Hugh,O'Reilly,hughoreilly@apple.ie,2025-08-02,1.98,1,0.99,Folhas Secas
+Hugh,O'Reilly,hughoreilly@apple.ie,2025-08-02,1.98,1,0.99,Poeira
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-08-02,1.98,1,0.99,Quem Mata A Mulher Mata O Melhor
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-08-02,1.98,1,0.99,O Braço Da Minha Guitarra
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-08-03,3.96,1,0.99,Mãe Terra
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-08-03,3.96,1,0.99,Menino De Rua
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-08-03,3.96,1,0.99,Elza
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-08-03,3.96,1,0.99,Nossa Gente (Avisa Là)
+Steve,Murray,steve.murray@yahoo.uk,2025-08-04,5.94,1,0.99,Todo Amor (Asas Da Liberdade)
+Steve,Murray,steve.murray@yahoo.uk,2025-08-04,5.94,1,0.99,Jeito Faceiro
+Steve,Murray,steve.murray@yahoo.uk,2025-08-04,5.94,1,0.99,Olodum - Smile (Instrumental)
+Steve,Murray,steve.murray@yahoo.uk,2025-08-04,5.94,1,0.99,"Um Amor, Um Lugar"
+Steve,Murray,steve.murray@yahoo.uk,2025-08-04,5.94,1,0.99,Uns Dias
+Steve,Murray,steve.murray@yahoo.uk,2025-08-04,5.94,1,0.99,Brasília 5:31
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Vamo Batê Lata
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Mensagen De Amor (2000)
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Saber Amar
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Cinema Mudo
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Meu Erro
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Será Que Vai Chover?
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,"Mama, I'm Coming Home"
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Flying High Again
+Luís,Gonçalves,luisg@embraer.com.br,2025-08-07,8.91,1,0.99,Paranoid
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Most High
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Your Blue Room
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Plot 180
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Sanctuary
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Untitled
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Black
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Big Wave
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Cropduster
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,1/2 Full
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Oceans
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Dissident
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Don't Look Back
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Pick Myself Up
+Eduardo,Martins,eduardo@woodstock.com.br,2025-08-12,13.86,1,0.99,Any Colour You Like
+Frank,Ralston,fralston@gmail.com,2025-08-20,0.99,1,0.99,Rappers Reais
+Victor,Stevens,vstevens@yahoo.com,2025-09-02,1.98,1,0.99,Nega Do Cabelo Duro
+Victor,Stevens,vstevens@yahoo.com,2025-09-02,1.98,1,0.99,Hemp Family
+Patrick,Gray,patrick.gray@aol.com,2025-09-02,1.98,1,0.99,Se Liga
+Patrick,Gray,patrick.gray@aol.com,2025-09-02,1.98,1,0.99,Another One Bites The Dust
+Robert,Brown,robbrown@shaw.ca,2025-09-03,3.96,1,0.99,Fat Bottomed Girls
+Robert,Brown,robbrown@shaw.ca,2025-09-03,3.96,1,0.99,You're My Best Friend
+Robert,Brown,robbrown@shaw.ca,2025-09-03,3.96,1,0.99,Save Me
+Robert,Brown,robbrown@shaw.ca,2025-09-03,3.96,1,0.99,Somebody To Love
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-09-04,5.94,1,0.99,Flash
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-09-04,5.94,1,0.99,We Will Rock You
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-09-04,5.94,1,0.99,Spread Your Wings
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-09-04,5.94,1,0.99,Who Needs You
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-09-04,5.94,1,0.99,Me In Honey
+Ellie,Sullivan,ellie.sullivan@shaw.ca,2025-09-04,5.94,1,0.99,You Are The Everything
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,Hairshirt
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,Undertow
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,Binky The Doormat
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,Low
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,Country Feedback
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,Don't Go Back To Rockville
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,I Believe
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,A Sua
+Camille,Bernard,camille.bernard@yahoo.fr,2025-09-07,8.91,1,0.99,Bê-a-Bá
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Sapato 36
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,If You Have To Ask
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Under The Bridge
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,This Is The Place
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Tear
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Get On Top
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Right On Time
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Anthem
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,La Puesta Del Sol
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Just Ain't Good Enough
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,If You Don't Know Me By Now
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Água E Fogo
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Fica
+Johannes,Van der Berg,johavanderberg@yahoo.nl,2025-09-12,13.86,1,0.99,Os Exilados
+François,Tremblay,ftremblay@gmail.com,2025-09-20,0.99,1,0.99,Waiting
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2025-10-03,1.98,1,0.99,Saturnine
+Bjørn,Hansen,bjorn.hansen@yahoo.no,2025-10-03,1.98,1,0.99,Rock On
+Helena,Holý,hholy@gmail.com,2025-10-03,1.98,1,0.99,Winterlong
+Helena,Holý,hholy@gmail.com,2025-10-03,1.98,1,0.99,Blissed & Gone
+Daan,Peeters,daan_peeters@apple.be,2025-10-04,3.96,1,0.99,Rhinocerous
+Daan,Peeters,daan_peeters@apple.be,2025-10-04,3.96,1,0.99,Cherub Rock
+Daan,Peeters,daan_peeters@apple.be,2025-10-04,3.96,1,0.99,Disarm
+Daan,Peeters,daan_peeters@apple.be,2025-10-04,3.96,1,0.99,Bullet With Butterfly Wings
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-10-05,5.94,1,0.99,Eye
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-10-05,5.94,1,0.99,Stand Inside Your Love
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-10-05,5.94,1,0.99,Flower
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-10-05,5.94,1,0.99,Jesus Christ Pose
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-10-05,5.94,1,0.99,The Day I Tried To Live
+Roberto,Almeida,roberto.almeida@riotur.gov.br,2025-10-05,5.94,1,0.99,Burden In My Hand
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,Rasul
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,End Of Romanticism
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,Travis Walk
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,Sex Type Thing
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,Piece Of Pie
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,B.Y.O.B.
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,Question!
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,Duende
+Michelle,Brooks,michelleb@aol.com,2025-10-08,8.91,1,0.99,Sting Me
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Black Moon Creeping
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,White Riot
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Train In Vain
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,War (The Process)
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Speed Of Light
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Wild Hearted Son
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Sun King
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Back Door Man
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Don't Stand so Close to Me
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Message in a Bottle (new classic rock mix)
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Paint It Black
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Corinna
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Love Is Strong
+Patrick,Gray,patrick.gray@aol.com,2025-10-13,13.86,1,0.99,Sweethearts Together
+Marc,Dubois,marc.dubois@hotmail.com,2025-10-21,0.99,1,0.99,Release
+Wyatt,Girard,wyatt.girard@yahoo.fr,2025-11-03,1.98,1,0.99,Heaven Coming Down
+Wyatt,Girard,wyatt.girard@yahoo.fr,2025-11-03,1.98,1,0.99,The River (Remix)
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-11-03,1.98,1,0.99,Waiting On A Sign
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-11-03,1.98,1,0.99,Paint It Black
+Hugh,O'Reilly,hughoreilly@apple.ie,2025-11-04,3.96,1,0.99,Army Ants
+Hugh,O'Reilly,hughoreilly@apple.ie,2025-11-04,3.96,1,0.99,Gyroscope
+Hugh,O'Reilly,hughoreilly@apple.ie,2025-11-04,3.96,1,0.99,Release
+Hugh,O'Reilly,hughoreilly@apple.ie,2025-11-04,3.96,1,0.99,Babylon
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-11-05,5.94,1,0.99,I Can't Explain
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-11-05,5.94,1,0.99,I'm A Boy
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-11-05,5.94,1,0.99,I Can See For Miles
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-11-05,5.94,1,0.99,Baba O'Riley
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-11-05,5.94,1,0.99,Join Together
+Enrique,Muñoz,enrique_munoz@yahoo.es,2025-11-05,5.94,1,0.99,Primavera
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,New Love
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Compadre
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Não Quero Dinheiro
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Canário Do Reino
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Comida
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Marvin
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Cabeça Dinossauro
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Polícia (Vinheta)
+Diego,Gutiérrez,diego.gutierrez@yahoo.ar,2025-11-08,8.91,1,0.99,Sua Impossivel Chance
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,0.99,Insensível
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,Collaborators
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,The Woman King
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,One Giant Leap
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,The Fix
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,"Man of Science, Man of Faith (Premiere)"
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,Walkabout
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,The Moth
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,Stranger In a Strange Land
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,Par Avion
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,Outlaws
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,Deus Ex Machina
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,1.99,"Live Together, Die Alone, Pt. 1"
+Helena,Holý,hholy@gmail.com,2025-11-13,25.86,1,0.99,So Cruel
+Dan,Miller,dmiller@comcast.com,2025-11-21,0.99,1,0.99,Peace On Earth
+Kathy,Chase,kachase@hotmail.com,2025-12-04,1.98,1,0.99,When I Look At The World
+Kathy,Chase,kachase@hotmail.com,2025-12-04,1.98,1,0.99,New York
+John,Gordon,johngordon22@yahoo.com,2025-12-04,1.98,1,0.99,The Three Sunrises
+John,Gordon,johngordon22@yahoo.com,2025-12-04,1.98,1,0.99,Sweetest Thing
+Victor,Stevens,vstevens@yahoo.com,2025-12-05,3.96,1,0.99,Bass Trap
+Victor,Stevens,vstevens@yahoo.com,2025-12-05,3.96,1,0.99,Everlasting Love
+Victor,Stevens,vstevens@yahoo.com,2025-12-05,3.96,1,0.99,Walk To The Water
+Victor,Stevens,vstevens@yahoo.com,2025-12-05,3.96,1,0.99,Hallelujah Here She Comes
+Robert,Brown,robbrown@shaw.ca,2025-12-06,5.94,1,0.99,"Trash, Trampoline And The Party Girl"
+Robert,Brown,robbrown@shaw.ca,2025-12-06,5.94,1,0.99,Love And Peace Or Else
+Robert,Brown,robbrown@shaw.ca,2025-12-06,5.94,1,0.99,Crumbs From Your Table
+Robert,Brown,robbrown@shaw.ca,2025-12-06,5.94,1,0.99,Discotheque
+Robert,Brown,robbrown@shaw.ca,2025-12-06,5.94,1,0.99,Staring At The Sun
+Robert,Brown,robbrown@shaw.ca,2025-12-06,5.94,1,0.99,The Playboy Mansion
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,Desire
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,Pride (In The Name Of Love)
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,The Star Spangled Banner
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,I Still Haven't Found What I'm Looking For
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,Sweetest Thing
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,Seconds
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,Red Light
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,Lemon
+Madalena,Sampaio,masampaio@sapo.pt,2025-12-09,8.91,1,0.99,The Wanderer
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Higher Ground
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Secrets
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Eruption
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Dreams
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Eruption
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,On Fire
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Year to the Day
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Fall To Pieces
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,A Bencao E Outros
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Um Homem Chamado Alfredo
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Looking For Love
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Sweet Lady Luck
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Feirinha da Pavuna/Luz do Repente/Bagaço da Laranja
+Terhi,Hämäläinen,terhi.hamalainen@apple.fi,2025-12-14,13.86,1,0.99,Samba pras moças
+Manoj,Pareek,manoj.pareek@rediff.com,2025-12-22,1.99,1,1.99,Hot Girl

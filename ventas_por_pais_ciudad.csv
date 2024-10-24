@@ -1,0 +1,60 @@
+customer_id,country,city,total_sales
+6,Czech Republic,Prague,49.62
+26,USA,Fort Worth,47.62
+57,Chile,Santiago,46.62
+45,Hungary,Budapest,45.62
+46,Ireland,Dublin,45.62
+28,USA,Salt Lake City,43.62
+37,Germany,Frankfurt,43.62
+24,USA,Chicago,43.62
+7,Austria,Vienne,42.62
+25,USA,Madison,42.62
+44,Finland,Helsinki,41.62
+48,Netherlands,Amsterdam,40.62
+5,Czech Republic,Prague,40.62
+43,France,Dijon,40.62
+3,Canada,Montréal,39.62
+4,Norway,Oslo,39.62
+34,Portugal,Lisbon,39.62
+22,USA,Orlando,39.62
+42,France,Bordeaux,39.62
+17,USA,Redmond,39.62
+20,USA,Mountain View,39.62
+1,Brazil,São José dos Campos,39.62
+51,Sweden,Stockholm,38.62
+19,USA,Cupertino,38.62
+40,France,Paris,38.62
+15,Canada,Vancouver,38.62
+58,India,Delhi,38.62
+39,France,Paris,38.62
+9,Denmark,Copenhagen,37.62
+38,Germany,Berlin,37.62
+31,Canada,Halifax,37.62
+12,Brazil,Rio de Janeiro,37.62
+36,Germany,Berlin,37.62
+35,Portugal,Porto,37.62
+10,Brazil,São Paulo,37.62
+30,Canada,Ottawa,37.62
+21,USA,Reno,37.62
+49,Poland,Warsaw,37.62
+47,Italy,Rome,37.62
+29,Canada,Toronto,37.62
+56,Argentina,Buenos Aires,37.62
+52,United Kingdom,London,37.62
+13,Brazil,Brasília,37.62
+41,France,Lyon,37.62
+14,Canada,Edmonton,37.62
+32,Canada,Winnipeg,37.62
+53,United Kingdom,London,37.62
+50,Spain,Madrid,37.62
+23,USA,Boston,37.62
+33,Canada,Yellowknife,37.62
+8,Belgium,Brussels,37.62
+54,United Kingdom,Edinburgh,37.62
+18,USA,New York,37.62
+55,Australia,Sidney,37.62
+27,USA,Tucson,37.62
+2,Germany,Stuttgart,37.62
+16,USA,Mountain View,37.62
+11,Brazil,São Paulo,37.62
+59,India,Bangalore,36.64
