@@ -1,0 +1,1007 @@
+customer_id,country,city,artist_name,genre_name,total_sales
+7,Austria,Vienne,U2,Rock,169.74
+46,Ireland,Dublin,Lost,TV Shows,153.02
+46,Ireland,Dublin,U2,Rock,131.16
+6,Czech Republic,Prague,Lost,TV Shows,129.3
+18,USA,New York,Deep Purple,Rock,124.74
+38,Germany,Berlin,Deep Purple,Rock,124.74
+26,USA,Fort Worth,U2,Rock,111.28
+26,USA,Fort Worth,Lost,Drama,95.44
+45,Hungary,Budapest,The Office,TV Shows,87.44
+55,Australia,Sidney,Iron Maiden,Rock,85.14
+10,Brazil,São Paulo,Pearl Jam,Rock,83.16
+36,Germany,Berlin,Iron Maiden,Metal,83.16
+16,USA,Mountain View,Iron Maiden,Metal,83.16
+30,Canada,Ottawa,Pearl Jam,Rock,83.16
+44,Finland,Helsinki,Van Halen,Rock,83.16
+58,India,Delhi,Deep Purple,Rock,83.16
+22,USA,Orlando,Metallica,Metal,80.19
+43,France,Dijon,Led Zeppelin,Rock,80.19
+4,Norway,Oslo,Led Zeppelin,Rock,80.19
+42,France,Bordeaux,Metallica,Metal,80.19
+35,Portugal,Porto,U2,Rock,80.19
+6,Czech Republic,Prague,Lost,Drama,77.58
+7,Austria,Vienne,Lost,TV Shows,75.44
+25,USA,Madison,The Office,TV Shows,75.44
+26,USA,Fort Worth,Lost,TV Shows,71.58
+36,Germany,Berlin,Van Halen,Rock,71.28
+35,Portugal,Porto,Iron Maiden,Metal,71.28
+35,Portugal,Porto,Iron Maiden,Rock,69.3
+53,United Kingdom,London,Metallica,Metal,69.3
+55,Australia,Sidney,Iron Maiden,Metal,69.3
+8,Belgium,Brussels,The Rolling Stones,Rock,69.3
+47,Italy,Rome,The Rolling Stones,Rock,69.3
+50,Spain,Madrid,Pearl Jam,Rock,69.3
+5,Czech Republic,Prague,Van Halen,Rock,67.44
+17,USA,Redmond,Titãs,Alternative & Punk,65.46
+9,Denmark,Copenhagen,Creedence Clearwater Revival,Rock,62.37
+8,Belgium,Brussels,Faith No More,Alternative & Punk,62.37
+10,Brazil,São Paulo,Deep Purple,Rock,62.37
+25,USA,Madison,Zeca Pagodinho,Latin,56.58
+11,Brazil,São Paulo,Pearl Jam,Rock,55.44
+36,Germany,Berlin,Iron Maiden,Rock,55.44
+52,United Kingdom,London,Lulu Santos,Latin,55.44
+15,Canada,Vancouver,Led Zeppelin,Rock,55.44
+12,Brazil,Rio de Janeiro,Nirvana,Rock,55.44
+28,USA,Salt Lake City,The Rolling Stones,Rock,55.44
+21,USA,Reno,Cidade Negra,Reggae,55.44
+17,USA,Redmond,Foo Fighters,Rock,55.44
+52,United Kingdom,London,Legião Urbana,Latin,55.44
+50,Spain,Madrid,Queen,Rock,55.44
+27,USA,Tucson,The Rolling Stones,Rock,55.44
+56,Argentina,Buenos Aires,Foo Fighters,Rock,55.44
+32,Canada,Winnipeg,Os Paralamas Do Sucesso,Latin,55.44
+29,Canada,Toronto,Smashing Pumpkins,Alternative & Punk,55.44
+49,Poland,Warsaw,Smashing Pumpkins,Alternative & Punk,55.44
+27,USA,Tucson,The Cult,Rock,55.44
+48,Netherlands,Amsterdam,Red Hot Chili Peppers,Rock,55.44
+16,USA,Mountain View,Iron Maiden,Rock,55.44
+19,USA,Cupertino,Deep Purple,Rock,55.44
+57,Chile,Santiago,Heroes,Drama,53.73
+16,USA,Mountain View,Van Halen,Rock,53.46
+1,Brazil,São José dos Campos,Os Paralamas Do Sucesso,Latin,53.46
+32,Canada,Winnipeg,Chico Science & Nação Zumbi,Latin,53.46
+12,Brazil,Rio de Janeiro,Chico Science & Nação Zumbi,Latin,53.46
+6,Czech Republic,Prague,Heroes,Drama,51.72
+28,USA,Salt Lake City,Battlestar Galactica (Classic),Sci Fi & Fantasy,47.76
+26,USA,Fort Worth,Heroes,Drama,47.72
+24,USA,Chicago,The Office,Comedy,47.7
+37,Germany,Frankfurt,Titãs,Alternative & Punk,44.73
+23,USA,Boston,Milton Nascimento,Latin,44.55
+19,USA,Cupertino,The Cult,Rock,44.55
+44,Finland,Helsinki,Legião Urbana,Latin,44.55
+52,United Kingdom,London,Cidade Negra,Reggae,44.55
+56,Argentina,Buenos Aires,Titãs,Alternative & Punk,44.55
+24,USA,Chicago,Led Zeppelin,Rock,44.55
+5,Czech Republic,Prague,Iron Maiden,Rock,44.55
+55,Australia,Sidney,U2,Rock,44.55
+29,Canada,Toronto,Cássia Eller,Latin,44.55
+3,Canada,Montréal,Metallica,Metal,44.55
+40,France,Paris,Red Hot Chili Peppers,Rock,44.55
+49,Poland,Warsaw,Cássia Eller,Latin,44.55
+45,Hungary,Budapest,Zeca Pagodinho,Latin,43.72
+45,Hungary,Budapest,Lenny Kravitz,Metal,43.72
+34,Portugal,Lisbon,U2,Pop,43.64
+6,Czech Republic,Prague,U2,Rock,41.7
+40,France,Paris,Miles Davis,Jazz,41.58
+40,France,Paris,Various Artists,Latin,41.58
+53,United Kingdom,London,Lulu Santos,Latin,41.58
+17,USA,Redmond,Frank Sinatra,Easy Listening,41.58
+55,Australia,Sidney,Iron Maiden,Heavy Metal,41.58
+8,Belgium,Brussels,The Tea Party,Alternative & Punk,41.58
+48,Netherlands,Amsterdam,Skank,Rock,41.58
+37,Germany,Frankfurt,Foo Fighters,Rock,41.58
+1,Brazil,São José dos Campos,Cidade Negra,Reggae,41.58
+51,Sweden,Stockholm,Milton Nascimento,Latin,41.58
+1,Brazil,São José dos Campos,Chico Science & Nação Zumbi,Latin,41.58
+57,Chile,Santiago,Frank Sinatra,Easy Listening,41.58
+59,India,Bangalore,Miles Davis,Jazz,41.58
+40,France,Paris,Gene Krupa,Jazz,41.58
+29,Canada,Toronto,Skank,Rock,41.58
+28,USA,Salt Lake City,The Who,Rock,41.58
+51,Sweden,Stockholm,Nirvana,Rock,41.58
+13,Brazil,Brasília,Lulu Santos,Latin,41.58
+36,Germany,Berlin,Iron Maiden,Heavy Metal,41.58
+11,Brazil,São Paulo,Queen,Rock,41.58
+19,USA,Cupertino,Djavan,Latin,41.58
+16,USA,Mountain View,Iron Maiden,Heavy Metal,41.58
+31,Canada,Halifax,Milton Nascimento,Latin,41.58
+28,USA,Salt Lake City,The Tea Party,Alternative & Punk,41.58
+18,USA,New York,Cássia Eller,Latin,41.58
+9,Denmark,Copenhagen,Red Hot Chili Peppers,Rock,41.58
+32,Canada,Winnipeg,Nirvana,Rock,41.58
+19,USA,Cupertino,Eric Clapton,Blues,41.58
+58,India,Delhi,Djavan,Latin,41.58
+33,Canada,Yellowknife,Lulu Santos,Latin,41.58
+47,Italy,Rome,The Cult,Rock,41.58
+9,Denmark,Copenhagen,Smashing Pumpkins,Alternative & Punk,41.58
+13,Brazil,Brasília,Legião Urbana,Latin,41.58
+36,Germany,Berlin,Metallica,Metal,39.6
+25,USA,Madison,Van Halen,Rock,37.72
+25,USA,Madison,Vinícius De Moraes,Latin,37.72
+57,Chile,Santiago,Lost,TV Shows,35.82
+57,Chile,Santiago,Battlestar Galactica,Science Fiction,35.82
+11,Brazil,São Paulo,Tim Maia,Latin,35.64
+57,Chile,Santiago,Led Zeppelin,Rock,35.64
+24,USA,Chicago,Legião Urbana,Latin,35.64
+46,Ireland,Dublin,Chico Science & Nação Zumbi,Latin,35.64
+56,Argentina,Buenos Aires,Tim Maia,Latin,35.64
+29,Canada,Toronto,U2,Rock,35.64
+30,Canada,Ottawa,Kiss,Rock,35.64
+10,Brazil,São Paulo,U2,Rock,35.64
+51,Sweden,Stockholm,Caetano Veloso,Latin,35.64
+17,USA,Redmond,Metallica,Metal,35.64
+27,USA,Tucson,Iron Maiden,Rock,35.64
+49,Poland,Warsaw,Deep Purple,Rock,35.64
+18,USA,New York,Led Zeppelin,Rock,35.64
+2,Germany,Stuttgart,Eric Clapton,Blues,35.64
+49,Poland,Warsaw,U2,Rock,35.64
+38,Germany,Berlin,Led Zeppelin,Rock,35.64
+43,France,Dijon,Creedence Clearwater Revival,Rock,35.64
+27,USA,Tucson,Iron Maiden,Metal,35.64
+47,Italy,Rome,Faith No More,Alternative & Punk,35.64
+58,India,Delhi,Iron Maiden,Metal,35.64
+16,USA,Mountain View,Metallica,Metal,35.64
+47,Italy,Rome,Eric Clapton,Blues,35.64
+1,Brazil,São José dos Campos,Guns N' Roses,Rock,35.64
+29,Canada,Toronto,Creedence Clearwater Revival,Rock,35.64
+26,USA,Fort Worth,Guns N' Roses,Rock,35.64
+56,Argentina,Buenos Aires,Metallica,Metal,35.64
+15,Canada,Vancouver,Os Paralamas Do Sucesso,Latin,35.64
+5,Czech Republic,Prague,Iron Maiden,Metal,35.64
+38,Germany,Berlin,The Black Crowes,Blues,35.64
+51,Sweden,Stockholm,Titãs,Alternative & Punk,34.7
+5,Czech Republic,Prague,Velvet Revolver,Rock,33.72
+43,France,Dijon,O Rappa,Electronica/Dance,33.72
+5,Czech Republic,Prague,Zeca Pagodinho,Latin,33.72
+43,France,Dijon,Audioslave,Alternative,33.72
+5,Czech Republic,Prague,The Office,TV Shows,33.72
+43,France,Dijon,Lost,Drama,33.72
+5,Czech Republic,Prague,Lenny Kravitz,Metal,33.72
+43,France,Dijon,House Of Pain,Hip Hop/Rap,33.72
+44,Finland,Helsinki,Battlestar Galactica (Classic),Sci Fi & Fantasy,31.84
+24,USA,Chicago,Audioslave,Alternative,31.72
+4,Norway,Oslo,Lost,Drama,31.72
+4,Norway,Oslo,Chris Cornell,Alternative,31.72
+24,USA,Chicago,Amy Winehouse,R&B/Soul,31.72
+24,USA,Chicago,Temple of the Dog,Alternative,31.72
+4,Norway,Oslo,O Rappa,Electronica/Dance,31.72
+37,Germany,Frankfurt,Heroes,TV Shows,29.82
+37,Germany,Frankfurt,Battlestar Galactica,Science Fiction,29.82
+15,Canada,Vancouver,O Rappa,Electronica/Dance,29.73
+15,Canada,Vancouver,House Of Pain,Hip Hop/Rap,29.73
+13,Brazil,Brasília,The Black Crowes,Blues,29.7
+6,Czech Republic,Prague,Caetano Veloso,Latin,29.7
+31,Canada,Halifax,Titãs,Alternative & Punk,29.7
+4,Norway,Oslo,Cássia Eller,Latin,29.7
+26,USA,Fort Worth,Chico Buarque,Latin,29.7
+50,Spain,Madrid,The Who,Rock,29.7
+44,Finland,Helsinki,Kiss,Rock,29.7
+22,USA,Orlando,Faith No More,Alternative & Punk,29.7
+11,Brazil,São Paulo,R.E.M.,Alternative & Punk,27.72
+9,Denmark,Copenhagen,Rush,Rock,27.72
+32,Canada,Winnipeg,Mötley Crüe,Metal,27.72
+8,Belgium,Brussels,The Who,Rock,27.72
+53,United Kingdom,London,Marvin Gaye,R&B/Soul,27.72
+42,France,Bordeaux,Alice In Chains,Rock,27.72
+34,Portugal,Lisbon,Jamiroquai,R&B/Soul,27.72
+20,USA,Mountain View,Miles Davis,Jazz,27.72
+9,Denmark,Copenhagen,Skank,Rock,27.72
+34,Portugal,Lisbon,Jorge Ben,Latin,27.72
+10,Brazil,São Paulo,Passengers,Soundtrack,27.72
+22,USA,Orlando,Alanis Morissette,Rock,27.72
+47,Italy,Rome,The Police,Rock,27.72
+31,Canada,Halifax,Metallica,Metal,27.72
+31,Canada,Halifax,Mônica Marianno,World,27.72
+51,Sweden,Stockholm,Motörhead,Metal,27.72
+39,France,Paris,Ed Motta,Latin,27.72
+58,India,Delhi,Def Leppard,Rock,27.72
+33,Canada,Yellowknife,Marisa Monte,Latin,27.72
+51,Sweden,Stockholm,Mötley Crüe,Metal,27.72
+21,USA,Reno,Antônio Carlos Jobim,Latin,27.72
+15,Canada,Vancouver,Kiss,Rock,27.72
+12,Brazil,Rio de Janeiro,Milton Nascimento,Latin,27.72
+27,USA,Tucson,The Clash,Alternative & Punk,27.72
+56,Argentina,Buenos Aires,Frank Sinatra,Easy Listening,27.72
+58,India,Delhi,Elis Regina,Latin,27.72
+3,Canada,Montréal,BackBeat,Rock And Roll,27.72
+39,France,Paris,Miles Davis,Jazz,27.72
+3,Canada,Montréal,Audioslave,Rock,27.72
+30,Canada,Ottawa,Planet Hemp,Hip Hop/Rap,27.72
+11,Brazil,São Paulo,Planet Hemp,Hip Hop/Rap,27.72
+14,Canada,Edmonton,Jimi Hendrix,Rock,27.72
+39,France,Paris,Various Artists,Latin,27.72
+29,Canada,Toronto,Red Hot Chili Peppers,Rock,27.72
+37,Germany,Frankfurt,Funk Como Le Gusta,Latin,27.72
+2,Germany,Stuttgart,Queen,Rock,27.72
+20,USA,Mountain View,Deep Purple,Rock,27.72
+49,Poland,Warsaw,Skank,Rock,27.72
+2,Germany,Stuttgart,Kiss,Rock,27.72
+48,Netherlands,Amsterdam,Santana,Rock,27.72
+22,USA,Orlando,Black Label Society,Metal,27.72
+28,USA,Salt Lake City,Tim Maia,Latin,27.72
+23,USA,Boston,Caetano Veloso,Latin,27.72
+31,Canada,Halifax,Nirvana,Rock,27.72
+8,Belgium,Brussels,The Cult,Rock,27.72
+44,Finland,Helsinki,Zeca Pagodinho,Latin,27.72
+29,Canada,Toronto,Santana,Rock,27.72
+1,Brazil,São José dos Campos,Various Artists,Soundtrack,27.72
+50,Spain,Madrid,Lenny Kravitz,Reggae,27.72
+57,Chile,Santiago,Funk Como Le Gusta,Latin,27.72
+59,India,Bangalore,Gene Krupa,Jazz,27.72
+15,Canada,Vancouver,João Suplicy,World,27.72
+14,Canada,Edmonton,JET,Alternative & Punk,27.72
+13,Brazil,Brasília,Lenny Kravitz,Rock,27.72
+12,Brazil,Rio de Janeiro,Olodum,Latin,27.72
+44,Finland,Helsinki,Vinícius De Moraes,Latin,27.72
+13,Brazil,Brasília,Marisa Monte,Latin,27.72
+41,France,Lyon,Antônio Carlos Jobim,Latin,27.72
+37,Germany,Frankfurt,Gilberto Gil,Soundtrack,27.72
+54,United Kingdom,Edinburgh,Kiss,Rock,27.72
+37,Germany,Frankfurt,Frank Sinatra,Easy Listening,27.72
+56,Argentina,Buenos Aires,Funk Como Le Gusta,Latin,27.72
+32,Canada,Winnipeg,O Terço,Rock,27.72
+20,USA,Mountain View,Ed Motta,Latin,27.72
+21,USA,Reno,Marcos Valle,Latin,27.72
+49,Poland,Warsaw,Lenny Kravitz,Rock,27.72
+23,USA,Boston,Audioslave,Alternative & Punk,27.72
+54,United Kingdom,Edinburgh,JET,Alternative & Punk,27.72
+31,Canada,Halifax,Mötley Crüe,Metal,27.72
+56,Argentina,Buenos Aires,Falamansa,Latin,27.72
+1,Brazil,São José dos Campos,Various Artists,Pop,27.72
+27,USA,Tucson,The Police,Rock,27.72
+41,France,Lyon,Marcos Valle,Latin,27.72
+2,Germany,Stuttgart,Antônio Carlos Jobim,Latin,27.72
+14,Canada,Edmonton,James Brown,R&B/Soul,27.72
+20,USA,Mountain View,Various Artists,Latin,27.72
+51,Sweden,Stockholm,O Terço,Rock,27.72
+2,Germany,Stuttgart,Marcos Valle,Latin,27.72
+40,France,Paris,Santana,Rock,27.72
+39,France,Paris,Gonzaguinha,Latin,27.72
+42,France,Bordeaux,Black Label Society,Metal,27.72
+34,Portugal,Lisbon,João Suplicy,World,27.72
+52,United Kingdom,London,Marisa Monte,Latin,27.72
+42,France,Bordeaux,Black Sabbath,Metal,27.72
+53,United Kingdom,London,Marisa Monte,Latin,27.72
+3,Canada,Montréal,Body Count,Alternative & Punk,27.72
+2,Germany,Stuttgart,Led Zeppelin,Rock,27.72
+57,Chile,Santiago,Green Day,Alternative & Punk,27.72
+28,USA,Salt Lake City,The Police,Rock,27.72
+41,France,Lyon,Various Artists,Pop,27.72
+44,Finland,Helsinki,Lenny Kravitz,Metal,27.72
+57,Chile,Santiago,Eric Clapton,Latin,27.72
+3,Canada,Montréal,Bruce Dickinson,Metal,27.72
+54,United Kingdom,Edinburgh,Judas Priest,Metal,27.72
+13,Brazil,Brasília,Marvin Gaye,R&B/Soul,27.72
+23,USA,Boston,Body Count,Alternative & Punk,27.72
+35,Portugal,Porto,Incognito,Jazz,27.72
+35,Portugal,Porto,Iron Maiden,Heavy Metal,27.72
+38,Germany,Berlin,Def Leppard,Rock,27.72
+59,India,Bangalore,Santana,Rock,27.72
+30,Canada,Ottawa,Pearl Jam,Alternative & Punk,27.72
+31,Canada,Halifax,Miles Davis,Jazz,27.72
+52,United Kingdom,London,Led Zeppelin,Rock,27.72
+48,Netherlands,Amsterdam,Red Hot Chili Peppers,Alternative & Punk,27.72
+20,USA,Mountain View,Toquinho & Vinícius,Bossa Nova,27.72
+17,USA,Redmond,Gilberto Gil,Latin,27.72
+23,USA,Boston,Black Sabbath,Metal,27.72
+9,Denmark,Copenhagen,Lenny Kravitz,Rock,27.72
+39,France,Paris,Os Mutantes,Alternative & Punk,27.72
+47,Italy,Rome,The Tea Party,Alternative & Punk,27.72
+22,USA,Orlando,Antônio Carlos Jobim,Jazz,27.72
+54,United Kingdom,Edinburgh,Jimi Hendrix,Rock,27.72
+22,USA,Orlando,BackBeat,Rock And Roll,27.72
+15,Canada,Vancouver,Jorge Ben,Latin,27.72
+21,USA,Reno,Led Zeppelin,Rock,27.72
+19,USA,Cupertino,Def Leppard,Rock,27.72
+49,Poland,Warsaw,Soundgarden,Rock,27.72
+57,Chile,Santiago,Gilberto Gil,Latin,27.72
+10,Brazil,São Paulo,Lenny Kravitz,Reggae,27.72
+42,France,Bordeaux,Audioslave,Rock,27.72
+17,USA,Redmond,Funk Como Le Gusta,Latin,27.72
+14,Canada,Edmonton,Jota Quest,Latin,27.72
+41,France,Lyon,Various Artists,Soundtrack,27.72
+38,Germany,Berlin,Djavan,Latin,27.72
+54,United Kingdom,Edinburgh,Jota Quest,Latin,27.72
+23,USA,Boston,Black Label Society,Metal,27.72
+33,Canada,Yellowknife,Marillion,Rock,27.72
+3,Canada,Montréal,Black Label Society,Metal,27.72
+20,USA,Mountain View,Gene Krupa,Jazz,27.72
+34,Portugal,Lisbon,Jimi Hendrix,Rock,27.72
+33,Canada,Yellowknife,Metallica,Metal,27.72
+12,Brazil,Rio de Janeiro,Mônica Marianno,World,27.72
+59,India,Bangalore,Chico Buarque,Latin,27.72
+33,Canada,Yellowknife,Marvin Gaye,R&B/Soul,27.72
+48,Netherlands,Amsterdam,U2,Pop,26.82
+48,Netherlands,Amsterdam,Battlestar Galactica (Classic),Sci Fi & Fantasy,26.82
+44,Finland,Helsinki,Lenny Kravitz,Rock,26.73
+20,USA,Mountain View,Raul Seixas,Rock,26.73
+33,Canada,Yellowknife,AC/DC,Rock,26.73
+39,France,Paris,R.E.M.,Alternative & Punk,26.73
+7,Austria,Vienne,Iron Maiden,Metal,26.73
+28,USA,Salt Lake City,Faith No More,Alternative & Punk,26.73
+48,Netherlands,Amsterdam,Foo Fighters,Rock,26.73
+26,USA,Fort Worth,Green Day,Alternative & Punk,26.73
+41,France,Lyon,Passengers,Soundtrack,26.73
+2,Germany,Stuttgart,Pearl Jam,Rock,26.73
+25,USA,Madison,Iron Maiden,Rock,26.73
+53,United Kingdom,London,Aerosmith,Rock,26.73
+31,Canada,Halifax,Os Mutantes,Alternative & Punk,26.73
+58,India,Delhi,The Black Crowes,Blues,26.73
+46,Ireland,Dublin,Guns N' Roses,Rock,26.73
+50,Spain,Madrid,Green Day,Alternative & Punk,26.73
+30,Canada,Ottawa,Green Day,Alternative & Punk,26.73
+13,Brazil,Brasília,AC/DC,Rock,26.73
+51,Sweden,Stockholm,Chico Buarque,Latin,26.73
+45,Hungary,Budapest,James Brown,R&B/Soul,26.73
+32,Canada,Winnipeg,Cidade Negra,Reggae,26.73
+54,United Kingdom,Edinburgh,House Of Pain,Hip Hop/Rap,26.73
+11,Brazil,São Paulo,Gonzaguinha,Latin,26.73
+58,India,Delhi,The Clash,Alternative & Punk,26.73
+46,Ireland,Dublin,Guns N' Roses,Metal,26.73
+20,USA,Mountain View,Red Hot Chili Peppers,Rock,26.73
+12,Brazil,Rio de Janeiro,Chico Buarque,Latin,26.73
+19,USA,Cupertino,The Clash,Alternative & Punk,26.73
+48,Netherlands,Amsterdam,Falamansa,Latin,26.73
+25,USA,Madison,James Brown,R&B/Soul,26.73
+40,France,Paris,Red Hot Chili Peppers,Alternative & Punk,26.73
+6,Czech Republic,Prague,Battlestar Galactica,TV Shows,25.86
+6,Czech Republic,Prague,Titãs,Alternative & Punk,25.86
+6,Czech Republic,Prague,Battlestar Galactica,Science Fiction,25.86
+28,USA,Salt Lake City,The Office,Comedy,23.88
+26,USA,Fort Worth,Battlestar Galactica,Sci Fi & Fantasy,23.86
+59,India,Bangalore,James Brown,R&B/Soul,23.76
+12,Brazil,Rio de Janeiro,Soundgarden,Rock,23.76
+24,USA,Chicago,Queen,Rock,23.76
+3,Canada,Montréal,Toquinho & Vinícius,Bossa Nova,23.76
+39,France,Paris,Iron Maiden,Rock,23.76
+8,Belgium,Brussels,Aerosmith,Rock,23.76
+20,USA,Mountain View,Eric Clapton,Latin,23.76
+37,Germany,Frankfurt,Led Zeppelin,Rock,23.76
+14,Canada,Edmonton,R.E.M.,Alternative & Punk,23.76
+34,Portugal,Lisbon,Raul Seixas,Rock,23.76
+33,Canada,Yellowknife,Queen,Rock,23.76
+45,Hungary,Budapest,Lost,Drama,21.86
+45,Hungary,Budapest,The Office,Comedy,21.86
+46,Ireland,Dublin,Lost,Drama,21.86
+45,Hungary,Budapest,Velvet Revolver,Rock,21.86
+45,Hungary,Budapest,Battlestar Galactica (Classic),Sci Fi & Fantasy,21.86
+45,Hungary,Budapest,Heroes,Drama,21.86
+45,Hungary,Budapest,Vinícius De Moraes,Latin,21.86
+34,Portugal,Lisbon,Ozzy Osbourne,Rock,21.82
+15,Canada,Vancouver,Scorpions,Rock,19.82
+25,USA,Madison,Velvet Revolver,Rock,18.86
+25,USA,Madison,Lenny Kravitz,Metal,18.86
+7,Austria,Vienne,Lost,Drama,18.86
+25,USA,Madison,The Office,Comedy,18.86
+57,Chile,Santiago,Lost,Drama,17.91
+57,Chile,Santiago,Battlestar Galactica,Sci Fi & Fantasy,17.91
+20,USA,Mountain View,Red Hot Chili Peppers,Alternative & Punk,17.82
+18,USA,New York,System Of A Down,Metal,17.82
+55,Australia,Sidney,Van Halen,Rock,17.82
+21,USA,Reno,Passengers,Soundtrack,17.82
+33,Canada,Yellowknife,Alanis Morissette,Rock,17.82
+53,United Kingdom,London,R.E.M.,Rock,17.82
+40,France,Paris,Green Day,Alternative & Punk,17.82
+9,Denmark,Copenhagen,Ozzy Osbourne,Rock,17.82
+2,Germany,Stuttgart,Paul D'Ianno,Rock,17.82
+52,United Kingdom,London,Chico Science & Nação Zumbi,Latin,17.82
+18,USA,New York,Spyro Gyra,Jazz,17.82
+1,Brazil,São José dos Campos,Ozzy Osbourne,Metal,17.82
+14,Canada,Edmonton,Alanis Morissette,Rock,17.82
+39,France,Paris,R.E.M. Feat. Kate Pearson,Alternative & Punk,17.82
+21,USA,Reno,Ozzy Osbourne,Metal,17.82
+11,Brazil,São Paulo,David Coverdale,Rock,17.82
+54,United Kingdom,Edinburgh,Scorpions,Rock,17.82
+42,France,Bordeaux,Faith No More,Rock,17.82
+6,Czech Republic,Prague,JET,Alternative & Punk,17.82
+21,USA,Reno,Os Paralamas Do Sucesso,Latin,17.82
+39,France,Paris,Raimundos,Alternative & Punk,17.82
+59,India,Bangalore,Raul Seixas,Rock,17.82
+14,Canada,Edmonton,Alice In Chains,Rock,17.82
+53,United Kingdom,London,Alanis Morissette,Rock,17.82
+26,USA,Fort Worth,Guns N' Roses,Metal,17.82
+45,Hungary,Budapest,Bruce Dickinson,Metal,17.82
+42,France,Bordeaux,Faith No More,Alternative & Punk,17.82
+23,USA,Boston,Miles Davis,Jazz,17.82
+55,Australia,Sidney,UB40,Reggae,17.82
+6,Czech Republic,Prague,Jamiroquai,Rock,17.82
+39,France,Paris,R.E.M.,Rock,17.82
+5,Czech Republic,Prague,Green Day,Alternative & Punk,17.82
+19,USA,Cupertino,Iron Maiden,Metal,17.82
+21,USA,Reno,Incognito,Jazz,17.82
+19,USA,Cupertino,Iron Maiden,Rock,17.82
+30,Canada,Ottawa,Spyro Gyra,Jazz,17.82
+55,Australia,Sidney,Ozzy Osbourne,Metal,17.82
+51,Sweden,Stockholm,Chico Science & Nação Zumbi,Latin,17.82
+48,Netherlands,Amsterdam,Foo Fighters,Alternative & Punk,17.82
+2,Germany,Stuttgart,Pearl Jam,Alternative & Punk,17.82
+33,Canada,Yellowknife,Aerosmith,Rock,17.82
+54,United Kingdom,Edinburgh,Os Paralamas Do Sucesso,Latin,17.82
+54,United Kingdom,Edinburgh,U2,Pop,17.82
+50,Spain,Madrid,Spyro Gyra,Jazz,17.82
+16,USA,Mountain View,UB40,Reggae,17.82
+30,Canada,Ottawa,UB40,Reggae,17.82
+31,Canada,Halifax,Gonzaguinha,Latin,17.82
+52,United Kingdom,London,Cláudio Zoli,Latin,17.82
+50,Spain,Madrid,David Coverdale,Rock,17.82
+31,Canada,Halifax,Chico Buarque,Latin,17.82
+35,Portugal,Porto,Os Paralamas Do Sucesso,Latin,17.82
+8,Belgium,Brussels,Faith No More,Rock,17.82
+7,Austria,Vienne,Incognito,Jazz,17.82
+23,USA,Boston,Various Artists,Latin,17.82
+23,USA,Boston,Creedence Clearwater Revival,Rock,17.82
+59,India,Bangalore,Red Hot Chili Peppers,Alternative & Punk,17.82
+45,Hungary,Budapest,Jamiroquai,Rock,17.82
+2,Germany,Stuttgart,Passengers,Soundtrack,17.82
+54,United Kingdom,Edinburgh,Ozzy Osbourne,Rock,17.82
+46,Ireland,Dublin,Incognito,Jazz,17.82
+10,Brazil,São Paulo,Cássia Eller,Latin,17.82
+55,Australia,Sidney,Page & Plant,Rock,17.82
+28,USA,Salt Lake City,Faith No More,Rock,17.82
+50,Spain,Madrid,Gonzaguinha,Latin,17.82
+45,Hungary,Budapest,Jamiroquai,R&B/Soul,17.82
+59,India,Bangalore,Raimundos,Alternative & Punk,17.82
+3,Canada,Montréal,Miles Davis,Jazz,17.82
+41,France,Lyon,Pearl Jam,Rock,17.82
+58,India,Delhi,The Cult,Rock,17.82
+59,India,Bangalore,R.E.M.,Alternative & Punk,17.82
+25,USA,Madison,David Coverdale,Rock,17.82
+53,United Kingdom,London,Alice In Chains,Rock,17.82
+6,Czech Republic,Prague,Jamiroquai,Electronica/Dance,17.82
+21,USA,Reno,Page & Plant,Rock,17.82
+28,USA,Salt Lake City,Falamansa,Latin,17.82
+52,United Kingdom,London,Stone Temple Pilots,Rock,17.82
+7,Austria,Vienne,Guns N' Roses,Metal,17.82
+18,USA,New York,Stone Temple Pilots,Rock,17.82
+11,Brazil,São Paulo,Chico Buarque,Latin,17.82
+41,France,Lyon,Page & Plant,Rock,17.82
+47,Italy,Rome,AC/DC,Rock,17.82
+3,Canada,Montréal,Milton Nascimento,Latin,17.82
+7,Austria,Vienne,Iron Maiden,Rock,17.82
+7,Austria,Vienne,Amy Winehouse,R&B/Soul,17.82
+38,Germany,Berlin,System Of A Down,Metal,17.82
+28,USA,Salt Lake City,Foo Fighters,Rock,17.82
+14,Canada,Edmonton,Antônio Carlos Jobim,Jazz,17.82
+5,Czech Republic,Prague,Spyro Gyra,Jazz,17.82
+21,USA,Reno,Guns N' Roses,Metal,17.82
+9,Denmark,Copenhagen,U2,Pop,17.82
+6,Czech Republic,Prague,Jamiroquai,R&B/Soul,17.82
+41,France,Lyon,Elis Regina,Latin,17.82
+25,USA,Madison,Green Day,Alternative & Punk,17.82
+54,United Kingdom,Edinburgh,Olodum,Latin,17.82
+14,Canada,Edmonton,Apocalyptica,Metal,17.82
+25,USA,Madison,Iron Maiden,Metal,17.82
+43,France,Dijon,Temple of the Dog,Alternative,16.86
+43,France,Dijon,Lost,TV Shows,16.86
+43,France,Dijon,The Posies,Rock,16.86
+43,France,Dijon,Yo-Yo Ma,Classical,16.86
+43,France,Dijon,Chris Cornell,Alternative,16.86
+43,France,Dijon,Sir Georg Solti & Wiener Philharmoniker,Classical,16.86
+5,Czech Republic,Prague,Heroes,Drama,16.86
+5,Czech Republic,Prague,Vinícius De Moraes,Latin,16.86
+24,USA,Chicago,Lost,TV Shows,15.86
+24,USA,Chicago,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",Classical,15.86
+24,USA,Chicago,Scholars Baroque Ensemble,Classical,15.86
+24,USA,Chicago,Michael Tilson Thomas & San Francisco Symphony,Classical,15.86
+4,Norway,Oslo,English Concert & Trevor Pinnock,Classical,15.86
+4,Norway,Oslo,Temple of the Dog,Alternative,15.86
+24,USA,Chicago,Chris Cornell,Alternative,15.86
+4,Norway,Oslo,Royal Philharmonic Orchestra & Sir Thomas Beecham,Classical,15.86
+24,USA,Chicago,Luciana Souza/Romero Lubambo,Latin,15.86
+4,Norway,Oslo,Eugene Ormandy,Classical,15.86
+4,Norway,Oslo,Habib Koité and Bamada,World,15.86
+24,USA,Chicago,Maurizio Pollini,Classical,15.86
+4,Norway,Oslo,Chicago Symphony Orchestra & Fritz Reiner,Classical,15.86
+4,Norway,Oslo,Audioslave,Alternative,15.86
+4,Norway,Oslo,Edo de Waart & San Francisco Symphony,Classical,15.86
+46,Ireland,Dublin,The Tea Party,Alternative & Punk,15.84
+53,United Kingdom,London,Led Zeppelin,Rock,15.84
+9,Denmark,Copenhagen,System Of A Down,Metal,15.84
+7,Austria,Vienne,The Who,Rock,15.84
+13,Brazil,Brasília,Metallica,Metal,15.84
+18,USA,New York,Eric Clapton,Blues,15.84
+21,USA,Reno,Green Day,Alternative & Punk,15.84
+1,Brazil,São José dos Campos,Kiss,Rock,15.84
+15,Canada,Vancouver,Iron Maiden,Metal,15.84
+12,Brazil,Rio de Janeiro,Men At Work,Rock,15.84
+52,United Kingdom,London,Metallica,Metal,15.84
+8,Belgium,Brussels,Smashing Pumpkins,Alternative & Punk,15.84
+54,United Kingdom,Edinburgh,Iron Maiden,Metal,15.84
+48,Netherlands,Amsterdam,Stevie Ray Vaughan & Double Trouble,Blues,15.84
+27,USA,Tucson,Tim Maia,Latin,15.84
+41,France,Lyon,Body Count,Alternative & Punk,15.84
+11,Brazil,São Paulo,Os Paralamas Do Sucesso,Latin,15.84
+58,India,Delhi,Gene Krupa,Jazz,15.84
+5,Czech Republic,Prague,U2,Pop,15.84
+37,Germany,Frankfurt,Djavan,Latin,15.84
+17,USA,Redmond,Guns N' Roses,Rock,15.84
+45,Hungary,Budapest,U2,Rock,15.84
+42,France,Bordeaux,Chico Buarque,Latin,15.84
+22,USA,Orlando,Caetano Veloso,Latin,15.84
+47,Italy,Rome,Titãs,Alternative & Punk,15.84
+39,France,Paris,Creedence Clearwater Revival,Rock,15.84
+4,Norway,Oslo,AC/DC,Rock,15.84
+38,Germany,Berlin,Faith No More,Alternative & Punk,15.84
+30,Canada,Ottawa,R.E.M.,Alternative & Punk,15.84
+31,Canada,Halifax,Os Paralamas Do Sucesso,Latin,15.84
+10,Brazil,São Paulo,R.E.M.,Rock,15.84
+32,Canada,Winnipeg,Metallica,Metal,15.84
+59,India,Bangalore,Creedence Clearwater Revival,Rock,15.84
+29,Canada,Toronto,Queen,Rock,15.84
+34,Portugal,Lisbon,Led Zeppelin,Rock,15.84
+25,USA,Madison,U2,Rock,15.84
+40,France,Paris,Queen,Rock,15.84
+14,Canada,Edmonton,Led Zeppelin,Rock,15.84
+28,USA,Salt Lake City,Soundgarden,Rock,15.84
+20,USA,Mountain View,Antônio Carlos Jobim,Latin,15.84
+37,Germany,Frankfurt,Heroes,Drama,14.91
+37,Germany,Frankfurt,Battlestar Galactica,TV Shows,14.91
+22,USA,Orlando,Audioslave,Rock,13.86
+42,France,Bordeaux,Antônio Carlos Jobim,Jazz,13.86
+3,Canada,Montréal,Black Sabbath,Metal,13.86
+23,USA,Boston,Billy Cobham,Jazz,13.86
+10,Brazil,São Paulo,Pink Floyd,Rock,13.86
+1,Brazil,São José dos Campos,Marcos Valle,Latin,13.86
+13,Brazil,Brasília,Marillion,Rock,13.86
+57,Chile,Santiago,Godsmack,Metal,13.86
+34,Portugal,Lisbon,Judas Priest,Metal,13.86
+8,Belgium,Brussels,The Police,Rock,13.86
+19,USA,Cupertino,Elis Regina,Latin,13.86
+34,Portugal,Lisbon,JET,Alternative & Punk,13.86
+41,France,Lyon,Queen,Rock,13.86
+19,USA,Cupertino,Dennis Chambers,Jazz,13.86
+57,Chile,Santiago,Foo Fighters,Rock,13.86
+42,France,Bordeaux,Apocalyptica,Metal,13.86
+3,Canada,Montréal,Audioslave,Alternative & Punk,13.86
+30,Canada,Ottawa,Queen,Rock,13.86
+54,United Kingdom,Edinburgh,João Suplicy,World,13.86
+12,Brazil,Rio de Janeiro,Os Paralamas Do Sucesso,Latin,13.86
+13,Brazil,Brasília,Men At Work,Rock,13.86
+55,Australia,Sidney,Iron Maiden,Blues,13.86
+32,Canada,Winnipeg,Mônica Marianno,World,13.86
+38,Germany,Berlin,Dennis Chambers,Jazz,13.86
+9,Denmark,Copenhagen,Red Hot Chili Peppers,Alternative & Punk,13.86
+37,Germany,Frankfurt,Gilberto Gil,Jazz,13.86
+12,Brazil,Rio de Janeiro,O Terço,Rock,13.86
+53,United Kingdom,London,Marillion,Rock,13.86
+3,Canada,Montréal,Antônio Carlos Jobim,Jazz,13.86
+14,Canada,Edmonton,Jamiroquai,Electronica/Dance,13.86
+56,Argentina,Buenos Aires,Faith No More,Alternative & Punk,13.86
+21,USA,Reno,Frank Zappa & Captain Beefheart,Rock,13.86
+31,Canada,Halifax,Motörhead,Metal,13.86
+33,Canada,Yellowknife,Legião Urbana,Latin,13.86
+41,France,Lyon,Cidade Negra,Reggae,13.86
+18,USA,New York,Dennis Chambers,Jazz,13.86
+1,Brazil,São José dos Campos,Frank Zappa & Captain Beefheart,Rock,13.86
+56,Argentina,Buenos Aires,Faith No More,Rock,13.86
+37,Germany,Frankfurt,Godsmack,Metal,13.86
+14,Canada,Edmonton,Joe Satriani,Rock,13.86
+22,USA,Orlando,Apocalyptica,Metal,13.86
+32,Canada,Winnipeg,Olodum,Latin,13.86
+10,Brazil,São Paulo,Pearl Jam,Alternative & Punk,13.86
+23,USA,Boston,BackBeat,Rock And Roll,13.86
+41,France,Lyon,Cláudio Zoli,Latin,13.86
+2,Germany,Stuttgart,Frank Zappa & Captain Beefheart,Rock,13.86
+2,Germany,Stuttgart,Various Artists,Soundtrack,13.86
+37,Germany,Frankfurt,Gilberto Gil,Latin,13.86
+17,USA,Redmond,Foo Fighters,Alternative & Punk,13.86
+12,Brazil,Rio de Janeiro,Mötley Crüe,Metal,13.86
+33,Canada,Yellowknife,Lenny Kravitz,Rock,13.86
+59,India,Bangalore,Various Artists,Latin,13.86
+56,Argentina,Buenos Aires,Gilberto Gil,Soundtrack,13.86
+14,Canada,Edmonton,Jamiroquai,R&B/Soul,13.86
+22,USA,Orlando,Aerosmith,Rock,13.86
+58,India,Delhi,Dennis Chambers,Jazz,13.86
+51,Sweden,Stockholm,Miles Davis,Jazz,13.86
+30,Canada,Ottawa,Lenny Kravitz,Reggae,13.86
+41,France,Lyon,Frank Zappa & Captain Beefheart,Rock,13.86
+20,USA,Mountain View,Santana,Rock,13.86
+47,Italy,Rome,The Clash,Alternative & Punk,13.86
+49,Poland,Warsaw,Spyro Gyra,Jazz,13.86
+22,USA,Orlando,Alice In Chains,Rock,13.86
+2,Germany,Stuttgart,Metallica,Metal,13.86
+22,USA,Orlando,Billy Cobham,Jazz,13.86
+42,France,Bordeaux,Audioslave,Alternative & Punk,13.86
+8,Belgium,Brussels,The Doors,Rock,13.86
+49,Poland,Warsaw,Rush,Rock,13.86
+40,France,Paris,Creedence Clearwater Revival,Rock,13.86
+9,Denmark,Copenhagen,Santana,Rock,13.86
+48,Netherlands,Amsterdam,Raul Seixas,Rock,13.86
+39,France,Paris,Santana,Rock,13.86
+14,Canada,Edmonton,João Suplicy,World,13.86
+32,Canada,Winnipeg,Motörhead,Metal,13.86
+11,Brazil,São Paulo,Lenny Kravitz,Reggae,13.86
+44,Finland,Helsinki,UB40,Reggae,13.86
+29,Canada,Toronto,Soundgarden,Rock,13.86
+59,India,Bangalore,Ed Motta,Latin,13.86
+17,USA,Redmond,Falamansa,Latin,13.86
+37,Germany,Frankfurt,Foo Fighters,Alternative & Punk,13.86
+39,France,Paris,Chico Buarque,Latin,13.86
+50,Spain,Madrid,Pearl Jam,Alternative & Punk,13.86
+59,India,Bangalore,Deep Purple,Rock,13.86
+40,France,Paris,Toquinho & Vinícius,Bossa Nova,13.86
+22,USA,Orlando,Audioslave,Alternative & Punk,13.86
+44,Finland,Helsinki,Velvet Revolver,Rock,13.86
+27,USA,Tucson,The Doors,Rock,13.86
+11,Brazil,São Paulo,R.E.M.,Rock,13.86
+48,Netherlands,Amsterdam,Rush,Rock,13.86
+41,France,Lyon,Led Zeppelin,Rock,13.86
+2,Germany,Stuttgart,Various Artists,Pop,13.86
+29,Canada,Toronto,Rush,Rock,13.86
+27,USA,Tucson,The Black Crowes,Blues,13.86
+1,Brazil,São José dos Campos,Cláudio Zoli,Latin,13.86
+42,France,Bordeaux,Body Count,Alternative & Punk,13.86
+21,USA,Reno,Various Artists,Soundtrack,13.86
+11,Brazil,São Paulo,Pink Floyd,Rock,13.86
+37,Germany,Frankfurt,Eric Clapton,Latin,13.86
+49,Poland,Warsaw,Stevie Ray Vaughan & Double Trouble,Blues,13.86
+3,Canada,Montréal,Billy Cobham,Jazz,13.86
+41,France,Lyon,Metallica,Metal,13.86
+20,USA,Mountain View,Os Mutantes,Alternative & Punk,13.86
+30,Canada,Ottawa,Paul D'Ianno,Rock,13.86
+54,United Kingdom,Edinburgh,Joe Satriani,Rock,13.86
+16,USA,Mountain View,Iron Maiden,Blues,13.86
+50,Spain,Madrid,Planet Hemp,Hip Hop/Rap,13.86
+42,France,Bordeaux,BackBeat,Rock And Roll,13.86
+15,Canada,Vancouver,Judas Priest,Metal,13.86
+48,Netherlands,Amsterdam,Lenny Kravitz,Rock,13.86
+40,France,Paris,Ed Motta,Latin,13.86
+54,United Kingdom,Edinburgh,Jorge Ben,Latin,13.86
+39,France,Paris,Deep Purple,Rock,13.86
+17,USA,Redmond,Gilberto Gil,Soundtrack,13.86
+51,Sweden,Stockholm,Mônica Marianno,World,13.86
+57,Chile,Santiago,Gilberto Gil,Soundtrack,13.86
+53,United Kingdom,London,Men At Work,Rock,13.86
+52,United Kingdom,London,Lenny Kravitz,Rock,13.86
+47,Italy,Rome,The Doors,Rock,13.86
+12,Brazil,Rio de Janeiro,Motörhead,Metal,13.86
+10,Brazil,São Paulo,Page & Plant,Rock,13.86
+59,India,Bangalore,Led Zeppelin,Rock,13.86
+14,Canada,Edmonton,Jamiroquai,Rock,13.86
+33,Canada,Yellowknife,Men At Work,Rock,13.86
+23,USA,Boston,Bruce Dickinson,Metal,13.86
+34,Portugal,Lisbon,Jota Quest,Latin,13.86
+34,Portugal,Lisbon,Joe Satriani,Rock,13.86
+1,Brazil,São José dos Campos,Led Zeppelin,Rock,13.86
+36,Germany,Berlin,Iron Maiden,Blues,13.86
+23,USA,Boston,Buddy Guy,Blues,13.86
+21,USA,Reno,Various Artists,Pop,13.86
+14,Canada,Edmonton,Jorge Ben,Latin,13.86
+30,Canada,Ottawa,Pink Floyd,Rock,13.86
+10,Brazil,São Paulo,Paul D'Ianno,Rock,13.86
+54,United Kingdom,Edinburgh,Led Zeppelin,Rock,13.86
+18,USA,New York,Def Leppard,Rock,13.86
+15,Canada,Vancouver,Joe Satriani,Rock,13.86
+35,Portugal,Porto,Iron Maiden,Blues,13.86
+56,Argentina,Buenos Aires,Foo Fighters,Alternative & Punk,13.86
+50,Spain,Madrid,Pink Floyd,Rock,13.86
+15,Canada,Vancouver,Jimi Hendrix,Rock,13.86
+59,India,Bangalore,Os Mutantes,Alternative & Punk,13.86
+52,United Kingdom,London,Marillion,Rock,13.86
+34,Portugal,Lisbon,Jamiroquai,Electronica/Dance,13.86
+49,Poland,Warsaw,Santana,Rock,13.86
+34,Portugal,Lisbon,Kiss,Rock,13.86
+39,France,Paris,David Coverdale,Rock,13.86
+42,France,Bordeaux,Billy Cobham,Jazz,13.86
+15,Canada,Vancouver,Jota Quest,Latin,13.86
+21,USA,Reno,Cláudio Zoli,Latin,13.86
+29,Canada,Toronto,Lenny Kravitz,Rock,13.86
+20,USA,Mountain View,Godsmack,Metal,11.88
+36,Germany,Berlin,Godsmack,Metal,11.88
+51,Sweden,Stockholm,Ozzy Osbourne,Rock,11.88
+33,Canada,Yellowknife,Kiss,Rock,11.88
+37,Germany,Frankfurt,Kiss,Rock,11.88
+40,France,Paris,Guns N' Roses,Rock,11.88
+24,USA,Chicago,Metallica,Metal,11.88
+8,Belgium,Brussels,AC/DC,Rock,11.88
+2,Germany,Stuttgart,Buddy Guy,Blues,11.88
+53,United Kingdom,London,R.E.M.,Alternative & Punk,11.88
+19,USA,Cupertino,Toquinho & Vinícius,Bossa Nova,11.88
+7,Austria,Vienne,Berliner Philharmoniker & Herbert Von Karajan,Classical,11.88
+16,USA,Mountain View,Gilberto Gil,Latin,11.88
+50,Spain,Madrid,O Terço,Rock,11.88
+34,Portugal,Lisbon,Raimundos,Alternative & Punk,11.88
+32,Canada,Winnipeg,Spyro Gyra,Jazz,11.88
+14,Canada,Edmonton,R.E.M. Feat. Kate Pearson,Alternative & Punk,11.88
+12,Brazil,Rio de Janeiro,Smashing Pumpkins,Alternative & Punk,11.88
+59,India,Bangalore,Iron Maiden,Rock,11.88
+32,Canada,Winnipeg,Stevie Ray Vaughan & Double Trouble,Blues,11.88
+52,United Kingdom,London,System Of A Down,Metal,11.88
+35,Portugal,Porto,Ozzy Osbourne,Rock,11.88
+27,USA,Tucson,Amy Winehouse,Pop,11.88
+30,Canada,Ottawa,U2,Rock,11.88
+45,Hungary,Budapest,Buddy Guy,Blues,11.88
+39,France,Paris,Iron Maiden,Metal,11.88
+41,France,Lyon,Eric Clapton,Blues,11.88
+17,USA,Redmond,Battlestar Galactica,TV Shows,10.91
+34,Portugal,Lisbon,Battlestar Galactica (Classic),Sci Fi & Fantasy,10.91
+17,USA,Redmond,Battlestar Galactica,Science Fiction,10.91
+34,Portugal,Lisbon,Scorpions,Rock,10.91
+17,USA,Redmond,Tim Maia,Latin,10.91
+34,Portugal,Lisbon,Aquaman,TV Shows,10.91
+15,Canada,Vancouver,Lost,Drama,9.91
+38,Germany,Berlin,Stone Temple Pilots,Rock,8.91
+41,France,Lyon,Paul D'Ianno,Rock,8.91
+31,Canada,Halifax,Deep Purple,Rock,8.91
+38,Germany,Berlin,The Clash,Alternative & Punk,8.91
+13,Brazil,Brasília,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Classical,8.91
+40,France,Paris,Rush,Rock,8.91
+11,Brazil,São Paulo,Os Mutantes,Alternative & Punk,8.91
+46,Ireland,Dublin,Iron Maiden,Rock,8.91
+38,Germany,Berlin,"Terry Bozzio, Tony Levin & Steve Stevens",Rock,8.91
+58,India,Delhi,"Terry Bozzio, Tony Levin & Steve Stevens",Rock,8.91
+41,France,Lyon,Ozzy Osbourne,Metal,8.91
+6,Czech Republic,Prague,Jimi Hendrix,Rock,8.91
+53,United Kingdom,London,Antônio Carlos Jobim,Jazz,8.91
+13,Brazil,Brasília,Amy Winehouse,Pop,8.91
+47,Italy,Rome,Faith No More,Rock,8.91
+36,Germany,Berlin,Velvet Revolver,Rock,8.91
+13,Brazil,Brasília,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Classical,8.91
+33,Canada,Yellowknife,Accept,Rock,8.91
+14,Canada,Edmonton,Audioslave,Rock,8.91
+13,Brazil,Brasília,Accept,Rock,8.91
+21,USA,Reno,Ozzy Osbourne,Rock,8.91
+44,Finland,Helsinki,Led Zeppelin,Rock,8.91
+45,Hungary,Budapest,Iron Maiden,Rock,8.91
+33,Canada,Yellowknife,Eugene Ormandy,Classical,8.91
+9,Denmark,Copenhagen,Various Artists,Latin,8.91
+23,USA,Boston,Metallica,Metal,8.91
+18,USA,New York,The Black Crowes,Blues,8.91
+9,Denmark,Copenhagen,Cássia Eller,Latin,8.91
+23,USA,Boston,Motörhead,Metal,8.91
+48,Netherlands,Amsterdam,Faith No More,Alternative & Punk,8.91
+27,USA,Tucson,Iron Maiden,Heavy Metal,8.91
+19,USA,Cupertino,The Doors,Rock,8.91
+18,USA,New York,Stevie Ray Vaughan & Double Trouble,Blues,8.91
+13,Brazil,Brasília,Göteborgs Symfoniker & Neeme Järvi,Classical,8.91
+13,Brazil,Brasília,Emerson String Quartet,Classical,8.91
+1,Brazil,São José dos Campos,Ozzy Osbourne,Rock,8.91
+45,Hungary,Budapest,Jamiroquai,Electronica/Dance,8.91
+31,Canada,Halifax,Led Zeppelin,Rock,8.91
+59,India,Bangalore,R.E.M. Feat. Kate Pearson,Alternative & Punk,8.91
+18,USA,New York,"Terry Bozzio, Tony Levin & Steve Stevens",Rock,8.91
+25,USA,Madison,Jamiroquai,Rock,8.91
+20,USA,Mountain View,Raimundos,Alternative & Punk,8.91
+11,Brazil,São Paulo,Green Day,Alternative & Punk,8.91
+16,USA,Mountain View,U2,Rock,8.91
+53,United Kingdom,London,AC/DC,Rock,8.91
+20,USA,Mountain View,The Office,TV Shows,7.96
+1,Brazil,São José dos Campos,Battlestar Galactica (Classic),Sci Fi & Fantasy,7.96
+42,France,Bordeaux,Battlestar Galactica (Classic),Sci Fi & Fantasy,7.96
+22,USA,Orlando,The Office,TV Shows,7.96
+3,Canada,Montréal,Michael Tilson Thomas & San Francisco Symphony,Classical,7.92
+57,Chile,Santiago,Eric Clapton,Blues,7.92
+23,USA,Boston,Amy Winehouse,R&B/Soul,7.92
+49,Poland,Warsaw,R.E.M. Feat. Kate Pearson,Alternative & Punk,7.92
+57,Chile,Santiago,Elis Regina,Latin,7.92
+56,Argentina,Buenos Aires,Green Day,Alternative & Punk,7.92
+56,Argentina,Buenos Aires,Guns N' Roses,Rock,7.92
+23,USA,Boston,Amy Winehouse,Pop,7.92
+51,Sweden,Stockholm,Battlestar Galactica,TV Shows,6.94
+44,Finland,Helsinki,Queen,Rock,6.93
+47,Italy,Rome,Accept,Rock,5.94
+27,USA,Tucson,Martin Roscoe,Classical,5.94
+7,Austria,Vienne,Amy Winehouse,Pop,5.94
+53,United Kingdom,London,R.E.M. Feat. Kate Pearson,Alternative & Punk,5.94
+4,Norway,Oslo,Creedence Clearwater Revival,Rock,5.94
+27,USA,Tucson,Philharmonia Orchestra & Sir Neville Marriner,Classical,5.94
+27,USA,Tucson,Adrian Leaper & Doreen de Feis,Classical,5.94
+32,Canada,Winnipeg,Soundgarden,Rock,5.94
+50,Spain,Madrid,Tim Maia,Latin,5.94
+31,Canada,Halifax,Tim Maia,Latin,5.94
+40,France,Paris,Godsmack,Metal,5.94
+47,Italy,Rome,Michele Campanella,Classical,5.94
+26,USA,Fort Worth,Caetano Veloso,Latin,5.94
+6,Czech Republic,Prague,Buddy Guy,Blues,5.94
+33,Canada,Yellowknife,R.E.M. Feat. Kate Pearson,Alternative & Punk,5.94
+33,Canada,Yellowknife,R.E.M.,Alternative & Punk,5.94
+32,Canada,Winnipeg,Stone Temple Pilots,Rock,5.94
+45,Hungary,Budapest,Body Count,Alternative & Punk,5.94
+3,Canada,Montréal,Various Artists,Latin,5.94
+22,USA,Orlando,Eric Clapton,Blues,5.94
+30,Canada,Ottawa,Van Halen,Rock,5.94
+41,France,Lyon,Djavan,Latin,5.94
+3,Canada,Montréal,Gene Krupa,Jazz,5.94
+47,Italy,Rome,Emerson String Quartet,Classical,5.94
+27,USA,Tucson,Kent Nagano and Orchestre de l'Opéra de Lyon,Classical,5.94
+35,Portugal,Porto,Ozzy Osbourne,Metal,5.94
+13,Brazil,Brasília,"Terry Bozzio, Tony Levin & Steve Stevens",Rock,5.94
+52,United Kingdom,London,"Terry Bozzio, Tony Levin & Steve Stevens",Rock,5.94
+21,USA,Reno,U2,Rock,4.95
+3,Canada,Montréal,Aquaman,TV Shows,3.98
+3,Canada,Montréal,Lost,Drama,3.98
+27,USA,Tucson,Os Paralamas Do Sucesso,Latin,3.96
+9,Denmark,Copenhagen,Os Paralamas Do Sucesso,Latin,3.96
+33,Canada,Yellowknife,Judas Priest,Metal,3.96
+7,Austria,Vienne,Olodum,Latin,3.96
+23,USA,Boston,Tim Maia,Latin,3.96
+15,Canada,Vancouver,Guns N' Roses,Rock,3.96
+51,Sweden,Stockholm,Iron Maiden,Metal,3.96
+34,Portugal,Lisbon,Faith No More,Alternative & Punk,3.96
+12,Brazil,Rio de Janeiro,Led Zeppelin,Rock,3.96
+44,Finland,Helsinki,The Tea Party,Alternative & Punk,3.96
+3,Canada,Montréal,Antal Doráti & London Symphony Orchestra,Classical,3.96
+55,Australia,Sidney,Elis Regina,Latin,3.96
+32,Canada,Winnipeg,Eric Clapton,Latin,3.96
+49,Poland,Warsaw,Queen,Rock,3.96
+6,Czech Republic,Prague,Smashing Pumpkins,Alternative & Punk,3.96
+17,USA,Redmond,Toquinho & Vinícius,Bossa Nova,3.96
+48,Netherlands,Amsterdam,Metallica,Metal,3.96
+25,USA,Madison,Tim Maia,Latin,3.96
+6,Czech Republic,Prague,R.E.M.,Rock,3.96
+45,Hungary,Budapest,Queen,Rock,3.96
+29,Canada,Toronto,Judas Priest,Metal,3.96
+58,India,Delhi,Kiss,Rock,3.96
+52,United Kingdom,London,Iron Maiden,Metal,3.96
+3,Canada,Montréal,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",Classical,3.96
+33,Canada,Yellowknife,Iron Maiden,Metal,3.96
+43,France,Dijon,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Classical,3.96
+36,Germany,Berlin,Faith No More,Alternative & Punk,3.96
+35,Portugal,Porto,Various Artists,Latin,3.96
+54,United Kingdom,Edinburgh,Gene Krupa,Jazz,3.96
+51,Sweden,Stockholm,Ozzy Osbourne,Metal,3.96
+56,Argentina,Buenos Aires,Kiss,Rock,3.96
+24,USA,Chicago,U2,Rock,3.96
+52,United Kingdom,London,Green Day,Alternative & Punk,3.96
+38,Germany,Berlin,Chico Buarque,Latin,3.96
+2,Germany,Stuttgart,Accept,Rock,3.96
+49,Poland,Warsaw,R.E.M.,Alternative & Punk,3.96
+57,Chile,Santiago,Bruce Dickinson,Metal,3.96
+43,France,Dijon,U2,Rock,3.96
+57,Chile,Santiago,Creedence Clearwater Revival,Rock,3.96
+7,Austria,Vienne,System Of A Down,Metal,3.96
+3,Canada,Montréal,The Who,Rock,3.96
+16,USA,Mountain View,Gilberto Gil,Jazz,3.96
+35,Portugal,Porto,Djavan,Latin,3.96
+46,Ireland,Dublin,O Terço,Rock,3.96
+15,Canada,Vancouver,Toquinho & Vinícius,Bossa Nova,3.96
+9,Denmark,Copenhagen,Metallica,Metal,3.96
+42,France,Bordeaux,The Tea Party,Alternative & Punk,3.96
+45,Hungary,Budapest,Titãs,Alternative & Punk,3.96
+40,France,Paris,Chico Buarque,Latin,3.96
+2,Germany,Stuttgart,Bruce Dickinson,Metal,3.96
+19,USA,Cupertino,Amy Winehouse,R&B/Soul,3.96
+43,France,Dijon,The King's Singers,Classical,3.96
+53,United Kingdom,London,Elis Regina,Latin,3.96
+28,USA,Salt Lake City,Metallica,Metal,3.96
+23,USA,Boston,U2,Rock,3.96
+37,Germany,Frankfurt,Creedence Clearwater Revival,Rock,3.96
+14,Canada,Edmonton,Gilberto Gil,Latin,3.96
+2,Germany,Stuttgart,U2,Rock,3.96
+29,Canada,Toronto,Os Paralamas Do Sucesso,Latin,3.96
+13,Brazil,Brasília,Guns N' Roses,Rock,3.96
+43,France,Dijon,Titãs,Alternative & Punk,3.96
+43,France,Dijon,"Roger Norrington, London Classical Players",Classical,3.96
+25,USA,Madison,Planet Hemp,Hip Hop/Rap,3.96
+12,Brazil,Rio de Janeiro,Gilberto Gil,Latin,3.96
+18,USA,New York,Antônio Carlos Jobim,Latin,3.96
+18,USA,New York,Caetano Veloso,Latin,3.96
+19,USA,Cupertino,Various Artists,Latin,3.96
+30,Canada,Ottawa,Led Zeppelin,Rock,3.96
+49,Poland,Warsaw,Os Paralamas Do Sucesso,Latin,3.96
+43,France,Dijon,Julian Bream,Classical,3.96
+50,Spain,Madrid,Olodum,Latin,3.96
+10,Brazil,São Paulo,Led Zeppelin,Rock,3.96
+28,USA,Salt Lake City,R.E.M.,Alternative & Punk,3.96
+51,Sweden,Stockholm,Led Zeppelin,Rock,3.96
+4,Norway,Oslo,U2,Rock,3.96
+36,Germany,Berlin,Eric Clapton,Latin,3.96
+31,Canada,Halifax,Iron Maiden,Rock,3.96
+21,USA,Reno,Amy Winehouse,R&B/Soul,3.96
+37,Germany,Frankfurt,Black Sabbath,Metal,3.96
+4,Norway,Oslo,Smashing Pumpkins,Alternative & Punk,3.96
+14,Canada,Edmonton,Eric Clapton,Blues,3.96
+8,Belgium,Brussels,R.E.M.,Rock,3.96
+5,Czech Republic,Prague,Stone Temple Pilots,Rock,3.96
+44,Finland,Helsinki,Spyro Gyra,Jazz,3.96
+54,United Kingdom,Edinburgh,Green Day,Alternative & Punk,3.96
+56,Argentina,Buenos Aires,Gene Krupa,Jazz,3.96
+47,Italy,Rome,Os Paralamas Do Sucesso,Latin,3.96
+22,USA,Orlando,U2,Rock,3.96
+59,India,Bangalore,Bruce Dickinson,Metal,3.96
+31,Canada,Halifax,Judas Priest,Metal,3.96
+16,USA,Mountain View,Eric Clapton,Blues,3.96
+8,Belgium,Brussels,Marvin Gaye,R&B/Soul,3.96
+30,Canada,Ottawa,Metallica,Metal,3.96
+16,USA,Mountain View,Antônio Carlos Jobim,Latin,3.96
+50,Spain,Madrid,Metallica,Metal,3.96
+50,Spain,Madrid,Iron Maiden,Rock,3.96
+20,USA,Mountain View,Caetano Veloso,Latin,3.96
+41,France,Lyon,U2,Rock,3.96
+32,Canada,Winnipeg,Led Zeppelin,Rock,3.96
+11,Brazil,São Paulo,Iron Maiden,Metal,3.96
+26,USA,Fort Worth,Soundgarden,Rock,3.96
+34,Portugal,Lisbon,Eric Clapton,Latin,3.96
+47,Italy,Rome,Queen,Rock,3.96
+5,Czech Republic,Prague,The Who,Rock,3.96
+49,Poland,Warsaw,Led Zeppelin,Rock,3.96
+13,Brazil,Brasília,Iron Maiden,Metal,3.96
+26,USA,Fort Worth,R.E.M.,Alternative & Punk,3.96
+38,Germany,Berlin,Queen,Rock,3.96
+55,Australia,Sidney,Creedence Clearwater Revival,Rock,3.96
+17,USA,Redmond,Spyro Gyra,Jazz,3.96
+48,Netherlands,Amsterdam,O Terço,Rock,3.96
+33,Canada,Yellowknife,Djavan,Latin,3.96
+11,Brazil,São Paulo,Metallica,Metal,3.96
+40,France,Paris,Lost,Drama,2.98
+40,France,Paris,Dread Zeppelin,Rock,2.98
+39,France,Paris,Heroes,Drama,1.99
+59,India,Bangalore,Battlestar Galactica (Classic),Sci Fi & Fantasy,1.99
+19,USA,Cupertino,The Office,TV Shows,1.99
+58,India,Delhi,The Office,TV Shows,1.99
+53,United Kingdom,London,Iron Maiden,Rock,1.98
+39,France,Paris,Otto Klemperer & Philharmonia Orchestra,Classical,1.98
+58,India,Delhi,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",Classical,1.98
+46,Ireland,Dublin,Spyro Gyra,Jazz,1.98
+1,Brazil,São José dos Campos,Academy of St. Martin in the Fields & Sir Neville Marriner,Classical,1.98
+41,France,Lyon,The 12 Cellists of The Berlin Philharmonic,Classical,1.98
+10,Brazil,São Paulo,Men At Work,Rock,1.98
+10,Brazil,São Paulo,Marvin Gaye,R&B/Soul,1.98
+53,United Kingdom,London,Iron Maiden,Metal,1.98
+46,Ireland,Dublin,Stevie Ray Vaughan & Double Trouble,Blues,1.98
+24,USA,Chicago,Soundgarden,Rock,1.98
+1,Brazil,São José dos Campos,Berliner Philharmoniker & Hans Rosbaud,Classical,1.98
+19,USA,Cupertino,Spyro Gyra,Jazz,1.98
+19,USA,Cupertino,Green Day,Alternative & Punk,1.98
+39,France,Paris,Body Count,Alternative & Punk,1.98
+24,USA,Chicago,Smashing Pumpkins,Alternative & Punk,1.98
+27,USA,Tucson,Queen,Rock,1.98
+39,France,Paris,Black Sabbath,Metal,1.98
+27,USA,Tucson,Planet Hemp,Hip Hop/Rap,1.98
+41,France,Lyon,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Classical,1.98
+39,France,Paris,Yehudi Menuhin,Classical,1.98
+58,India,Delhi,Orchestra of The Age of Enlightenment,Classical,1.98
+3,Canada,Montréal,Smashing Pumpkins,Alternative & Punk,0.99
+42,France,Bordeaux,Titãs,Alternative & Punk,0.99
+8,Belgium,Brussels,Metallica,Metal,0.99
+56,Argentina,Buenos Aires,Bruce Dickinson,Metal,0.99
+47,Italy,Rome,Metallica,Metal,0.99
+55,Australia,Sidney,Kiss,Rock,0.99
+17,USA,Redmond,Caetano Veloso,Latin,0.99
+25,USA,Madison,R.E.M.,Alternative & Punk,0.99
+26,USA,Fort Worth,Os Paralamas Do Sucesso,Latin,0.99
+41,France,Lyon,The Tea Party,Alternative & Punk,0.99
+20,USA,Mountain View,U2,Rock,0.99
+52,United Kingdom,London,Elis Regina,Latin,0.99
+36,Germany,Berlin,Black Sabbath,Metal,0.99
+10,Brazil,São Paulo,Iron Maiden,Metal,0.99
+30,Canada,Ottawa,Iron Maiden,Rock,0.99
+35,Portugal,Porto,Metallica,Metal,0.99
+57,Chile,Santiago,Chicago Symphony Orchestra & Fritz Reiner,Classical,0.99
+51,Sweden,Stockholm,Green Day,Alternative & Punk,0.99
+38,Germany,Berlin,Calexico,Alternative,0.99
+22,USA,Orlando,Tim Maia,Latin,0.99
+2,Germany,Stuttgart,The Who,Rock,0.99
+11,Brazil,São Paulo,Gilberto Gil,Latin,0.99
+43,France,Dijon,Spyro Gyra,Jazz,0.99
+37,Germany,Frankfurt,Chico Buarque,Latin,0.99
+13,Brazil,Brasília,Eric Clapton,Blues,0.99
+34,Portugal,Lisbon,Various Artists,Latin,0.99
+15,Canada,Vancouver,Antônio Carlos Jobim,Latin,0.99
+7,Austria,Vienne,Marvin Gaye,R&B/Soul,0.99
+40,France,Paris,U2,Rock,0.99
+1,Brazil,São José dos Campos,U2,Rock,0.99
+32,Canada,Winnipeg,Djavan,Latin,0.99
+5,Czech Republic,Prague,R.E.M.,Alternative & Punk,0.99
+48,Netherlands,Amsterdam,Kiss,Rock,0.99
+16,USA,Mountain View,Spyro Gyra,Jazz,0.99
+54,United Kingdom,Edinburgh,Creedence Clearwater Revival,Rock,0.99
+9,Denmark,Copenhagen,Led Zeppelin,Rock,0.99
+29,Canada,Toronto,Led Zeppelin,Rock,0.99
+24,USA,Chicago,Planet Hemp,Hip Hop/Rap,0.99
+49,Poland,Warsaw,Iron Maiden,Rock,0.99
+33,Canada,Yellowknife,Faith No More,Alternative & Punk,0.99
+23,USA,Boston,Smashing Pumpkins,Alternative & Punk,0.99
+27,USA,Tucson,Metallica,Metal,0.99
+6,Czech Republic,Prague,Olodum,Latin,0.99
+46,Ireland,Dublin,Os Paralamas Do Sucesso,Latin,0.99
+53,United Kingdom,London,Gene Krupa,Jazz,0.99
+14,Canada,Edmonton,Toquinho & Vinícius,Bossa Nova,0.99
+18,USA,New York,Amy Winehouse,R&B/Soul,0.99
+45,Hungary,Budapest,O Terço,Rock,0.99
+50,Spain,Madrid,Iron Maiden,Metal,0.99
+28,USA,Salt Lake City,Judas Priest,Metal,0.99
+31,Canada,Halifax,Eric Clapton,Latin,0.99
+4,Norway,Oslo,Stone Temple Pilots,Rock,0.99
+12,Brazil,Rio de Janeiro,Guns N' Roses,Rock,0.99
